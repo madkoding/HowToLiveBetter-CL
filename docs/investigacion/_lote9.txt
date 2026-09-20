@@ -1,0 +1,11 @@
+# nombre<TAB>url
+calendario2026	https://saludresponde.minsal.cl/wp-content/uploads/2025/08/CALENDARIO-INMUNIZACIONES-2026.pdf
+calendario2026_pcv20	https://saludresponde.minsal.cl/wp-content/uploads/2026/09/CALENDARIO-INMUNIZACIONES-2026-pcv20.pdf
+sr_calendarios	https://saludresponde.minsal.cl/calendarios-de-vacunacion/
+minsal_cancer	https://www.minsal.cl/programa-nacional-del-cancer
+minsal_emp2	https://www.minsal.cl/examen-medicina-preventiva
+superdesalud_ges_oficial	https://www.superdesalud.gob.cl/orientacion-en-salud/garantias-explicitas-en-salud-ges/
+ca_vih2	https://www.chileatiende.gob.cl/fichas/1211-vih-sida
+ca_urgencia	https://www.chileatiende.gob.cl/fichas/1106-ley-de-urgencia
+ca_interrupcion	https://www.chileatiende.gob.cl/fichas/50394-interrupcion-voluntaria-del-embarazo-en-las-tres-causales
+ca_compin	https://www.chileatiende.gob.cl/fichas/53051-licencia-medica-afiliados-a-isapre

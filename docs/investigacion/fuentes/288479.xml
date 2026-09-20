@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?><Norma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.leychile.cl/esquemas" xsi:schemaLocation="http://www.leychile.cl/esquemas http://www.leychile.cl/esquemas/EsquemaIntercambioNorma-v1-0.xsd" normaId="288479" esTratado="no tratado" fechaVersion="2009-07-01" SchemaVersion="1.0" derogado="no derogado">
+  <Identificador fechaPromulgacion="2009-03-25" fechaPublicacion="2009-04-01">
+    <TiposNumeros>
+      <TipoNumero>
+        <Tipo>Ley</Tipo>
+        <Numero>20338</Numero>
+      </TipoNumero>
+    </TiposNumeros>
+    <Organismos>
+      <Organismo>MINISTERIO DEL TRABAJO Y PREVISI&#211;N SOCIAL</Organismo>
+      <Organismo>SUBSECRETAR&#205;A DEL TRABAJO</Organismo>
+    </Organismos>
+  </Identificador>
+  <Metadatos>
+    <TituloNorma>CREA EL SUBSIDIO AL EMPLEO</TituloNorma>
+    <Materias>
+      <Materia>Empleos </Materia>
+      <Materia>Subsidio al Empleo </Materia>
+      <Materia>Ley no. 20.338</Materia>
+    </Materias>
+    
+    
+    <IdentificacionFuente>Diario Oficial</IdentificacionFuente>
+    <NumeroFuente>39327</NumeroFuente>
+  </Metadatos>
+  <Encabezado fechaVersion="2009-07-01" derogado="no derogado">
+    <Texto>
+LEY N&#218;M. 20.338
+
+CREA EL SUBSIDIO AL EMPLEO
+
+     Teniendo presente que el H. Congreso Nacional ha dado
+su aprobaci&#243;n al siguiente
+
+     Proyecto de ley:</Texto>
+  </Encabezado>
+  <EstructurasFuncionales>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468636">
+      <Texto>
+     Art&#237;culo 1&#186;.- Establ&#233;cese un subsidio al empleo de
+los trabajadores dependientes regidos por el C&#243;digo del
+Trabajo y a los trabajadores independientes, el que ser&#225; de
+cargo fiscal. El subsidio al empleo beneficiar&#225; a dichos
+trabajadores y a los empleadores, de conformidad a lo
+dispuesto en la presente ley.
+
+     Tendr&#225;n derecho al subsidio al empleo aquellos
+empleadores respecto de sus trabajadores dependientes
+se&#241;alados en el inciso anterior que cumplan con los
+siguientes requisitos:
+
+     a) Que el trabajador tenga entre 18 y menos de 25 a&#241;os
+de edad;
+
+     b) Que el trabajador integre un grupo familiar
+perteneciente al 40% m&#225;s pobre de la poblaci&#243;n de Chile
+conforme a lo establecido en el inciso final del art&#237;culo
+10 de esta ley, y
+
+     c) Que las remuneraciones brutas mensuales del
+trabajador sean inferiores a $360.000.
+
+     Adem&#225;s, el empleador para tener derecho al subsidio al
+empleo deber&#225; haber pagado las cotizaciones de seguridad
+social correspondientes al trabajador que origin&#243; el
+subsidio, dentro del plazo legal establecido para ello.
+
+     Los trabajadores dependientes se&#241;alados en el inciso
+primero tendr&#225;n derecho al subsidio siempre que re&#250;nan los
+requisitos establecidos en las letras a) y b) del inciso
+segundo, y que sus rentas brutas sean inferiores a
+$4.320.000 en el a&#241;o calendario en que se devenga el
+subsidio.
+
+     Los trabajadores independientes tendr&#225;n derecho al
+subsidio al empleo siempre que re&#250;nan los requisitos
+se&#241;alados en las letras a) y b) del inciso segundo;
+acrediten rentas brutas por un monto inferior al se&#241;alado
+en el inciso cuarto en el a&#241;o calendario en que se devenga
+dicho subsidio; acrediten rentas del N&#176; 2&#176; del art&#237;culo
+42 de la Ley sobre Impuesto a la Renta en la misma
+oportunidad se&#241;alada anteriormente, y se encuentren al d&#237;a
+en el pago de sus cotizaciones obligatorias de pensiones y
+salud de dicho a&#241;o calendario.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">1 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468637">
+      <Texto>
+     Art&#237;culo 2&#186;.- Para los efectos de este subsidio se
+entender&#225; por:
+
+     a) Rentas brutas: las rentas definidas para efecto de
+la aplicaci&#243;n del impuesto a la renta sumadas las
+cotizaciones previsionales y sin deducci&#243;n alguna.
+     b) Rentas del trabajo: aquellas definidas en el
+art&#237;culo 41 del C&#243;digo del Trabajo y aquellos ingresos
+se&#241;alados en el N&#176;2&#176; del art&#237;culo 42 de la Ley sobre
+Impuesto a la Renta.
+     c) A&#241;o calendario: el per&#237;odo de doce meses que
+termina el 31 de diciembre.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">2 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468638">
+      <Texto>
+     Art&#237;culo 3&#186;.- El subsidio al empleo se pagar&#225;
+mensualmente al empleador y a los trabajadores dependientes
+que opten por dicha forma de pago.
+
+     Los pagos mensuales del subsidio ascender&#225;n a las
+cantidades que se indican a continuaci&#243;n, correspondiendo
+al trabajador se&#241;alado en el inciso anterior dos tercios de
+dicho subsidio y al empleador un tercio de &#233;ste:
+
+     a) Cuando las remuneraciones brutas mensuales del
+trabajador sean iguales o inferiores a $160.000, el monto
+mensual del subsidio ascender&#225; a un 30% de las
+remuneraciones mensuales sobre las cuales se hubieren
+realizado cotizaciones obligatorias de pensiones y de salud.
+     b) Cuando las remuneraciones brutas mensuales del
+trabajador sean superiores a $160.000 e inferiores o iguales
+a $200.000, el monto mensual del subsidio ascender&#225; al 30%
+de $160.000.
+     c) Cuando las remuneraciones brutas mensuales del
+trabajador sean superiores a $200.000 e inferiores a
+$360.000, el monto mensual del subsidio ser&#225; la cantidad
+que resulte de restar al 30% de $160.000 el 30% de la
+diferencia entre la remuneraci&#243;n bruta mensual y $200.000.
+
+     Si el trabajador dependiente percibiere
+simult&#225;neamente remuneraciones de dos o m&#225;s empleadores
+s&#243;lo tendr&#225; derecho a un subsidio al empleo. En este caso,
+todas las remuneraciones se sumar&#225;n para los efectos
+se&#241;alados en el inciso anterior, y a cada empleador le
+corresponder&#225; proporcionalmente el subsidio, en atenci&#243;n a
+la proporci&#243;n que representen las remuneraciones pagadas
+por &#233;l, sobre el conjunto de remuneraciones percibidas por
+el trabajador en el mes respectivo.
+
+     Los trabajadores que revistan a la vez, las calidades
+de trabajador dependiente e independiente de acuerdo al N&#176;
+2&#176; del art&#237;culo 42 de la Ley de Impuesto a la Renta,
+podr&#225;n optar a pagos mensuales del subsidio en relaci&#243;n a
+las remuneraciones que perciban en su condici&#243;n de
+trabajador dependiente.
+
+     Los pagos mensuales del subsidio tendr&#225;n el car&#225;cter
+de provisionales para el trabajador y ascender&#225;n al 75% del
+monto que le corresponda de conformidad al inciso segundo.
+Estos pagos quedar&#225;n afectos a la reliquidaci&#243;n del
+art&#237;culo 5&#176;.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">3 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468639">
+      <Texto>
+     Art&#237;culo 4&#186;.- El subsidio al empleo correspondiente
+al trabajador ascender&#225; anualmente a las cantidades
+siguientes:
+
+     a) Respecto de los trabajadores cuyas rentas del
+trabajo brutas durante el a&#241;o calendario, sean iguales o
+inferiores a $1.920.000, el monto anual del subsidio para
+dichos trabajadores ascender&#225; a un 20% de la suma de las
+remuneraciones imponibles y rentas imponibles del art&#237;culo
+90 del decreto ley N&#176;3.500, de 1980, de ese a&#241;o
+calendario. Con todo, el resultado de la referida suma no
+podr&#225; exceder el l&#237;mite m&#225;ximo anual establecido en el
+art&#237;culo 90 antes se&#241;alado.
+     b) Respecto de los trabajadores cuyas rentas del
+trabajo brutas durante el a&#241;o calendario, sean superiores a
+$1.920.000, e inferiores o iguales a $2.400.000, el monto
+anual del subsidio para dichos trabajadores ascender&#225; al
+20% de $1.920.000.
+     c) Respecto de los trabajadores cuyas rentas del
+trabajo brutas durante el a&#241;o calendario, sean superiores a
+$2.400.000 e inferiores a $4.320.000, el monto anual del
+subsidio para el trabajador ascender&#225; al 20% de $1.920.000
+menos el 20% de la diferencia que resulte entre la suma de
+las remuneraciones imponibles y rentas imponibles del
+art&#237;culo 90 del decreto ley N&#176; 3.500, de 1980, anuales, y
+$2.400.000.
+
+     Lo dispuesto en este art&#237;culo se aplicar&#225; para el
+c&#225;lculo del subsidio de los trabajadores independientes del
+N&#176; 2&#176; del art&#237;culo 42 de la Ley de Impuesto a la Renta;
+de los trabajadores dependientes que soliciten expresamente
+el pago anual; de los trabajadores dependientes que no
+accedan al subsidio al empleo por percibir remuneraciones
+mensuales que excedan lo dispuesto en la letra c) del
+art&#237;culo anterior, pero que en el a&#241;o calendario
+respectivo se encuentren en alguno de los tramos del inciso
+anterior; de los trabajadores que revistan a la vez, las
+calidades de trabajador dependiente e independiente del N&#176;
+2&#176; del art&#237;culo 42 de la Ley de Impuesto a la Renta, y de
+los trabajadores dependientes que hubieren percibido pagos
+provisionales mensuales del art&#237;culo anterior para la
+reliquidaci&#243;n del subsidio de conformidad al art&#237;culo
+siguiente. En cualquiera de estas situaciones el trabajador
+s&#243;lo tendr&#225; derecho a un subsidio al empleo.
+
+     El subsidio al empleo determinado de conformidad a este
+art&#237;culo, considerar&#225; las rentas del trabajo percibidas en
+el a&#241;o calendario inmediatamente anterior a aquel en que se
+pague el subsidio.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">4 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468640">
+      <Texto>
+     Art&#237;culo 5&#186;.- Corresponder&#225; reliquidar el subsidio
+al empleo respecto de los trabajadores dependientes que,
+durante un a&#241;o calendario o en una parte de &#233;l, hayan
+obtenido pagos provisionales mensuales del mencionado
+subsidio de conformidad al art&#237;culo 3&#186; de esta ley. La
+reliquidaci&#243;n se practicar&#225; en el a&#241;o calendario
+inmediatamente siguiente a aqu&#233;l en que se realizaron los
+referidos pagos mensuales.
+
+     Para la reliquidaci&#243;n del subsidio al empleo, se
+considerar&#225; la diferencia que resulte entre el subsidio
+calculado de acuerdo al art&#237;culo anterior y la suma de los
+pagos provisionales mensuales del subsidio realizado al
+trabajador dependiente durante el a&#241;o calendario
+inmediatamente anterior a la reliquidaci&#243;n. El saldo que
+resultare a favor del trabajador le ser&#225; pagado en la misma
+oportunidad en que se pague el subsidio determinado de
+acuerdo al art&#237;culo anterior. El trabajador que percibiere
+una cantidad mayor a la que le corresponda por concepto de
+subsidio, deber&#225; reintegrar la parte percibida en exceso,
+debidamente reajustada seg&#250;n la variaci&#243;n experimentada
+por el &#237;ndice de precios al consumidor en el per&#237;odo
+comprendido entre el mes anterior a la reliquidaci&#243;n del
+subsidio y el &#250;ltimo d&#237;a del mes anterior a la fecha de
+devoluci&#243;n de las sumas pagadas en exceso.
+
+     Si el trabajador no hubiere reintegrado las cantidades
+de subsidio percibidas en exceso, dichas cantidades se
+descontar&#225;n de los futuros subsidios al empleo que
+correspondan al trabajador. En el caso de no ser posible lo
+anterior o existieren a&#250;n saldos insolutos, la Tesorer&#237;a
+General de la Rep&#250;blica podr&#225; retener de la devoluci&#243;n de
+impuesto a la renta, y de cualquiera otra devoluci&#243;n o
+cr&#233;dito fiscal a favor del trabajador, las sumas que se
+adeuden por concepto de subsidios de la presente ley
+percibidos en exceso.
+
+     Los dineros que por este concepto retenga la Tesorer&#237;a
+General de la Rep&#250;blica deber&#225;n ser ingresados a rentas
+generales de la naci&#243;n.
+
+     Si el monto de la devoluci&#243;n de impuesto a la renta y
+de cualquier otra devoluci&#243;n o cr&#233;dito fiscal, fuere
+inferior a la cantidad adeudada, subsistir&#225; la obligaci&#243;n
+de quien haya percibido en exceso este subsidio, por el
+saldo insoluto.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">5 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468641">
+      <Texto>
+     Art&#237;culo 6&#186;.- En aquellos meses en que el empleador
+pierda el derecho al subsidio por haber enterado las
+cotizaciones de seguridad social fuera del plazo legal, el
+respectivo trabajador mantendr&#225; el derecho a devengar el
+subsidio al empleo correspondiente a dichos meses pero s&#243;lo
+lo percibir&#225; cuando se encuentren pagadas las cotizaciones
+obligatorias de pensiones y salud.
+
+     El pago fuera de plazo de las cotizaciones
+previsionales no dar&#225; derecho al empleador a reclamar
+retroactivamente el subsidio al empleo que le corresponda.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">6 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468642">
+      <Texto>
+     Art&#237;culo 7&#186;.- Los trabajadores independientes y
+aquellos dependientes y sus respectivos empleadores,
+tendr&#225;n derecho a un plazo adicional para acceder al
+subsidio, siempre que dichos trabajadores hayan cursado
+estudios regulares, entre los 18 y antes de los 25 a&#241;os de
+edad, en una Instituci&#243;n de Educaci&#243;n Superior del Estado
+o reconocida por &#233;ste y que haya sido acreditada de
+conformidad con el sistema de aseguramiento de calidad que
+establece la ley N&#176;20.129. Adem&#225;s, el trabajador deber&#225;
+reunir los requisitos para acceder al subsidio al empleo con
+excepci&#243;n del contenido en la letra a) del inciso segundo
+del art&#237;culo 1&#176;.
+
+     El plazo adicional ser&#225; directamente proporcional al
+per&#237;odo en que el trabajador haya cursado estudios
+regulares seg&#250;n lo determine el reglamento, y se contar&#225; a
+partir del mes siguiente a aqu&#233;l que se establece en el
+inciso cuarto del art&#237;culo 11. S&#243;lo se considerar&#225;n los
+estudios cursados con posterioridad a la entrada en vigencia
+de este art&#237;culo. Con todo, este plazo adicional s&#243;lo se
+podr&#225; extender hasta el mes siguiente en que el trabajador
+cumpla 27 a&#241;os de edad.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">7 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468643">
+      <Texto>
+     Art&#237;culo 8&#186;.- Las trabajadoras independientes y
+aquellas dependientes y sus respectivos empleadores,
+tendr&#225;n derecho a un plazo adicional para acceder al
+subsidio de la presente ley, por cada hijo nacido vivo que
+la trabajadora hubiere tenido entre los 18 y antes de los 25
+a&#241;os de edad, equivalente a la duraci&#243;n del descanso de
+maternidad dispuesto en el inciso primero del art&#237;culo 195
+del C&#243;digo del Trabajo. Este plazo se contar&#225; a partir del
+mes siguiente a aqu&#233;l que se establece en el inciso cuarto
+del art&#237;culo 11 de esta ley, siempre que re&#250;nan los dem&#225;s
+requisitos para tener derecho al subsidio con excepci&#243;n del
+contenido en la letra a) del inciso segundo del art&#237;culo
+1&#176;.
+
+     El beneficio del art&#237;culo 7&#186; de esta ley ser&#225;
+compatible con el se&#241;alado en el inciso anterior. En este
+caso, el plazo adicional para acceder al subsidio
+corresponder&#225; a la suma de ambos y se contar&#225; a partir de
+la fecha indicada en el inciso anterior.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">8 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468644">
+      <Texto>
+     Art&#237;culo 9&#186;.- El subsidio al empleo correspondiente
+al empleador ser&#225; incompatible con la percepci&#243;n
+simult&#225;nea de los beneficios que concede el art&#237;culo 57 de
+la ley N&#176;19.518, el art&#237;culo 82 de la ley N&#176;20.255 y
+otras bonificaciones a la contrataci&#243;n de mano de obra o de
+naturaleza homologable otorgadas con cargo a programas
+establecidos en la Ley de Presupuestos del Sector P&#250;blico.
+El empleador deber&#225; optar por el subsidio de esta ley o los
+beneficios o bonificaciones antes se&#241;alados, de conformidad
+a lo que determine el reglamento.
+
+     El subsidio correspondiente al empleador se suspender&#225;
+mientras el trabajador perciba el subsidio por enfermedad
+regulado en el decreto con fuerza de ley N&#176; 44, de 1978,
+del Ministerio del Trabajo y Previsi&#243;n Social, el subsidio
+por accidente del trabajo y enfermedades profesionales de la
+ley N&#176;16.744, el subsidio de maternidad y permiso por
+enfermedad del ni&#241;o menor de un a&#241;o. El empleador deber&#225;
+comunicar el hecho que el trabajador se encuentre en goce de
+alguno de los subsidios anteriores, absteni&#233;ndose de cobrar
+el subsidio. En caso contrario, deber&#225; reintegrar la parte
+percibida indebidamente con los reajustes e intereses
+penales establecidos en el inciso primero del art&#237;culo 13
+de esta ley.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">9 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468645">
+      <Texto>
+     Art&#237;culo 10.- El Servicio Nacional de Capacitaci&#243;n y
+Empleo administrar&#225; el subsidio al empleo. En especial le
+corresponder&#225; conceder el subsidio, extinguirlo,
+suspenderlo o modificarlo, y reliquidarlo de conformidad al
+art&#237;culo 5&#176; de esta ley. Adem&#225;s, deber&#225; pagar el
+referido subsidio, sea directamente o por medio de las
+instituciones con las cuales celebre convenios para ello.
+
+     El Servicio Nacional de Capacitaci&#243;n y Empleo
+verificar&#225; el cumplimiento de los requisitos para acceder
+al subsidio al empleo y la reliquidaci&#243;n del mismo, con
+todos los antecedentes que dispongan el Sistema de
+Informaci&#243;n del art&#237;culo 56 de la ley N&#176; 20.255 y los
+organismos p&#250;blicos y privados a que se refiere dicho
+art&#237;culo, los que estar&#225;n obligados a proporcionar datos
+personales y antecedentes necesarios para dicho efecto. Para
+ello, el Instituto de Previsi&#243;n Social deber&#225; otorgar al
+Servicio Nacional de Capacitaci&#243;n y Empleo el acceso al
+referido Sistema.
+
+     Lo dispuesto en el inciso anterior, no regir&#225; respecto
+del Servicio de Impuestos Internos. No obstante, para los
+efectos de determinar el cumplimiento del requisito
+establecido en los incisos cuarto y quinto del art&#237;culo
+1&#176;, el Servicio Nacional de Capacitaci&#243;n y Empleo
+consultar&#225; anualmente al Servicio de Impuestos Internos si,
+de acuerdo a la informaci&#243;n de sus registros, los
+trabajadores que se le indiquen cumplen con la exigencia
+sobre monto m&#225;ximo de renta bruta percibida en el a&#241;o
+calendario respectivo. Asimismo, para los efectos de los
+art&#237;culos 4&#176; y 5&#176;, el Servicio de Impuestos Internos
+informar&#225; anualmente al Servicio Nacional de Capacitaci&#243;n
+y Empleo la clasificaci&#243;n que en las letras del citado
+art&#237;culo 4&#176; corresponda a los trabajadores respecto de los
+que se consulte. Para el cumplimiento de lo dispuesto en
+este inciso, el Servicio Nacional de Capacitaci&#243;n y Empleo
+remitir&#225; al Servicio de Impuestos Internos la informaci&#243;n
+correspondiente a las cotizaciones previsionales y otras
+deducciones del trabajador respectivo. Una norma general
+conjunta dictada por ambos Servicios, determinar&#225; la forma
+y plazo en que dicha informaci&#243;n anual se deber&#225; solicitar
+y enviar.
+
+     Al personal del Servicio Nacional de Capacitaci&#243;n y
+Empleo le ser&#225; aplicable lo dispuesto en el inciso quinto
+del art&#237;culo 56 de la ley N&#176;20.255 en el cumplimiento de
+las labores que le encomienda la presente ley.
+
+     Para efecto del inciso tercero del art&#237;culo 5&#176; de
+esta ley, el Servicio Nacional de Capacitaci&#243;n y Empleo
+comunicar&#225; a la Tesorer&#237;a General de la Rep&#250;blica, en el
+plazo que se&#241;ale el reglamento, la individualizaci&#243;n de
+quienes hayan percibido en exceso el subsidio y el monto a
+retener a cada uno de ellos.
+
+     El Servicio Nacional de Capacitaci&#243;n y Empleo
+conocer&#225; y resolver&#225; los reclamos relacionados con
+materias del subsidio al empleo de conformidad a lo
+establecido en la ley N&#176; 19.880, y de acuerdo a las normas
+que imparta la Superintendencia de Seguridad Social.
+
+     Un reglamento del Ministerio del Trabajo y Previsi&#243;n
+Social y adem&#225;s, suscrito por el Ministro de Hacienda,
+regular&#225; la forma de solicitar el subsidio, los
+procedimientos de tramitaci&#243;n de la solicitud, la
+determinaci&#243;n, concesi&#243;n y pago del mismo, &#233;poca o
+&#233;pocas de pago del subsidio, los antecedentes que deber&#225;
+acompa&#241;ar el solicitante para acreditar el cumplimiento de
+los requisitos, causales de reliquidaci&#243;n del subsidio, y
+las dem&#225;s normas necesarias para su aplicaci&#243;n y
+funcionamiento. Se&#241;alar&#225; el o los instrumentos t&#233;cnicos
+de focalizaci&#243;n y procedimientos que utilizar&#225; el Servicio
+Nacional de Capacitaci&#243;n y Empleo para determinar lo
+establecido en la letra b) del inciso segundo del art&#237;culo
+1&#176; de esta ley.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">10 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468646">
+      <Texto>
+     Art&#237;culo 11.- Para impetrar el derecho a este
+subsidio, los trabajadores y empleadores deber&#225;n presentar
+su solicitud ante el Servicio Nacional de Capacitaci&#243;n y
+Empleo, en las &#233;pocas que determine el reglamento. Los
+trabajadores dependientes y sus empleadores impetrar&#225;n
+separadamente el derecho que les corresponda del subsidio.
+El trabajador al momento de solicitar el subsidio deber&#225;
+optar por el pago mensual o anual del subsidio, sin
+perjuicio, de que pueda modificar esa opci&#243;n de acuerdo a
+lo que determine el reglamento.
+
+     Los beneficiarios del subsidio al empleo que no
+impetren su derecho en la oportunidad que fije el reglamento
+se entender&#225; que renuncian a &#233;l. Lo anterior es sin
+perjuicio de que puedan ejercer este derecho en per&#237;odos
+posteriores seg&#250;n lo determine el reglamento, pero no
+podr&#225;n reclamar retroactivamente el subsidio.
+
+     El subsidio determinado de conformidad al art&#237;culo 3&#176;
+se devengar&#225; a partir del primer d&#237;a del mes siguiente a
+la fecha de la presentaci&#243;n de la solicitud siempre que se
+cumplan los requisitos para tener derecho al subsidio al
+empleo.
+
+     El subsidio al empleo se pagar&#225; hasta el &#250;ltimo d&#237;a
+del mes en que el trabajador tenga 24 a&#241;os de edad.
+
+     El subsidio al empleo se extinguir&#225; en el &#250;ltimo d&#237;a
+del mes en que el trabajador cumpla 21 a&#241;os de edad, si a
+esa fecha no hubiere obtenido la licencia de educaci&#243;n
+media. Sin embargo, si con posterioridad a dicha edad el
+trabajador obtuviere licencia de educaci&#243;n media, podr&#225;
+solicitar el subsidio siempre que re&#250;na los dem&#225;s
+requisitos.
+
+     Cuando el subsidio al empleo hubiere terminado antes
+del a&#241;o calendario por cualquier causal, al trabajador le
+corresponder&#225; el subsidio anual calculado en la proporci&#243;n
+que determine el reglamento.
+
+     Se exceptuar&#225;n de este subsidio los trabajadores y
+empleadores de los &#243;rganos se&#241;alados en el inciso segundo
+del art&#237;culo 1&#176; de la ley N&#176; 18.575 y las entidades en
+que el Estado o sus instituciones o empresas tengan aportes
+o representaci&#243;n igual o superior al 50%.
+</Texto>
+      <Metadatos>
+        <NombreParte presente="si">11 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468647">
+      <Texto>
+     Art&#237;culo 12.- Corresponder&#225; a la Superintendencia de
+Seguridad Social, la supervigilancia y fiscalizaci&#243;n del
+subsidio al empleo que administra el Servicio Nacional de
+Capacitaci&#243;n y Empleo. Para estos efectos, se aplicar&#225;n
+las disposiciones org&#225;nicas de la Superintendencia y la
+presente ley. La Superintendencia dictar&#225; las normas
+necesarias, las que ser&#225;n obligatorias para todas las
+instituciones o entidades que intervienen en el mencionado
+subsidio.
+
+     Sin perjuicio de las facultades que corresponden a la
+Direcci&#243;n del Trabajo en virtud de las normas que la rigen,
+&#233;sta deber&#225; dar cuenta de inmediato al Servicio Nacional
+de Capacitaci&#243;n y Empleo, y a la Superintendencia de
+Seguridad Social respecto de toda irregularidad que observe
+en los contratos de trabajo siempre que digan relaci&#243;n con
+el derecho al subsidio de la presente ley.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">12 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468648">
+      <Texto>
+     Art&#237;culo 13.- Todo aqu&#233;l que con el objeto de
+percibir indebidamente el subsidio al empleo, para s&#237; o
+para terceros, proporcione, declare o entregue a sabiendas
+datos o antecedentes falsos, incompletos o err&#243;neos, ser&#225;
+sancionado con las penas del art&#237;culo 467 del C&#243;digo
+Penal. La misma pena ser&#225; aplicable al empleador que, con
+igual prop&#243;sito, incluya en sus planillas a trabajadores
+inexistentes o que no presten servicios efectivos, as&#237; como
+tambi&#233;n a los empleadores que informen remuneraciones
+distintas a las efectivamente pagadas e imponibles por la
+empresa. Ser&#225;n solidariamente responsables de las
+obligaciones civiles que generen las conductas anteriores
+tanto el gerente general o el autor material o intelectual
+del hecho, como el contador que certifique la planilla
+respectiva.
+
+     Lo dispuesto en el inciso anterior es sin perjuicio que
+el infractor deber&#225; restituir al Servicio Nacional de
+Capacitaci&#243;n y Empleo las sumas indebidamente percibidas,
+reajustadas en conformidad a la variaci&#243;n que experimente
+el &#237;ndice de precios al consumidor determinado por el
+Instituto Nacional de Estad&#237;sticas o el organismo que lo
+reemplace, entre el mes anterior a aqu&#233;l en que se
+percibieron y el que antecede a la restituci&#243;n. Las
+cantidades as&#237; reajustadas devengar&#225;n adem&#225;s el inter&#233;s
+penal mensual establecido en el art&#237;culo 53 del C&#243;digo
+Tributario.
+
+     Las investigaciones de hechos constitutivos de delitos
+se&#241;alados en el inciso primero, podr&#225;n ser iniciadas por
+denuncia o querella del Servicio Nacional de Capacitaci&#243;n y
+Empleo. Con todo, la querella podr&#225; tambi&#233;n ser presentada
+por el Consejo de Defensa del Estado.
+
+     Corresponder&#225; al Servicio de Tesorer&#237;as ejercer la
+cobranza judicial o administrativa de las cantidades pagadas
+en exceso o percibidas indebidamente del subsidio al empleo,
+de conformidad a las normas que regulan a dicho servicio.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">13 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468649">
+      <Texto>
+     Art&#237;culo 14.- Las cantidades expresadas en pesos de la
+presente ley se reajustar&#225;n el 1 de enero de cada a&#241;o, en
+el 100% de la variaci&#243;n que experimente el &#237;ndice de
+precios al consumidor determinado por el Instituto Nacional
+de Estad&#237;sticas entre el mes de diciembre del a&#241;o
+anteprecedente y noviembre del a&#241;o anterior a la fecha en
+que opere el reajuste respectivo.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">14 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468650">
+      <Texto>
+     Art&#237;culo 15.- Para los efectos tributarios, el
+subsidio al empleo se considerar&#225; un ingreso no
+constitutivo de renta respecto del trabajador beneficiado y
+un menor costo o gasto de contrataci&#243;n del trabajador para
+el empleador que lo obtenga, seg&#250;n corresponda. Adem&#225;s, el
+subsidio al empleo no ser&#225; imponible ni estar&#225; afecto a
+descuento alguno y respecto del trabajador ser&#225;
+inembargable.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">15 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468651">
+      <Texto>
+     Art&#237;culos Transitorios
+
+     Art&#237;culo 1&#176;.- La presente ley entrar&#225; en vigencia a
+contar del primer d&#237;a del tercer mes de la fecha de su
+publicaci&#243;n en el Diario Oficial, sin perjuicio de que
+pueda dictarse a contar de la fecha de su publicaci&#243;n el
+decreto a que se refiere el inciso final del art&#237;culo 10.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">1 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468652">
+      <Texto>
+     Art&#237;culo 2&#176;.- El primer reajuste que corresponda por
+aplicaci&#243;n de lo dispuesto en el art&#237;culo 14 de la
+presente ley, se conceder&#225; a contar del 1 de enero de 2011.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">2 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468653">
+      <Texto>
+     Art&#237;culo 3&#176;.- Mientras no sean obligatorias las
+cotizaciones de pensiones y salud para los trabajadores
+independientes del N&#176; 2&#176; del art&#237;culo 42 de la Ley de
+Impuesto a la Renta, el c&#225;lculo del subsidio a que se
+refiere el art&#237;culo 4&#186; de esta ley, se efectuar&#225; del
+siguiente modo para los mencionados trabajadores:
+
+     a) Cuando el trabajador se encuentre en la situaci&#243;n a
+que se refiere la letra a) del art&#237;culo 4&#186; de esta ley, el
+monto anual del subsidio para dicho trabajador ascender&#225; al
+20% de la suma de las remuneraciones imponibles y rentas
+imponibles sobre las cuales se hubieren realizado las
+cotizaciones para pensiones y salud, con el l&#237;mite m&#225;ximo
+imponible que establece el art&#237;culo 90 del decreto ley N&#176;
+3.500, de 1980.
+     b) Cuando el trabajador se encuentre en la situaci&#243;n
+se&#241;alada en la letra b) o c) del art&#237;culo 4&#186; de esta ley,
+el monto anual del subsidio ascender&#225; a aquel calculado de
+conformidad a la letra b) o c) de dicho art&#237;culo, seg&#250;n
+corresponda, multiplicado por el resultado que se obtenga de
+dividir la renta del trabajo anual sobre las cuales se
+hubieren realizado cotizaciones para pensiones y salud por
+el resultado de sumar las remuneraciones imponibles y rentas
+imponibles del art&#237;culo 90 del decreto ley N&#176; 3.500, de
+1980, de dicho a&#241;o.
+
+     Para estos efectos, el Servicio de Impuestos Internos
+informar&#225; anualmente al Servicio Nacional de Capacitaci&#243;n
+y Empleo la diferencia entre el monto efectivo que deber&#237;a
+haber pagado el trabajador independiente por concepto de las
+cotizaciones de pensiones y salud, de conformidad al
+art&#237;culo 90 del decreto ley N&#176; 3.500, de 1980, y las
+cotizaciones efectuadas.
+
+     El Servicio Nacional de Capacitaci&#243;n y Empleo
+remitir&#225; al Servicio de Impuestos Internos una n&#243;mina con
+la individualizaci&#243;n de los trabajadores que se consulta y
+los antecedentes necesarios para la determinaci&#243;n de la
+diferencia a que se refiere el inciso anterior. Una norma
+general conjunta dictada por ambos Servicios, establecer&#225;
+los antecedentes requeridos y la f&#243;rmula de c&#225;lculo para
+dicha determinaci&#243;n. Asimismo, regular&#225; la forma y plazo
+en que la informaci&#243;n anual se deber&#225; solicitar y enviar y
+toda otra disposici&#243;n necesaria para su adecuada
+aplicaci&#243;n.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">3 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468654">
+      <Texto>
+     Art&#237;culo 4&#176;.- Durante los dos primeros a&#241;os
+calendario de la entrada en vigencia de la presente ley,
+para los efectos de la aplicaci&#243;n de la letra b) del
+art&#237;culo 1&#176; de esta ley, se utilizar&#225; como instrumento
+t&#233;cnico de focalizaci&#243;n la Ficha de Protecci&#243;n Social.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">4 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468655">
+      <Texto>
+     Art&#237;culo 5&#176;.- El art&#237;culo 7&#186; de esta ley entrar&#225;
+en vigencia a contar del 1 de enero del tercer a&#241;o
+siguiente al de la entrada en vigencia de la presente ley.
+Durante los tres primeros a&#241;os de vigencia del mencionado
+art&#237;culo no ser&#225; exigible que las instituciones de
+educaci&#243;n superior se encuentren acreditadas en conformidad
+con el sistema de aseguramiento de calidad que establece la
+ley N&#176; 20.129.
+
+     El inciso quinto del art&#237;culo 11 de esta ley, entrar&#225;
+en vigencia a contar del 1 de enero del segundo a&#241;o
+siguiente al de la entrada en vigencia de la presente ley.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">5 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468656">
+      <Texto>
+     Art&#237;culo 6&#176;.- Increm&#233;ntese la dotaci&#243;n m&#225;xima de
+personal vigente del Servicio Nacional de Capacitaci&#243;n y
+Empleo, en 5 cupos.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">6 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468657">
+      <Texto>
+     Art&#237;culo 7&#176;.- Durante el primer a&#241;o calendario de
+entrada en vigencia de la presente ley y el siguiente a
+&#233;ste, el Servicio Nacional de Capacitaci&#243;n y Empleo,
+requerir&#225; al Instituto de Previsi&#243;n Social la
+verificaci&#243;n del cumplimiento de los requisitos de los
+solicitantes del subsidio al empleo en el Sistema de
+Informaci&#243;n de Datos Previsionales del art&#237;culo 56 de la
+ley N&#176;20.255, a fin de conceder los beneficios de esta ley.
+Una vez concedidos los beneficios por el Servicio Nacional
+de Capacitaci&#243;n y Empleo y durante ese mismo per&#237;odo,
+podr&#225; requerir del Instituto de Previsi&#243;n Social la
+emisi&#243;n de liquidaciones y pagos de los referidos
+subsidios. Para estos efectos se faculta al Instituto de
+Previsi&#243;n Social para convenir en forma directa con
+instituciones p&#250;blicas y privadas el pago de los subsidios.
+
+     Los subsidios de que trata este art&#237;culo se
+solicitar&#225;n ante el Servicio Nacional de Capacitaci&#243;n y
+Empleo o en las entidades p&#250;blicas o privadas con las que
+celebre convenio al efecto, para lo cual podr&#225; convenir en
+forma directa con ellas a partir de la publicaci&#243;n de la
+presente ley en el Diario Oficial.
+
+     El Servicio Nacional de Capacitaci&#243;n y Empleo har&#225;
+p&#250;blico en su sitio web la raz&#243;n social y RUT de las
+empresas que reciben el subsidio y el n&#250;mero de subsidios
+que perciben mensualmente.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">7 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468658">
+      <Texto>
+     Art&#237;culo 8&#176;.- Durante los tres primeros meses de
+vigencia de la presente ley, los empleadores y sus
+trabajadores o ex trabajadores podr&#225;n solicitar el pago
+mensual del subsidio a que se refiere el art&#237;culo 3&#176;, que
+corresponda a todos o algunos de los cuatros meses
+inmediatamente anteriores a aquel mes en que presenten dicha
+solicitud, siempre que hubieren cumplido los requisitos para
+acceder a &#233;l, en los meses cuyo pago se solicita.
+
+     Para los efectos de la aplicaci&#243;n del inciso primero
+del art&#237;culo 9&#186; de esta ley, se entender&#225; que la
+solicitud y concesi&#243;n al empleador del subsidio indicado en
+este art&#237;culo, importar&#225; que el empleador opte por este
+beneficio.
+
+     A contar de la fecha de publicaci&#243;n de la presente ley
+en el Diario Oficial, la Superintendencia de Seguridad
+Social podr&#225; dictar las normas necesarias para el
+cumplimiento de lo dispuesto en este art&#237;culo.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">8 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="transitorio" tipoParte="Art&#237;culo" fechaVersion="2009-07-01" derogado="no derogado" idParte="8468659">
+      <Texto>
+     Art&#237;culo 9&#176;.- El mayor gasto fiscal que represente la
+aplicaci&#243;n de la presente ley, durante el a&#241;o 2009, se
+imputar&#225; al presupuesto del Ministerio del Trabajo y
+Previsi&#243;n Social y se financiar&#225; con recursos provenientes
+de la partida presupuestaria Tesoro P&#250;blico de la Ley de
+Presupuestos vigente.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">9 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+  </EstructurasFuncionales>
+  <Promulgacion fechaVersion="2009-07-01" derogado="no derogado">
+    <Texto>
+     Y por cuanto he tenido a bien aprobarlo y sancionarlo;
+por tanto prom&#250;lguese y ll&#233;vese a efecto como Ley de la
+Rep&#250;blica.
+
+     Santiago, 25 de marzo de 2009.- MICHELLE BACHELET
+JERIA, Presidenta de la Rep&#250;blica.- Claudia Serrano Madrid,
+Ministra del Trabajo y Previsi&#243;n Social.- Andr&#233;s Velasco
+Bra&#241;es, Ministro de Hacienda.
+
+     Lo que transcribo a usted para su conocimiento.- Saluda
+a usted, Mauricio Jelvez Maturana, Subsecretario del
+Trabajo.</Texto>
+  </Promulgacion>
+  
+</Norma>

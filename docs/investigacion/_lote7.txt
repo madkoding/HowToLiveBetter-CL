@@ -1,0 +1,7 @@
+# nombre<TAB>url
+ine_anuario2023	https://www.ine.gob.cl/docs/default-source/nacimientos-matrimonios-y-defunciones/publicaciones-y-anuarios/anuarios-de-estad%C3%ADsticas-vitales/anuario-de-estad%C3%ADsticas-vitales-2023-nacimientos-y-defunciones.pdf?sfvrsn=af0e69c9_4
+ine_anuario2023_sintesis	https://www.ine.gob.cl/docs/default-source/nacimientos-matrimonios-y-defunciones/publicaciones-y-anuarios/s%C3%ADntesis-anuarios-de-estad%C3%ADsticas-vitales/anuario-de-estad%C3%ADsticas-vitales-2023-s%C3%ADntesis.pdf?sfvrsn=ea6f02a2_4
+ine_boletin2023	https://www.ine.gob.cl/docs/default-source/nacimientos-matrimonios-y-defunciones/publicaciones-y-anuarios/anuarios-de-estad%C3%ADsticas-vitales/estad%C3%ADsticas-vitales-cifras-provisionales-2023-(versi%C3%B3n-marzo-2025).pdf?sfvrsn=c8e963f3_4
+epi_ens_descargable	https://epi.minsal.cl/encuesta-ens-descargable
+senama_envejecimiento	https://www.senama.gob.cl/storage/docs/LIBRO_-_Envejecimiento_en_Chile_-_Diagnostico_y_Consulta_Ciudadana_-web.pdf
+superdesalud_dependencia	https://www.superdesalud.gob.cl/documentacion/666/articles-4471_recurso_1.pdf

@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?><Norma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.leychile.cl/esquemas" xsi:schemaLocation="http://www.leychile.cl/esquemas http://www.leychile.cl/esquemas/EsquemaIntercambioNorma-v1-0.xsd" normaId="30702" esTratado="no tratado" fechaVersion="1994-09-23" SchemaVersion="1.0" derogado="no derogado">
+  <Identificador fechaPromulgacion="1994-09-12" fechaPublicacion="1994-09-23">
+    <TiposNumeros>
+      <TipoNumero>
+        <Tipo>Ley</Tipo>
+        <Numero>19335</Numero>
+      </TipoNumero>
+    </TiposNumeros>
+    <Organismos>
+      <Organismo>MINISTERIO DE JUSTICIA</Organismo>
+    </Organismos>
+  </Identificador>
+  <Metadatos>
+    <TituloNorma>ESTABLECE REGIMEN DE PARTICIPACION EN LOS GANANCIALES, Y MODIFICA EL CODIGO CIVIL, LA LEY DE MATRIMONIO CIVIL, EL CODIGO PENAL, EL CODIGO DE PROCEDIMIENTO PENAL Y OTROS CUERPOS LEGALES QUE INDICA</TituloNorma>
+    <Materias>
+      <Materia>Participaci&#243;n de los Gananciales </Materia>
+      <Materia>C&#243;digo Civil </Materia>
+      <Materia>Matrimonio Civil </Materia>
+      <Materia>C&#243;digo Penal </Materia>
+      <Materia>C&#243;digo de Procedimiento Penal </Materia>
+      <Materia>Ley no. 19.335</Materia>
+    </Materias>
+    
+    
+    <IdentificacionFuente>Diario Oficial</IdentificacionFuente>
+    <NumeroFuente>34973</NumeroFuente>
+  </Metadatos>
+  <Encabezado fechaVersion="1994-09-23" derogado="no derogado">
+    <Texto>LEY N&#186; 19.335
+
+ESTABLECE REGIMEN DE PARTICIPACION EN LOS GANANCIALES, Y MODIFICA EL CODIGO CIVIL, LA LEY DE MATRIMONIO CIVIL, EL CODIGO PENAL, EL CODIGO DE PROCEDIMIENTO PENAL Y OTROS CUERPOS LEGALES QUE INDICA
+
+    Teniendo presente que el H. Congreso Nacional ha dado su aprobaci&#243;n al siguiente
+
+    Proyecto de ley:
+</Texto>
+  </Encabezado>
+  <EstructurasFuncionales>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Cap&#237;tulo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191018">
+      <Texto>    "Cap&#237;tulo I 
+    R&#233;gimen de participaci&#243;n en los gananciales</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">Cap&#237;tulo I R&#233;gimen de participaci&#243;n en los gananciales</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Enumeraci&#243;n" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191019">
+          <Texto>    1. Reglas generales </Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">1. Reglas generales</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191017">
+              <Texto>    Art&#237;culo 1&#176;.- En las capitulaciones matrimoniales que celebren en conformidad con el p&#225;rrafo primero del T&#237;tulo XXII del Libro Cuarto del C&#243;digo Civil, los esposos podr&#225;n pactar el r&#233;gimen de participaci&#243;n en los gananciales.
+    Los c&#243;nyuges podr&#225;n, con sujeci&#243;n a lo dispuesto en el art&#237;culo 1723 de ese mismo C&#243;digo, sustituir el r&#233;gimen de sociedad conyugal o el de separaci&#243;n por el r&#233;gimen de participaci&#243;n que esta ley contempla.
+    Del mismo modo, podr&#225;n sustituir el r&#233;gimen de participaci&#243;n en los gananciales, por el de separaci&#243;n total de bienes.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">1 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191020">
+              <Texto>    Art&#237;culo 2&#176;.- En el r&#233;gimen de participaci&#243;n en los gananciales los patrimonios del marido y de la mujer se mantienen separados y cada uno de los c&#243;nyuges administra, goza y dispone libremente de lo suyo. Al finalizar la vigencia del r&#233;gimen de bienes, se compensa el valor de los gananciales obtenidos por los c&#243;nyuges y &#233;stos tienen derecho a participar por mitades en el excedente.
+    Los principios anteriores rigen en la forma y con las limitaciones se&#241;aladas en los art&#237;culos siguientes y en el p&#225;rrafo 1 del T&#237;tulo VI del Libro Primero del C&#243;digo Civil.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">2 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Enumeraci&#243;n" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191022">
+          <Texto>    2. De la administraci&#243;n del patrimonio de los c&#243;nyuges. </Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">2. De la administraci&#243;n del patrimonio de los c&#243;nyuges.</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191021">
+              <Texto>    Art&#237;culo 3&#176;.- Ninguno de los c&#243;nyuges podr&#225; otorgar cauciones personales a obligaciones de terceros sin el consentimiento del otro c&#243;nyuge. Dicha autorizaci&#243;n se sujetar&#225; a lo establecido en los art&#237;culos 142, inciso segundo, y 144, del C&#243;digo Civil.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">3 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191023">
+              <Texto>    Art&#237;culo 4&#176;.- Los actos ejecutados en contravenci&#243;n al art&#237;culo precedente adolecer&#225;n de nulidad relativa.
+    El cuadrienio para impetrar la nulidad se contar&#225; desde el d&#237;a en que el c&#243;nyuge que la alega tuvo conocimiento del acto.
+    Pero en ning&#250;n caso podr&#225; perseguirse la rescisi&#243;n pasados diez a&#241;os desde la celebraci&#243;n del acto o contrato.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">4 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191024">
+              <Texto>    Art&#237;culo 5&#176;.- A la disoluci&#243;n del r&#233;gimen de participaci&#243;n en los gananciales, los patrimonios de los c&#243;nyuges permanecer&#225;n separados, conservando &#233;stos o sus causahabientes plenas facultades de administraci&#243;n y disposici&#243;n de sus bienes.
+    A la misma fecha se determinar&#225;n los gananciales obtenidos durante la vigencia del r&#233;gimen de participaci&#243;n en los gananciales.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">5 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Enumeraci&#243;n" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191026">
+          <Texto>    3. De la determinaci&#243;n y c&#225;lculo de los gananciales.</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">3. De la determinaci&#243;n y c&#225;lculo de los gananciales.</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191025">
+              <Texto>    Art&#237;culo 6&#176;.- Se entiende por gananciales la diferencia de valor neto entre el patrimonio originario y el patrimonio final de cada c&#243;nyuge.
+    Se entiende por patrimonio originario de cada c&#243;nyuge el existente al momento de optar por el r&#233;gimen que establece esta ley y por su patrimonio final, el que exista al t&#233;rmino de dicho r&#233;gimen.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">6 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191027">
+              <Texto>    Art&#237;culo 7&#176;.- El patrimonio originario resultar&#225; de deducir del valor total de los bienes de que el c&#243;nyuge sea titular al iniciarse el r&#233;gimen, el valor total de las obligaciones de que sea deudor en esa misma fecha. Si el valor de las obligaciones excede al valor de los bienes, el patrimonio originario se estimar&#225; carente de valor.
+    Se agregar&#225;n al patrimonio originario las adquisiciones a t&#237;tulo gratuito efectuadas durante la vigencia del r&#233;gimen, deducidas las cargas con que estuvieren gravadas.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">7 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191028">
+              <Texto>    Art&#237;culo 8&#176;.- Los bienes adquiridos durante la vigencia del r&#233;gimen de participaci&#243;n en los gananciales se agregar&#225;n al activo del patrimonio originario, aunque lo hayan sido a t&#237;tulo oneroso, cuando la causa o t&#237;tulo de la adquisici&#243;n sea anterior al inicio del r&#233;gimen de bienes.
+    Por consiguiente, y sin que la enumeraci&#243;n siguiente sea taxativa, se agregar&#225;n al activo del patrimonio originario:
+    1) Los bienes que uno de los c&#243;nyuges pose&#237;a antes del r&#233;gimen de bienes, aunque la prescripci&#243;n o transacci&#243;n con que los haya hecho suyos haya operado o se haya convenido durante la vigencia del r&#233;gimen de bienes.
+    2) Los bienes que se pose&#237;an antes del r&#233;gimen de bienes por un t&#237;tulo vicioso, siempre que el vicio se haya purgado durante la vigencia del r&#233;gimen de bienes por la ratificaci&#243;n o por otro medio legal.
+    3) Los bienes que vuelven a uno de los c&#243;nyuges por la nulidad o resoluci&#243;n de un contrato, o por haberse revocado una donaci&#243;n.
+    4) Los bienes litigiosos, cuya posesi&#243;n pac&#237;fica haya adquirido cualquiera de los c&#243;nyuges durante la vigencia del r&#233;gimen.
+    5) El derecho de usufructo que se haya consolidado con la nuda propiedad que pertenece al mismo c&#243;nyuge.
+    6) Lo que se paga a cualquiera de los c&#243;nyuges por capitales de cr&#233;ditos constituidos antes de la vigencia del r&#233;gimen. Lo mismo se aplicar&#225; a los intereses devengados antes y pagados despu&#233;s.
+    7) La proporci&#243;n del precio pagado con anterioridad al inicio del r&#233;gimen, por los bienes adquiridos de resultas de contratos de promesa.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">8 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191029">
+              <Texto>    Art&#237;culo 9&#176;.- Los frutos, incluso los que provengan de bienes originarios, no se incorporar&#225;n al patrimonio originario. Tampoco las minas denunciadas por uno de los c&#243;nyuges, ni las donaciones remuneratorias por servicios que hubieren dado acci&#243;n contra la persona servida. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">9 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191030">
+              <Texto>    Art&#237;culo 10.- Los c&#243;nyuges son comuneros, seg&#250;n las reglas generales, de los bienes adquiridos en conjunto, a t&#237;tulo oneroso. Si la adquisici&#243;n ha sido a t&#237;tulo gratuito por ambos c&#243;nyuges, los derechos se agregar&#225;n a los respectivos patrimonios originarios, en la proporci&#243;n que establezca el t&#237;tulo respectivo, o en partes iguales, si el t&#237;tulo nada dijere al respecto. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">10 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191031">
+              <Texto>    Art&#237;culo 11.- Los c&#243;nyuges o esposos, al momento de pactar este r&#233;gimen, deber&#225;n efectuar un inventario simple de los bienes que componen el patrimonio originario.
+    A falta de inventario, el patrimonio originario puede probarse mediante otros instrumentos, tales como registros, facturas o t&#237;tulos de cr&#233;dito.
+    Con todo, ser&#225;n admitidos otros medios de prueba si se demuestra que, atendidas las circunstancias, el esposo o c&#243;nyuge no estuvo en situaci&#243;n de procurarse un instrumento.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">11 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191032">
+              <Texto>    Art&#237;culo 12.- Al t&#233;rmino del r&#233;gimen de participaci&#243;n en los gananciales, se presumen comunes los bienes muebles adquiridos durante &#233;l, salvo los de uso personal de los c&#243;nyuges. La prueba en contrario deber&#225; fundarse en antecedentes escritos.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">12 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191033">
+              <Texto>    Art&#237;culo 13.- Los bienes que componen el activo originario se valoran seg&#250;n su estado al momento de la entrada en vigencia del r&#233;gimen de bienes o de su adquisici&#243;n. Por consiguiente, su precio al momento de incorporaci&#243;n en el patrimonio originario ser&#225; prudencialmente actualizado a la fecha de la terminaci&#243;n del r&#233;gimen.
+    La valoraci&#243;n podr&#225; ser hecha por los c&#243;nyuges o por un tercero designado por ellos. En subsidio, por el juez.
+    Las reglas anteriores rigen tambi&#233;n para la valoraci&#243;n del pasivo.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">13 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191034">
+              <Texto>    Art&#237;culo 14.- El patrimonio final resultar&#225; de deducir del valor total de los bienes de que el c&#243;nyuge sea due&#241;o al momento de terminar el r&#233;gimen, el valor total de las obligaciones que tenga en esa misma fecha. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">14 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191035">
+              <Texto>    Art&#237;culo 15.- En el patrimonio final de un c&#243;nyuge se agregar&#225;n imaginariamente los montos de las disminuciones de su activo que sean consecuencia de los siguientes actos, ejecutados durante la vigencia del r&#233;gimen de participaci&#243;n en los gananciales:
+    1) Donaciones irrevocables que no correspondan al cumplimiento proporcionado de deberes morales o de usos sociales, en consideraci&#243;n a la persona del donatario.
+    2) Cualquier especie de actos fraudulentos o de dilapidaci&#243;n en perjuicio del otro c&#243;nyuge.
+    3) Pago de precios de rentas vitalicias u otros gastos que persigan asegurar una renta futura al c&#243;nyuge que haya incurrido en ellos. Lo dispuesto en este n&#250;mero no regir&#225; respecto de las rentas vitalicias convenidas al amparo de lo establecido en el decreto ley N&#176; 3.500, de 1980, salvo la cotizaci&#243;n adicional voluntaria en la cuenta de capitalizaci&#243;n individual y los dep&#243;sitos en cuentas de ahorro voluntario los que deber&#225;n agregarse imaginariamente conforme al inciso primero del presente art&#237;culo.
+    Las agregaciones referidas ser&#225;n efectuadas considerando el estado que ten&#237;an las cosas al momento de su enajenaci&#243;n.
+    Lo dispuesto en este art&#237;culo no rige si el acto hubiese sido autorizado por el otro c&#243;nyuge. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">15 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191036">
+              <Texto>    Art&#237;culo 16.- Dentro de los tres meses siguientes al t&#233;rmino del r&#233;gimen de participaci&#243;n en los gananciales, cada c&#243;nyuge estar&#225; obligado a proporcionar al otro un inventario valorado de los bienes y obligaciones que comprenda su patrimonio final. El juez podr&#225; ampliar este plazo por una sola vez y hasta por igual t&#233;rmino.
+    El inventario simple, firmado por el c&#243;nyuge, har&#225; prueba en favor del otro c&#243;nyuge para determinar su patrimonio final. Con todo, &#233;ste podr&#225; objetar el inventario, alegando que no es fidedigno. En tal caso, podr&#225; usar todos los medios de prueba para demostrar la composici&#243;n o el valor efectivo del patrimonio del otro c&#243;nyuge.
+    Cualquiera de los c&#243;nyuges podr&#225; solicitar la facci&#243;n de inventario en conformidad con las reglas del C&#243;digo de Procedimiento Civil y requerir las medidas precautorias que procedan.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">16 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191037">
+              <Texto>    Art&#237;culo 17.- Los bienes que componen el activo final se valoran seg&#250;n su estado al momento de la terminaci&#243;n del r&#233;gimen de bienes.
+    Los bienes a que se refiere el art&#237;culo 15 se apreciar&#225; seg&#250;n el valor que hubieran tenido al t&#233;rmino del r&#233;gimen de bienes.
+    La valoraci&#243;n de los bienes podr&#225; ser hecha por los c&#243;nyuges o por un tercero designado por ellos. En subsidio, por el juez.
+    Las reglas anteriores rigen tambi&#233;n para la valoraci&#243;n del pasivo.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">17 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191038">
+              <Texto>    Art&#237;culo 18.- Si alguno de los c&#243;nyuges, a fin de disminuir los gananciales, oculta o distrae bienes o simula obligaciones, se sumar&#225; a su patrimonio final el doble del valor de aqu&#233;llos o de &#233;stas.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">18 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191039">
+              <Texto>    Art&#237;culo 19.- Si el patrimonio final de un c&#243;nyuge fuere inferior al originario, s&#243;lo &#233;l soportar&#225; la p&#233;rdida.
+    Si s&#243;lo uno de los c&#243;nyuges ha obtenido gananciales, el otro participar&#225; de la mitad de su valor.
+    Si ambos c&#243;nyuges hubiesen obtenido gananciales, &#233;stos se compensar&#225;n hasta la concurrencia de los de menor valor y aquel que hubiere obtenido menores gananciales tendr&#225; derecho a que el otro le pague, a t&#237;tulo de participaci&#243;n, la mitad del excedente.
+    El cr&#233;dito de participaci&#243;n en los gananciales ser&#225; sin perjuicio de otros cr&#233;ditos y obligaciones entre los c&#243;nyuges.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">19 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Enumeraci&#243;n" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191041">
+          <Texto>    4. Del cr&#233;dito de participaci&#243;n en los gananciales.</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">4. Del cr&#233;dito de participaci&#243;n en los gananciales.</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191040">
+              <Texto>    Art&#237;culo 20.- El cr&#233;dito de participaci&#243;n en los gananciales se originar&#225; al t&#233;rmino del r&#233;gimen de bienes.
+    Se proh&#237;be cualquier convenci&#243;n o contrato respecto de ese eventual cr&#233;dito, as&#237; como su renuncia, antes del t&#233;rmino del r&#233;gimen de participaci&#243;n en los gananciales. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">20 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191042">
+              <Texto>    Art&#237;culo 21.- El cr&#233;dito de participaci&#243;n en los gananciales es puro y simple y se pagar&#225; en dinero.
+    Con todo, si lo anterior causare grave perjuicio al c&#243;nyuge deudor o a los hijos comunes, y ello se probare debidamente, el juez podr&#225; conceder plazo de hasta un a&#241;o para el pago del cr&#233;dito, el que se expresar&#225; en unidades tributarias mensuales. Ese plazo no se conceder&#225; si no se asegura, por el propio deudor o un tercero, que el c&#243;nyuge acreedor quedar&#225; de todos modos indemne.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">21 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191043">
+              <Texto>    Art&#237;culo 22.- Los c&#243;nyuges, o sus herederos, podr&#225;n convenir daciones en pago para solucionar el cr&#233;dito de participaci&#243;n en los gananciales.
+    Renacer&#225; el cr&#233;dito, en los t&#233;rminos del inciso primero del art&#237;culo precedente, si la cosa dada en pago es evicta, a menos que el c&#243;nyuge acreedor haya tomado sobre s&#237; el riesgo de la evicci&#243;n, especific&#225;ndolo. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">22 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191044">
+              <Texto>    Art&#237;culo 23.- Para determinar los cr&#233;ditos de participaci&#243;n en los gananciales, las atribuciones de derechos sobre bienes familiares, efectuadas a uno de los c&#243;nyuges en conformidad con el art&#237;culo 147 del C&#243;digo Civil, ser&#225;n valoradas prudencialmente por el juez.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">23 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191045">
+              <Texto>    Art&#237;culo 24.- El c&#243;nyuge acreedor perseguir&#225; el pago, primeramente, en el dinero del deudor; si &#233;ste fuere insuficiente, lo har&#225; en los muebles y, en subsidio, en los inmuebles.
+    A falta o insuficiencia de todos los bienes se&#241;alados, podr&#225; perseguir su cr&#233;dito en los bienes donados entre vivos, sin su consentimiento, o enajenados en fraude de sus derechos. Si persigue los bienes donados entre vivos, deber&#225; proceder contra los donatarios en un orden inverso al de las fechas de las donaciones, esto es, principiando por las m&#225;s recientes. Esta acci&#243;n prescribir&#225; en cuatro a&#241;os contados desde la fecha del acto.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">24 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191046">
+              <Texto>    Art&#237;culo 25.- Los cr&#233;ditos contra un c&#243;nyuge, cuya causa sea anterior al t&#233;rmino del r&#233;gimen de bienes, preferir&#225;n al cr&#233;dito de participaci&#243;n en los gananciales.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">25 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191047">
+              <Texto>    Art&#237;culo 26.- La acci&#243;n para pedir la liquidaci&#243;n de los gananciales se tramitar&#225; breve y sumariamente, prescribir&#225; en el plazo de cinco a&#241;os contados desde la terminaci&#243;n del r&#233;gimen y no se suspender&#225; entre los c&#243;nyuges. Con todo, se suspender&#225; a favor de sus herederos menores.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">26 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Enumeraci&#243;n" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191049">
+          <Texto>    5. Del t&#233;rmino del r&#233;gimen de participaci&#243;n en los
+gananciales. </Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">5. Del t&#233;rmino del r&#233;gimen de participaci&#243;n en los gananciales.</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191048">
+              <Texto>    Art&#237;culo 27.- El r&#233;gimen de participaci&#243;n en los gananciales termina:
+    1) Por la muerte de uno de los c&#243;nyuges.
+    2) Por la presunci&#243;n de muerte de uno de los c&#243;nyuges, seg&#250;n lo prevenido en el T&#237;tulo II, "Del principio y fin de la existencia de las personas", del Libro Primero del C&#243;digo Civil.
+
+ 3) Por la declaraci&#243;n de nulidad del matrimonio.
+ 4) Por la sentencia de divorcio perpetuo.
+ 5) Por la sentencia que declare la separaci&#243;n de bienes.
+ 6) Por el pacto de separaci&#243;n de bienes.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">27 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Cap&#237;tulo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191051">
+      <Texto>    Cap&#237;tulo II 
+    Disposiciones varias</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">Cap&#237;tulo II Disposiciones varias</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191050">
+          <Texto>    Art&#237;culo 28.- Introd&#250;cense las siguientes modificaciones al C&#243;digo Civil:
+    1) Sustit&#250;yese el inciso primero del art&#237;culo 84, por el siguiente:
+    "Art&#237;culo 84.- En virtud del decreto de posesi&#243;n provisoria, terminar&#225; la sociedad conyugal o el r&#233;gimen de participaci&#243;n en los gananciales, seg&#250;n cual hubiera habido con el desaparecido; se proceder&#225; a la apertura y publicaci&#243;n del testamento, si el desaparecido hubiera dejado alguno, y se dar&#225; la posesi&#243;n provisoria a los herederos presuntivos.".
+    2) Introd&#250;cese el siguiente art&#237;culo 132:
+    "Art&#237;culo 132.- El adulterio constituye una grave infracci&#243;n al deber de fidelidad que impone el matrimonio y da origen a las sanciones que la ley prev&#233;.
+    Cometen adulterio la mujer casada que yace con var&#243;n que no sea su marido y el var&#243;n que yace con mujer que no sea su c&#243;nyuge.".
+    3) Sustit&#250;yese el art&#237;culo 134, por el siguiente:
+    "Art&#237;culo 134.- El marido y la mujer deben proveer a las necesidades de la familia com&#250;n, atendiendo a sus facultades econ&#243;micas y al r&#233;gimen de bienes que entre ellos medie.
+    El juez, si fuere necesario, reglar&#225; la contribuci&#243;n.".
+    4) Interc&#225;lase en el inciso segundo del art&#237;culo 135 entre la palabra "conyugal" y la coma (,) que le sigue, la frase "o r&#233;gimen de participaci&#243;n en los gananciales".
+    5) Agr&#233;gase a continuaci&#243;n del art&#237;culo 145, que ha pasado a ser 138, el siguiente art&#237;culo 138 bis:
+    "Art&#237;culo 138 bis.- Si el marido se negare injustificadamente a ejecutar un acto o celebrar un contrato respecto de un bien propio de la mujer, el juez, previa citaci&#243;n del marido, podr autorizarla para actuar por s&#237; misma.
+    En tal caso, la mujer s&#243;lo obligar sus bienes propios y los activos de sus patrimonios reservados o especiales de los art&#237;culos 150, 166 y 167, mas no obligar&#225; al haber social ni a los bienes propios del marido, sino hasta la concurrencia del beneficio que la sociedad o el marido hubieran reportado del acto.
+    Lo mismo se aplicar&#225; para nombrar partidor, provocar la partici&#243;n y para concurrir en ella en los casos en que la mujer tenga parte en la herencia.".
+    6) C&#225;mbiase la numeraci&#243;n de los art&#237;culos 145, 148 y 149, pasando a ser art&#237;culos 138, 139 y 140, respectivamente, debiendo figurar, entre par&#233;ntesis (), su numeraci&#243;n antigua.
+    7) Sustit&#250;yese el art&#237;culo 149, que ha pasado a ser art&#237;culo 140, por el siguiente:
+    "Art&#237;culo 140 (149).- Las reglas de los art&#237;culos precedentes sufren excepciones o modificaciones por las causas siguientes:
+    1) La existencia de bienes familiares.
+    2) El ejercitar la mujer una profesi&#243;n, industria, empleo u oficio.
+    3) La separaci&#243;n de bienes.
+    4) El divorcio perpetuo.
+    5) El r&#233;gimen de participaci&#243;n en los gananciales. De las cuatro primeras tratan los p&#225;rrafos siguientes; de la &#250;ltima, una ley especial.".
+    8) Modif&#237;case la numeraci&#243;n de los p&#225;rrafos 2, 3 y 4 del T&#237;tulo VI del Libro Primero, pasando a ser p&#225;rrafos 3, 4 y 5, respectivamente.
+    9) Introd&#250;cese, a continuaci&#243;n del p&#225;rrafo 1 del T&#237;tulo VI del Libro Primero, el siguiente p&#225;rrafo nuevo:
+
+ "&amp; 2. De los bienes familiares
+
+    Art&#237;culo 141.- El inmueble de propiedad de ambos c&#243;nyuges o de alguno de ellos, que sirva de residencia principal de la familia, y los muebles que guarnecen el hogar, podr&#225;n ser declarados bienes familiares y se regir&#225;n, entonces, por las normas de este p&#225;rrafo, cualquiera que sea el r&#233;gimen de bienes del matrimonio.
+    La antedicha declaraci&#243;n ser&#225; hecha por el juez en procedimiento breve y sumario, con conocimiento de causa y citaci&#243;n del c&#243;nyuge.
+    Con todo, la sola presentaci&#243;n de la demanda transformar&#225; provisoriamente en familiar el bien de que se trate. En su primera resoluci&#243;n el juez dispondr&#225; que se anote al margen de la inscripci&#243;n respectiva la precedente circunstancia. El Conservador practicar&#225; la subinscripci&#243;n con el solo m&#233;rito del decreto que, de oficio, le notificar&#225; el tribunal.
+    Para los efectos previstos en este art&#237;culo, los c&#243;nyuges gozar&#225;n de privilegio de pobreza.
+    El c&#243;nyuge que hiciere fraudulentamente la declaraci&#243;n a que se refiere este art&#237;culo, deber&#225; indemnizar los perjuicios causados.
+    Art&#237;culo 142.- No se podr&#225;n enajenar o gravar voluntariamente, ni prometer gravar o enajenar, los bienes familiares, sino concurriendo la voluntad de ambos c&#243;nyuges. Lo mismo regir&#225; para la celebraci&#243;n de contratos que concedan derechos personales de uso o de goce sobre alg&#250;n bien familiar.
+    La voluntad del c&#243;nyuge no propietario que no intervenga directa y expresamente en el acto, podr&#225; hacerse constar por escrito, o por escritura p&#250;blica si el acto exigiere esta solemnidad. Tambi&#233;n podr&#225; prestarse esa voluntad por medio de mandato especial que conste por escrito o por escritura p&#250;blica, seg&#250;n sea el caso.
+    Art&#237;culo 143.- El c&#243;nyuge no propietario, cuya voluntad no se haya expresado en conformidad con lo previsto en el art&#237;culo anterior, podr&#225; pedir la rescisi&#243;n del acto.
+    Los adquirentes de derechos sobre un inmueble que es bien familiar, estar&#225;n de mala fe a los efectos de las obligaciones restitutorias que la declaraci&#243;n de nulidad origine.
+    Art&#237;culo 144.- En los casos del art&#237;culo 142, la voluntad del c&#243;nyuge no propietario de un bien familiar podr&#225; ser suplida por el juez en caso de imposibilidad o negativa que no se funde en el inter&#233;s de la familia. El juez proceder&#225; con conocimiento de causa, y con citaci&#243;n del c&#243;nyuge, en caso de negativa de &#233;ste.
+    Art&#237;culo 145.- Los c&#243;nyuges, de com&#250;n acuerdo, podr&#225;n desafectar un bien familiar. Si la declaraci&#243;n se refiere a un inmueble, deber&#225; constar en escritura p&#250;blica anotada al margen de la inscripci&#243;n respectiva.
+    El c&#243;nyuge propietario podr&#225; pedir al juez la desafectaci&#243;n de un bien familiar, fundado en que no est&#225; actualmente destinado a los fines que indica el art&#237;culo 141, lo que deber&#225; probar. En este caso, el juez proceder&#225; en la forma establecida en el inciso segundo del art&#237;culo 141.
+    Igual regla se aplicar&#225; si el matrimonio se ha declarado nulo o ha terminado por muerte de alguno de los c&#243;nyuges. En tal caso, el contrayente del matrimonio actualmente nulo o los causahabientes del fallecido deber&#225;n formular la petici&#243;n correspondiente.
+    Art&#237;culo 146.- Lo previsto en este p&#225;rrafo se aplica a los derechos o acciones que los c&#243;nyuges tengan en sociedades propietarias de un inmueble que sea residencia principal de la familia.
+    Producida la afectaci&#243;n de derechos o acciones, se requerir&#225; asimismo la voluntad de ambos c&#243;nyuges para realizar cualquier acto como socio o accionista de la sociedad respectiva, que tenga relaci&#243;n con el bien familiar.
+    La afectaci&#243;n de derechos se har&#225; por declaraci&#243;n de cualquiera de los c&#243;nyuges contenida en escritura p&#250;blica. En el caso de una sociedad de personas, deber&#225; anotarse al margen de la inscripci&#243;n social respectiva, si la hubiere. Trat&#225;ndose de sociedades an&#243;nimas, se inscribir&#225; en el registro de accionistas.
+    Art&#237;culo 147.- Durante el matrimonio o disuelto &#233;ste, el juez podr&#225; constituir, prudencialmente, a favor del c&#243;nyuge no propietario, derechos de usufructo, uso o habitaci&#243;n sobre los bienes familiares. En la constituci&#243;n de esos derechos y en la fijaci&#243;n del plazo que les pone t&#233;rmino, el juez tomar&#225; especialmente en cuenta el inter&#233;s de los hijos, cuando los haya, y las fuerzas patrimoniales de los c&#243;nyuges. El tribunal podr&#225;, en estos casos, fijar otras obligaciones o modalidades si as&#237; pareciere equitativo.
+    La declaraci&#243;n judicial a que se refiere el inciso anterior servir&#225; como t&#237;tulo para todos los efectos legales.
+    La constituci&#243;n de los mencionados derechos sobre bienes familiares no perjudicar&#225; a los acreedores que el c&#243;nyuge propietario ten&#237;a a la fecha de su constituci&#243;n, ni aprovechar&#225; a los acreedores que el c&#243;nyuge no propietario tuviere en cualquier momento.
+    Art&#237;culo 148.- Los c&#243;nyuges reconvenidos gozan del beneficio de excusi&#243;n. En consecuencia, cualquiera de ellos podr&#225; exigir que antes de proceder contra los bienes familiares se persiga el cr&#233;dito en otros bienes del deudor. Las disposiciones del T&#237;tulo XXXVI del Libro Cuarto sobre la fianza se aplicar&#225;n al ejercicio de la excusi&#243;n a que se refiere este art&#237;culo, en cuanto corresponda.
+    Cada vez que en virtud de una acci&#243;n ejecutiva deducida por un tercero acreedor, se disponga el embargo de alg&#250;n bien familiar de propiedad del c&#243;nyuge deudor, el juez dispondr&#225; se notifique personalmente el mandamiento correspondiente al c&#243;nyuge no propietario. Esta notificaci&#243;n no afectar&#225; los derechos y acciones del c&#243;nyuge no propietario sobre dichos bienes.
+    Art&#237;culo 149.- Es nula cualquiera estipulaci&#243;n que contravenga las disposiciones de este p&#225;rrafo.".
+    10) En el art&#237;culo 155:
+    a) Sustit&#250;yese el inciso tercero por el siguiente:
+    "En el caso del N&#176; 8 del art&#237;culo 21 de la Ley de Matrimonio Civil, la mujer podr&#225; pedir la separaci&#243;n de bienes transcurrido un a&#241;o desde que se produce la ausencia del marido. Lo mismo ser&#225; si, sin mediar ausencia, existe separaci&#243;n de hecho de los c&#243;nyuges." b) Interc&#225;lase en su inciso cuarto, entre la palabra "descuidada" y la coma (,) que la sigue, la siguiente frase: "o hay riesgo inminente de ello,".
+    11) Sustit&#250;yese el art&#237;culo 158, por el siguiente:
+    "Art&#237;culo 158.- Lo que en los art&#237;culos anteriores de este p&#225;rrafo se dice del marido o de la mujer, se aplica indistintamente a los c&#243;nyuges en el r&#233;gimen de participaci&#243;n en los gananciales.
+    Una vez decretada la separaci&#243;n, se proceder&#225; a la divisi&#243;n de los gananciales y al pago de recompensas o al c&#225;lculo del cr&#233;dito de participaci&#243;n en los gananciales, seg&#250;n cual fuere el r&#233;gimen al que se pone t&#233;rmino.".
+    12) Sustit&#250;yese el inciso segundo del art&#237;culo 228, por el siguiente:
+    "Si existe separaci&#243;n de bienes o r&#233;gimen de participaci&#243;n en los gananciales, ambos c&#243;nyuges deber&#225;n contribuir a dichos gastos en proporci&#243;n a sus facultades.".
+    13) Modif&#237;case el art&#237;culo 243, de la siguiente forma:
+    a) Sustit&#250;yese el N&#176; 3&#176;, por el siguiente:
+    "3&#176; Las herencias o legados que hayan pasado al hijo por incapacidad o indignidad del padre, o por haber sido &#233;ste desheredado, en cuyo caso el usufructo corresponder&#225; a la madre si est&#225; casada en r&#233;gimen de participaci&#243;n en los gananciales o de separaci&#243;n total de bienes.".
+    b) Sustit&#250;yese el inciso final, por el siguiente:
+    "Cuando el donante o testador ha dispuesto que el padre no tenga el usufructo de los bienes del hijo, dicho usufructo corresponder&#225; a la madre si est&#225; casada en r&#233;gimen de participaci&#243;n en los gananciales o de separaci&#243;n total de bienes.".
+    14) Der&#243;gase el n&#250;mero 1&#176; del art&#237;culo 448.
+    15) Sustit&#250;yese el art&#237;culo 450, por el siguiente:
+    "Art&#237;culo 450.- Ning&#250;n c&#243;nyuge podr&#225; ser curador del otro declarado disipador.".
+    16) Supr&#237;mese, en el N&#176; 10 del art&#237;culo 497, la frase "que han sido condenados o".
+    17) Sustit&#250;yese el inciso final del art&#237;culo 503, por el siguiente:
+    "Con todo, esta inhabilidad no regir&#225; en el caso del art&#237;culo 135, en el de separaci&#243;n convencional ni en el evento de haber entre los c&#243;nyuges r&#233;gimen de participaci&#243;n en los gananciales, en todos los cuales podr&#225; el juez, oyendo a los parientes, deferir la guarda al marido o a la mujer.".
+    18) Sustit&#250;yese el n&#250;mero 5&#176; del art&#237;culo 514, por el siguiente:
+    "5&#176;. El padre o madre que tenga a su cargo el cuidado cotidiano del hogar;".
+    19) Reempl&#225;zase en el art&#237;culo 1076 la palabra "mujer" por la palabra "persona";
+    20) Sustit&#250;yese el inciso segundo del art&#237;culo 1176, por el siguiente:
+    "Se imputar&#225;n, por tanto, a la porci&#243;n conyugal todos los bienes del c&#243;nyuge sobreviviente, inclusive su mitad de gananciales, si no la renunciare, o, si es el caso, su cr&#233;dito de participaci&#243;n en los gananciales, y los que haya de percibir como heredero abintestato en la sucesi&#243;n del difunto.".
+    21) Agr&#233;gase al art&#237;culo 1180, el siguiente inciso tercero, nuevo:
+    "Si existiere r&#233;gimen de participaci&#243;n en los gananciales entre los c&#243;nyuges, no se confundir&#225; la calidad de acreedor de gananciales con la de sucesor a t&#237;tulo de porci&#243;n conyugal en el patrimonio del difunto.".
+    22) Agr&#233;gase al final del art&#237;culo 1715, antes del punto aparte (.), la siguiente frase: "o r&#233;gimen de participaci&#243;n en los gananciales".
+    23) Reempl&#225;zase en el inciso primero del art&#237;culo 1716, la frase "el caso de pacto de separaci&#243;n total de bienes", por la expresi&#243;n "los casos".
+    24) Modif&#237;case el art&#237;culo 1719 de la siguiente forma: a) Sustit&#250;yese el inciso segundo, por el siguiente: "Lo dicho se entiende sin perjuicio de los efectos legales de la participaci&#243;n en los gananciales, de la separaci&#243;n de bienes y del divorcio.".
+    b) Agr&#233;gase el siguiente inciso tercero: "Trat&#225;ndose del r&#233;gimen de participaci&#243;n en los gananciales debe estarse a lo preceptuado en la ley respectiva.".
+    25) Sustit&#250;yese el art&#237;culo 1723, por el siguiente:
+    "Art&#237;culo 1723.- Durante el matrimonio los c&#243;nyuges mayores de edad podr&#225;n substituir el r&#233;gimen de sociedad de bienes por el de participaci&#243;n en los gananciales o por el de separaci&#243;n total. Tambi&#233;n podr&#225; n substituir la separaci&#243;n total por el r&#233;gimen de participaci&#243;n en los gananciales.
+    El pacto que los c&#243;nyuges celebren en conformidad a este art&#237;culo deber&#225; otorgarse por escritura p&#250;blica y no surtir efectos entre las partes ni respecto de terceros, sino desde que esa escritura se subinscriba al margen de la respectiva inscripci&#243;n matrimonial. Esta subinscripci&#243;n s&#243;lo podr&#225; practicarse dentro de los treinta d&#237;as siguientes a la fecha de la escritura. El pacto que en ella conste no perjudicar&#225;, en caso alguno, los derechos v&#225;lidamente adquiridos por terceros respecto del marido o de la mujer y, una vez celebrado, no podr&#225; dejarse sin efecto por el mutuo consentimiento de los c&#243;nyuges.
+    En la escritura p&#250;blica de separaci&#243;n total o en la que se pacte participaci&#243;n en los gananciales, seg&#250;n sea el caso, podr&#225;n los c&#243;nyuges liquidar la sociedad conyugal o proceder a determinar el cr&#233;dito de participaci&#243;n o celebrar otros pactos l&#237;citos, o una y otra cosa; pero todo ello no producir&#225; efecto alguno entre las partes ni respecto de terceros, sino desde la subinscripci&#243;n a que se refiere el inciso anterior.
+    Trat&#225;ndose de matrimonios celebrados en pa&#237;s extranjero y que no se hallen inscritos en Chile, ser&#225; menester proceder previamente a su inscripci&#243;n en el Registro de la Primera Secci&#243;n de la comuna de Santiago, para lo cual se exhibir&#225; al oficial civil que corresponda el certificado de matrimonio debidamente legalizado.
+    Los pactos a que se refieren este art&#237;culo y el inciso segundo del art&#237;culo 1715, no son susceptibles de condici&#243;n, plazo o modo alguno.".
+    26) Reempl&#225;zase el inciso final del art&#237;culo 1754, por el siguiente:
+    "La mujer, por su parte, no podr&#225; enajenar o gravar ni dar en arrendamiento o ceder la tenencia de los bienes de su propiedad que administre el marido, sino en los casos de los art&#237;culos 138 y 138 bis.".
+    27) Sustit&#250;yese el N&#176; 5&#176; del art&#237;culo 1764, por el siguiente:
+    "5&#176; Por el pacto de participaci&#243;n en los gananciales o de separaci&#243;n total de bienes, seg&#250;n la ley respectiva y el art&#237;culo 1723.".
+    28) Sustit&#250;yese el n&#250;mero 3&#176; del art&#237;culo 2481, por el siguiente:
+    "3&#176; Los de las mujeres casadas, por los bienes de su propiedad que administra el marido, sobre los bienes de &#233;ste o, en su caso, los que tuvieren los c&#243;nyuges por gananciales.".
+    29) Reempl&#225;zase en el inciso primero del art&#237;culo 2483, la frase inicial "Las preferencias de los n&#250;meros 3&#176;, 4&#176;, 5&#176; y 6&#176;," por "La preferencia del n&#250;mero 3&#176;, en el caso de haber sociedad conyugal, y la de los n&#250;meros 4&#176;, 5&#176; y 6&#176;,".
+    30) Reempl&#225;zanse en el art&#237;culo 2485, las palabras "del marido" por "de alguno de los c&#243;nyuges". </Texto>
+          <Metadatos>
+            <NombreParte presente="si">28 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191052">
+          <Texto>    Art&#237;culo 29.- Introd&#250;cense las siguientes modificaciones a la Ley de Matrimonio Civil:
+    1) Sustit&#250;yese el art&#237;culo 7&#176;, por el siguiente:
+    "Art&#237;culo 7&#176;.- No podr&#225; contraer matrimonio el que haya cometido adulterio con su part&#237;cipe en esa infracci&#243;n, durante el plazo de cinco a&#241;os contado desde la sentencia que as&#237; lo establezca."
+    2) Agr&#233;gase en el art&#237;culo 10, el siguiente inciso primero, pasando el actual a ser inciso segundo:
+    "Art&#237;culo 10.- En el acto de la manifestaci&#243;n del matrimonio, el oficial del Registro Civil deber&#225; entregar a los futuros contrayentes informaci&#243;n verbal o escrita respecto de los distintos reg&#237;menes patrimoniales del matrimonio. Su infracci&#243;n no producir&#225; nulidad del matrimonio ni del r&#233;gimen patrimonial, sin perjuicio de sancionar al oficial del Registro Civil de acuerdo con el Estatuto Administrativo.".
+    3) Sustit&#250;yense las causales cuarta, quinta y sexta del art&#237;culo 21, por las siguientes:
+    "4a. Tentativa de uno de los c&#243;nyuges para prostituir al otro;
+    5a. Avaricia de cualquiera de los c&#243;nyuges, si llega hasta privar al otro de lo necesario para la vida, atendidas sus facultades;
+    6a. Negarse cualquiera de los c&#243;nyuges, sin causa legal, a vivir en el hogar com&#250;n.".
+    4) Der&#243;gase la causal d&#233;cima del art&#237;culo 21. </Texto>
+          <Metadatos>
+            <NombreParte presente="si">29 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191053">
+          <Texto>    Art&#237;culo 30.- Introd&#250;cense las siguientes modificaciones a la Ley sobre Registro Civil:
+    1) Modif&#237;case el art&#237;culo 38 de la siguiente forma:
+    a) Sustit&#250;yese el inciso segundo por el siguiente:
+    "Podr&#225;n, asimismo, pactar separaci&#243;n de bienes o participaci&#243;n en los gananciales.".
+    b) Agr&#233;gase el siguiente inciso tercero:
+    "El Oficial del Registro Civil manifestar&#225;, tambi&#233;n, a los contrayentes, que pueden celebrar los pactos a que se refiere el inciso anterior y que si no lo hacen o nada dicen al respecto, se entender&#225;n casados en r&#233;gimen de sociedad conyugal.".
+    2) Reempl&#225;zase el n&#250;mero 11 del art&#237;culo 39, por el siguiente:
+    "11. Testimonio de haberse pactado separaci&#243;n de bienes o participaci&#243;n en los gananciales, cuando la hubieren convenido los contrayentes en el acto del matrimonio.".</Texto>
+          <Metadatos>
+            <NombreParte presente="si">30 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191054">
+          <Texto>    Art&#237;culo 31.- Der&#243;gase el inciso tercero del art&#237;culo 2&#176; de la ley N&#176; 7.613, que establece disposiciones sobre la adopci&#243;n.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">31 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191055">
+          <Texto>    Art&#237;culo 32.- Elim&#237;nase en el inciso segundo del art&#237;culo 5&#176; de la ley N&#176; 18.703, que dicta normas sobre adopci&#243;n de menores, la oraci&#243;n "la incapacidad en raz&#243;n de carecer de la libre disposici&#243;n de sus bienes no regir&#225; respecto de la mujer casada.".</Texto>
+          <Metadatos>
+            <NombreParte presente="si">32 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191056">
+          <Texto>    Art&#237;culo 33.- Sustit&#250;yese el inciso primero del art&#237;culo 19 de la ley N&#176; 14.908, sobre Abandono de Familia y Pago de Pensiones Alimenticias, por el siguiente:
+    "Art&#237;culo 19.- Cualquiera de los c&#243;nyuges podr&#225; solicitar la separaci&#243;n de bienes si el otro, obligado al pago de pensiones alimenticias, en su favor o en el de sus hijos comunes, hubiere sido apremiado por dos veces en la forma se&#241;alada en el inciso primero del art&#237;culo 15.".</Texto>
+          <Metadatos>
+            <NombreParte presente="si">33 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191057">
+          <Texto>    Art&#237;culo 34.- Der&#243;ganse los art&#237;culos 375 al 381 del C&#243;digo Penal.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">34 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191058">
+          <Texto>    Art&#237;culo 35.- Introd&#250;cense las siguientes modificaciones al C&#243;digo de Procedimiento Penal:
+    1) Sustit&#250;yese, en el N&#176; 1&#176; del art&#237;culo 17, la frase "o por los delitos de adulterio, amancebamiento o bigamia" por la oraci&#243;n "o por el delito de bigamia".
+    2) Supr&#237;mense los n&#250;meros 4 y 5 del art&#237;culo 18. </Texto>
+          <Metadatos>
+            <NombreParte presente="si">35 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191059">
+          <Texto>    Art&#237;culo 36.- Der&#243;ganse todos los preceptos legales que sean contrarios o resulten inconciliables con las normas de la presente ley.
+    Las disposiciones no derogadas deber&#225;n interpretarse en conformidad con los principios que rigen el r&#233;gimen de participaci&#243;n en los gananciales, cuando &#233;ste existiere entre los c&#243;nyuges.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">36 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191060">
+          <Texto>    Art&#237;culo 37.- Esta ley entrar&#225; en vigencia, con excepci&#243;n de lo dispuesto en los n&#250;meros 8 y 9 de su art&#237;culo 28, transcurridos 3 meses desde su publicaci&#243;n en el Diario Oficial.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">37 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1994-09-23" derogado="no derogado" idParte="7191061">
+          <Texto>    Art&#237;culo 38.- Fac&#250;ltase al Presidente de la Rep&#250;blica, por el plazo de un a&#241;o, para fijar el texto refundido, coordinado y sistematizado del C&#243;digo Civil y de las leyes complementarias, para lo cual podr&#225; incorporar las modificaciones y derogaciones de que hayan sido objeto; incluir los preceptos legales que los hayan interpretado; reunir en un mismo texto disposiciones directa y sustancialmente relacionadas entre s&#237; que se encuentren dispersas; introducir cambios formales, sea en cuanto a redacci&#243;n, para mantener la correlaci&#243;n l&#243;gica y gramatical de las frases, a titulaci&#243;n, a ubicaci&#243;n de preceptos y otros de similar naturaleza, pero s&#243;lo en la medida que sean indispensables para su coordinaci&#243;n y sistematizaci&#243;n.
+    El ejercicio de estas facultades no podr&#225; importar, en caso alguno, la alteraci&#243;n del verdadero sentido y alcance de las disposiciones legales vigentes.". </Texto>
+          <Metadatos>
+            <NombreParte presente="si">38 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+  </EstructurasFuncionales>
+  <Promulgacion fechaVersion="1994-09-23" derogado="no derogado">
+    <Texto>    Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto prom&#250;lguese y ll&#233;vese a efecto como Ley de la Rep&#250;blica.
+    Santiago, 12 de Septiembre de 1994.- EDUARDO FREI RUIZ-TAGLE, Presidente de la Rep&#250;blica.- Mar&#237;a Soledad Alvear Valenzuela, Ministra de Justicia.- Paulina Veloso Valenzuela, Ministra Directora Servicio Nacional de la Mujer Subrogante.
+    Lo que transcribo a Ud., para su conocimiento.- Saluda atentamente a Ud., Eduardo Jara Miranda, Subsecretario de Justicia.</Texto>
+  </Promulgacion>
+  
+</Norma>

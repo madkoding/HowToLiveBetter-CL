@@ -21,6 +21,7 @@ import pathlib
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 from collections import Counter
 
@@ -44,7 +45,7 @@ RE_TAG = re.compile(
     r"\s*-->\s*$"
 )
 RE_CAMPO = re.compile(r"^-\s*([A-Za-zÁÉÍÓÚáéíóúñ ]+):\s*(.*)$")
-RE_URL = re.compile(r"https?://[^\s<>)\]]+")
+RE_URL = re.compile(r"https?://[^\s<>\"']+?(?=[\s<>\"']|$)")
 RE_MARCA = re.compile(r"POR VERIFICAR")
 
 # Palabras que no pueden aparecer en "En simple": el lector de esa linea no es estadistico.
@@ -330,6 +331,7 @@ def probar_urls(items: list[dict], limite: int = 400) -> list[Hallazgo]:
     for item in items:
         for url in item["urls"]:
             vistas.setdefault(url, (item["archivo"], item["linea"], item["numero"]))
+    por_url = {url: item for item in items for url in item["urls"]}
 
     for n, (url, (archivo, linea, numero)) in enumerate(sorted(vistas.items())):
         if n >= limite:
@@ -337,6 +339,33 @@ def probar_urls(items: list[dict], limite: int = 400) -> list[Hallazgo]:
                 Hallazgo("AVISO", "—", 0, f"quedan {len(vistas) - limite} URLs sin probar (limite {limite})")
             )
             break
+        # Los DOI se verifican contra Crossref: responde 200 si el DOI existe, y ademas
+        # permite confirmar que el titulo real coincide con el citado.
+        if "doi.org/" in url:
+            doi = url.split("doi.org/", 1)[1].strip()
+            try:
+                pet = urllib.request.Request(
+                    f"https://api.crossref.org/works/{urllib.parse.quote(doi)}",
+                    headers={"User-Agent": "verificador-guia/1.0 (mailto:madkoding@gmail.com)"},
+                )
+                with urllib.request.urlopen(pet, timeout=25) as resp:
+                    registro = json.load(resp)["message"]
+                titulo = (registro.get("title") or ["?"])[0]
+                anio = ((registro.get("issued", {}).get("date-parts") or [[None]])[0] or [None])[0]
+                dueno = por_url[url]
+                dueno["_doi_titulo"] = dueno.get("_doi_titulo", {})
+                dueno["_doi_titulo"][doi] = {"titulo": titulo, "anio": anio}
+            except urllib.error.HTTPError as e:
+                if e.code == 404:
+                    hallazgos.append(
+                        Hallazgo("ERROR", archivo, linea, f"item {numero}: el DOI no existe en Crossref (404): {doi}")
+                    )
+                else:
+                    hallazgos.append(Hallazgo("AVISO", archivo, linea, f"item {numero}: Crossref respondio {e.code} para {doi}"))
+            except Exception as e:  # noqa: BLE001
+                hallazgos.append(Hallazgo("AVISO", archivo, linea, f"item {numero}: no se pudo verificar {doi} ({type(e).__name__})"))
+            continue
+
         try:
             pet = urllib.request.Request(url, method="GET", headers={"User-Agent": "Mozilla/5.0 (verificador HTLB-CL)"})
             with urllib.request.urlopen(pet, timeout=15) as resp:

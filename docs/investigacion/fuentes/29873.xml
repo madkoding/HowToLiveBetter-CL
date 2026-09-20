@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><Norma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.leychile.cl/esquemas" xsi:schemaLocation="http://www.leychile.cl/esquemas http://www.leychile.cl/esquemas/EsquemaIntercambioNorma-v1-0.xsd" normaId="29873" esTratado="no tratado" fechaVersion="1985-11-23" SchemaVersion="1.0" derogado="no derogado">
+  <Identificador fechaPromulgacion="1985-11-14" fechaPublicacion="1985-11-23">
+    <TiposNumeros>
+      <TipoNumero>
+        <Tipo>Ley</Tipo>
+        <Numero>18470</Numero>
+      </TipoNumero>
+    </TiposNumeros>
+    <Organismos>
+      <Organismo>MINISTERIO DE JUSTICIA</Organismo>
+    </Organismos>
+  </Identificador>
+  <Metadatos>
+    <TituloNorma>MODIFICA ARTICULOS 175 Y 289 LETRA B), DEL CODIGO
+ORGANICO DE TRIBUNALES</TituloNorma>
+    
+    
+    
+    <IdentificacionFuente>Diario Oficial</IdentificacionFuente>
+    <NumeroFuente>32329</NumeroFuente>
+  </Metadatos>
+  <Encabezado fechaVersion="1985-11-23" derogado="no derogado">
+    <Texto>LEY NUM. 18.470
+
+MODIFICA ARTICULOS 175 Y 289 LETRA B), DEL CODIGO ORGANICO DE TRIBUNALES
+
+    La Junta de Gobierno de la Rep&#250;blica de Chile ha dado su aprobaci&#243;n al siguiente
+
+    Proyecto de ley:</Texto>
+  </Encabezado>
+  <EstructurasFuncionales>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1985-11-23" derogado="no derogado" idParte="7183680">
+      <Texto>    Art&#237;culo &#250;nico.- Introd&#250;cense las siguientes modificaciones al C&#243;digo Org&#225;nico de Tribunales:
+    1.- Sustit&#250;yese, en el inciso tercero del art&#237;culo 175, la palabra "s&#225;bado", por "domingo".
+    2.- Reempl&#225;zase la letra b) del art&#237;culo 289 por la siguiente:
+    "b) Con los abogados oponentes y con los funcionarios sin t&#237;tulo de abogado de la misma serie del cargo que se trata de proveer, siempre que tengan m&#225;s de dos a&#241;os de permanencia en la categor&#237;a inmediatamente inferior, para los que pretendan ascender una categor&#237;a; y m&#225;s de diez a&#241;os para aquellos que opten a un cargo superior en dos o m&#225;s categor&#237;as. Podr&#225;n tambi&#233;n figurar en estas ternas los empleados del Poder Judicial a que se refiere el art&#237;culo 292, que pertenezcan a una de las cuatro primeras categor&#237;as del respectivo escalaf&#243;n y que hayan figurado en ellas m&#225;s de diez a&#241;os.". </Texto>
+      <Metadatos>
+        <NombreParte presente="si">UNICO</NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+  </EstructurasFuncionales>
+  <Promulgacion fechaVersion="1985-11-23" derogado="no derogado">
+    <Texto>    JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada, Miembro de la Junta de Gobierno.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza A&#233;rea, Miembro de la Junta de Gobierno.- RODOLFO STANGE OELCKERS, General Director de Carabineros, Miembro de la Junta de Gobierno.- CESAR RAUL BENAVIDES ESCOBAR, Teniente General de Ej&#233;rcito, Miembro de la Junta de Gobierno.
+    Por cuanto he tenido a bien aprobar la precedente ley, la sanciono y la firmo en se&#241;al de promulgaci&#243;n. Ll&#233;vese a efecto como Ley de la Rep&#250;blica.
+    Reg&#237;strese en la Contralor&#237;a General de la Rep&#250;blica, publ&#237;quese en el Diario Oficial e ins&#233;rtese en la Recopilaci&#243;n Oficial de dicha Contralor&#237;a.
+    Santiago, 14 de noviembre de 1985.- AUGUSTO PINOCHET UGARTE, General de Ej&#233;rcito, Presidente de la Rep&#250;blica.- Hugo Rosende Subiabre, Ministro de Justicia.
+    Lo que transcribo para su conocimiento.- Le saluda atentamente.- Mar&#237;a Isabel Sessarego D&#237;az, Subsecretario de Justicia.</Texto>
+  </Promulgacion>
+  
+</Norma>

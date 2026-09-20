@@ -1,0 +1,12 @@
+# nombre<TAB>url
+isp_home	https://www.ispch.gob.cl/
+conaset_est	https://www.conaset.cl/estadisticas/
+conaset_home	https://www.conaset.cl/
+chileatiende_ges_ficha	https://www.chileatiende.gob.cl/fichas/2464-plan-auge-ges
+chileatiende_emp	https://www.chileatiende.gob.cl/fichas/2545-examen-de-medicina-preventiva
+chileatiende_ges_listado	https://www.chileatiende.gob.cl/fichas/113212-programa-de-reparacion-y-atencion-en-salud-prais-del-ministerio-de-salud
+minsal_pni	https://www.minsal.cl/?s=programa+nacional+de+inmunizaciones
+saludresponde_emergencia	https://saludresponde.minsal.cl/salud-responde/
+supersalud_estadisticas	https://www.superdesalud.gob.cl/tax-acerca-de-la-superintendencia/estadisticas-6117/
+fonasa_estadisticas	https://www.fonasa.gob.cl/estadisticas-institucionales
+suseso_home	https://www.suseso.cl/

@@ -1,0 +1,12 @@
+# nombre<TAB>url
+epi_ens	https://epi.minsal.cl/encuesta-ens/
+datos_gob_minsal	https://datos.gob.cl/organization/ministerio_de_salud
+conaset_est	https://www.conaset.cl/estadisticas/
+superdesalud_home	https://www.superdesalud.gob.cl/
+fonasa_home	https://www.fonasa.gob.cl/
+chileatiende_emp2	https://www.chileatiende.gob.cl/fichas/1145-examen-de-medicina-preventiva
+minsal_salud_mental	https://www.minsal.cl/salud-mental/
+saludresponde_home	https://saludresponde.minsal.cl/
+minsal_vacunas_pni	https://www.minsal.cl/programa-nacional-de-inmunizaciones/
+isp_home2	https://www.ispch.cl/
+leychile_test	https://www.bcn.cl/leychile/navegar?idNorma=229834&idParte=10312507

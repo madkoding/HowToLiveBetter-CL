@@ -1,3 +1,14 @@
+FUENTE: Biblioteca del Congreso Nacional de Chile - LeyChile
+URL   : https://www.bcn.cl/leychile/navegar?idNorma=29526
+API   : https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=29526
+NORMA : Ley 18101
+TITULO: FIJA NORMAS ESPECIALES SOBRE ARRENDAMIENTO DE PREDIOS URBANOS
+ORG   : MINISTERIO DE VIVIENDA Y URBANISMO
+PUBLICACION: 1982-01-29
+VERSION (fechaVersion del XML): 2022-06-30
+DEROGADO: no derogado
+DESCARGADO: 2026-09-20
+==============================================================================
 FIJA NORMAS ESPECIALES SOBRE ARRENDAMIENTO DE PREDIOS
 URBANOS
 La Junta de Gobierno de la República de Chile ha dado

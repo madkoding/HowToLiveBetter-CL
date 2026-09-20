@@ -1,0 +1,11 @@
+# nombre<TAB>url
+ca_ges_nuevo	https://www.superdesalud.gob.cl/orientacion-en-salud/garantias-explicitas-en-salud-ges/
+circular517	https://www.superdesalud.gob.cl/app/uploads/2025/11/circular-if-n-517-2025.pdf
+minsal_emp	https://www.minsal.cl/examen-medicina-preventiva
+ca_emp_momentos	https://www.chileatiende.gob.cl/momentos-de-vida/Acceder+a+salud+p%C3%BAblica/Conoce+y+accede+a+los+programas,+pr%C3%A9stamos+y+beneficios+de+Fonasa
+ssmoc_empam	https://ssmoc.redsalud.gob.cl/examen-de-medicina-preventiva-del-adulto-mayor-2
+deis_mortalidad_cancer	https://deis.minsal.cl/#mortalidadcancer
+ca_vih	https://www.chileatiende.gob.cl/fichas/10433-vih-sida
+ca_diabetes	https://www.chileatiende.gob.cl/fichas/1226-diabetes
+ca_hipertension	https://www.chileatiende.gob.cl/fichas/1201-hipertension-arterial
+ca_salud_mental	https://www.chileatiende.gob.cl/fichas/1097-salud-mental

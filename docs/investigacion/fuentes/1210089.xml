@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?><Norma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.leychile.cl/esquemas" xsi:schemaLocation="http://www.leychile.cl/esquemas http://www.leychile.cl/esquemas/EsquemaIntercambioNorma-v1-0.xsd" normaId="1210089" esTratado="no tratado" fechaVersion="2025-01-09" SchemaVersion="1.0" derogado="no derogado">
+  <Identificador fechaPromulgacion="2023-04-04" fechaPublicacion="2025-01-09">
+    <TiposNumeros>
+      <TipoNumero>
+        <Tipo>Decreto</Tipo>
+        <Numero>7</Numero>
+      </TipoNumero>
+    </TiposNumeros>
+    <Organismos>
+      <Organismo>MINISTERIO DE VIVIENDA Y URBANISMO</Organismo>
+    </Organismos>
+  </Identificador>
+  <Metadatos>
+    <TituloNorma>APRUEBA REGLAMENTO DE LA LEY N&#176; 21.442 QUE APRUEBA NUEVA LEY DE COPROPIEDAD INMOBILIARIA</TituloNorma>
+    
+    
+    
+    <IdentificacionFuente>Diario Oficial</IdentificacionFuente>
+    <NumeroFuente>44044</NumeroFuente>
+  </Metadatos>
+  <Encabezado fechaVersion="2025-01-09" derogado="no derogado">
+    <Texto>APRUEBA REGLAMENTO DE LA LEY N&#176; 21.442 QUE APRUEBA NUEVA LEY DE COPROPIEDAD INMOBILIARIA
+     
+     Santiago, 4 de abril de 2023.- Hoy se decret&#243; lo que sigue:
+     N&#250;m. 7.
+     
+     Visto:
+     
+     Las facultades que me confiere el art&#237;culo 32 n&#250;mero 6&#186; de la Constituci&#243;n Pol&#237;tica de la Rep&#250;blica de Chile; la ley N&#176; 16.391 que crea el Ministerio de la Vivienda y Urbanismo; el decreto ley N&#176; 1.305, (V. y U), de 1975, que reestructura y regionaliza el Ministerio de la Vivienda y Urbanismo; la ley N&#176; 21.442, que aprueba nueva ley de copropiedad inmobiliaria, en especial lo dispuesto en su art&#237;culo 11; y la resoluci&#243;n N&#176; 7, de 2019, de la Contralor&#237;a General de la Rep&#250;blica.
+     
+     Considerando:
+     
+     Que mediante la ley N&#176; 21.442, publicada en el Diario Oficial el d&#237;a 13 de abril de 2022, se aprob&#243; la nueva ley de copropiedad inmobiliaria, la que en su art&#237;culo 6&#176; transitorio se&#241;ala que el reglamento de la misma deber&#225; dictarse dentro del plazo de doce meses, contado desde la publicaci&#243;n de la ley, y ser sometido a consulta p&#250;blica, la que se verific&#243; entre los d&#237;as 11 de enero y 10 de febrero de 2023, en conformidad a lo dispuesto en el art&#237;culo 8&#176; del numeral 1 de la resoluci&#243;n exenta N&#176; 3.288 (V. y U), de 2015, que aprueba la norma general de participaci&#243;n ciudadana del Ministerio de Vivienda y Urbanismo y de sus Secretar&#237;as Regionales Ministeriales.
+     
+     Decreto:
+     
+     Apru&#233;base el siguiente Reglamento de la ley N&#176; 21.442, que aprueba la nueva Ley de copropiedad inmobiliaria:
+     </Texto>
+  </Encabezado>
+  <EstructurasFuncionales>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531753">
+      <Texto>     T&#205;TULO I
+     Del r&#233;gimen de copropiedad inmobiliaria</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">T&#205;TULO I Del r&#233;gimen de copropiedad inmobiliaria</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531754">
+          <Texto>     Art&#237;culo 1: Del &#225;mbito de aplicaci&#243;n de este reglamento: El presente reglamento se aplicar&#225; a los condominios que se acojan al r&#233;gimen de copropiedad inmobiliaria que consagra el art&#237;culo primero de la ley N&#176; 21.442, en adelante "la Ley". Asimismo, este reglamento se aplicar&#225; a las comunidades de copropietarios que se hubieran acogido a la ley N&#176; 19.537 y a aquellas que indica el art&#237;culo 99 de la ley.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">1 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531755">
+          <Texto>     Art&#237;culo 2: De las definiciones: Para los efectos del presente reglamento se entender&#225; por:
+     
+     2.1. Administrador: Persona natural o jur&#237;dica designada por los copropietarios para cumplir y ejecutar las labores de administraci&#243;n del condominio, en conformidad a lo dispuesto en la ley y en el presente reglamento, en el reglamento de copropiedad de cada condominio y en las instrucciones que le imparta la asamblea de copropietarios o el comit&#233; de administraci&#243;n.
+     2.2. Administrador provisional: Persona designada por los gobiernos regionales, municipalidades o los servicios de vivienda y urbanizaci&#243;n respectivos, por una sola vez, en los condominios de viviendas sociales que carezcan de administrador, actuando provisionalmente como tal, con las mismas facultades y obligaciones que aqu&#233;l, en conformidad a las condiciones se&#241;aladas en el art&#237;culo 68 de la ley.
+     2.3. Instrumentos de la administraci&#243;n: Ser&#225;n todos aquellos documentos en que consten actuaciones o decisiones de los &#243;rganos de la administraci&#243;n relacionados con normativas, adopci&#243;n de acuerdos, constancias, gestiones y otras situaciones relevantes del condominio, tales como el Libro de Actas, Libro de Novedades, Normas de uso y administraci&#243;n, Registro de Copropietarios, Arrendatarios y dem&#225;s Ocupantes, y otros.
+     2.4. Libro de Actas: Documento foliado en soporte digital o material, donde constan las actas de las sesiones de las asambleas de copropietarios desarrolladas en el condominio, las decisiones que adopte el copropietario en conformidad al art&#237;culo 102 de la ley, lo obrado y los acuerdos adoptados en reuniones para resoluci&#243;n de conflictos ante la municipalidad respectiva en los t&#233;rminos del art&#237;culo 47 de la ley, las actas de ingreso forzoso a unidades en los casos referidos en el art&#237;culo 42 de la ley y los acuerdos del comit&#233; de administraci&#243;n. El presidente del comit&#233; de administraci&#243;n del condominio tendr&#225; la custodia de este libro y deber&#225; asegurar el respaldo fehaciente de la informaci&#243;n contenida en este.
+     2.5. Libro de Novedades: Documento en soporte digital o material, en el que el administrador y el comit&#233; de administraci&#243;n dejar&#225;n constancia de informaci&#243;n relevante relacionada con el funcionamiento del condominio y en el que se registrar&#225;n los reclamos y solicitudes fundadas presentadas por los copropietarios, arrendatarios u ocupantes de este. Este libro deber&#225; ser mantenido bajo custodia del presidente del comit&#233; de administraci&#243;n y a disposici&#243;n de la comunidad.
+     2.6. &#211;rganos de la administraci&#243;n: Son aquellos &#243;rganos encargados de la administraci&#243;n del condominio, con las competencias y atribuciones se&#241;aladas en la ley y referidos en el art&#237;culo 12 de ella; siendo estos la asamblea de copropietarios, el comit&#233; de administraci&#243;n, el administrador y el subadministrador, cuando corresponda.
+     2.7. Registro de Condominios Habitacionales: Registro digital, contemplado en el art&#237;culo 98 de la ley, dirigido y mantenido por la Secretar&#237;a Ejecutiva de Condominios, para la debida identificaci&#243;n y ubicaci&#243;n de los condominios que incluyan unidades con destino habitacional.
+     2.8. Registro de Copropietarios, Arrendatarios y dem&#225;s Ocupantes (en adelante "Registro de Copropietarios"): Registro, en soporte digital o material, en el cual se consigna la informaci&#243;n relativa a copropietarios, arrendatarios y dem&#225;s ocupantes a cualquier t&#237;tulo, tales como derechos reales de usufructo, habitaci&#243;n o herencia o derechos personales como el comodato, el que deber&#225; mantenerse actualizado por la administraci&#243;n del condominio, conforme a lo se&#241;alado en el art&#237;culo 9, inciso quinto, numeral 6) de la ley y los art&#237;culos 5, 6 y 7 de este reglamento.
+     2.9. Reglamento de Copropiedad: Instrumento que fija las normas del r&#233;gimen administrativo de un condominio, regulando las materias enumeradas en el art&#237;culo 8 de la ley, dictado por la persona natural o jur&#237;dica propietaria del condominio o acordado por los copropietarios en su caso, de acuerdo a la ley, al presente reglamento y a las caracter&#237;sticas propias del condominio, que ser&#225; obligatorio para todos los copropietarios, para quienes les sucedan en el dominio y para los ocupantes de las unidades a cualquier t&#237;tulo. Este reglamento y sus modificaciones deber&#225;n constar en escritura p&#250;blica y estar inscrito en el Registro de Hipotecas y Grav&#225;menes del Conservador de Bienes Ra&#237;ces respectivo.
+     2.10. Secretar&#237;a Ejecutiva de Condominios: Unidad del Ministerio de Vivienda y Urbanismo, que depender&#225; directamente del Ministro, encargada de impartir las instrucciones para la aplicaci&#243;n de las normas de la ley y del presente reglamento, mediante circulares y realizar las dem&#225;s funciones se&#241;aladas en la ley.
+     2.11. Subadministrador: Persona natural o jur&#237;dica designada por los copropietarios del respectivo sector reunidos en asamblea, para cumplir y ejecutar las labores de administraci&#243;n de un sector del condominio, conforme a la ley, a este reglamento, al reglamento de copropiedad y a las instrucciones que le imparta el administrador general del condominio o el comit&#233; de administraci&#243;n. En el desempe&#241;o de su labor, el subadministrador tendr&#225; como &#250;nico objetivo velar por el adecuado uso, administraci&#243;n y mantenci&#243;n de los bienes y servicios comunes que le corresponden exclusivamente a dicho sector, rigi&#233;ndose por las funciones especificadas para el referido cargo en el reglamento de copropiedad o en el acta de constituci&#243;n de la subadministraci&#243;n.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">2 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531756">
+          <Texto>     Art&#237;culo 3: Del primer reglamento de copropiedad: Al momento de acoger un condominio al r&#233;gimen de copropiedad inmobiliaria, como parte de los requisitos se&#241;alados en el art&#237;culo 48 de la ley, deber&#225;n presentarse a la direcci&#243;n de obras municipales la copia autorizada de la escritura p&#250;blica que contenga el primer reglamento de copropiedad y la copia certificada que da cuenta de la foja, n&#250;mero y a&#241;o de su inscripci&#243;n en el Registro de Hipotecas y Grav&#225;menes del Conservador de Bienes Ra&#237;ces respectivo. Las modificaciones al reglamento de copropiedad se someter&#225;n igualmente a estas mismas exigencias.
+     Asimismo, el archivo del primer plano de copropiedad autorizado por la direcci&#243;n de obras municipales respectiva y del certificado que acoge el condominio a este r&#233;gimen se efectuar&#225; con posterioridad a la inscripci&#243;n del primer reglamento, y se materializar&#225; mediante la anotaci&#243;n al margen correspondiente en el Registro de Hipotecas y Grav&#225;menes del Conservador de Bienes Ra&#237;ces competente.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">3 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531757">
+          <Texto>     Art&#237;culo 4: De la aplicaci&#243;n del reglamento de copropiedad: Respecto de aquellas materias no reguladas expresamente por el reglamento de copropiedad del condominio, se aplicar&#225;n con car&#225;cter supletorio las disposiciones del presente reglamento.
+     Ser&#225;n nulas absolutamente aquellas disposiciones del reglamento de copropiedad que no se ajusten a las normas legales, a las materias reguladas expresamente en el presente reglamento, o a las caracter&#237;sticas propias del condominio.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">4 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531758">
+      <Texto>     T&#205;TULO II
+     De los derechos y obligaciones de los copropietarios</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">T&#205;TULO II De los derechos y obligaciones de los copropietarios</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531759">
+          <Texto>     Art&#237;culo 5: Del Registro de Copropietarios: Los copropietarios tendr&#225;n la obligaci&#243;n de solicitar su incorporaci&#243;n al Registro de Copropietarios dispuesto en el art&#237;culo 9, inciso quinto, numeral 6) de la ley, entregando al administrador del condominio la informaci&#243;n se&#241;alada en el art&#237;culo 6 de este reglamento, dentro del plazo de 60 d&#237;as corridos desde la inscripci&#243;n de la unidad o sitio urbanizado a nombre del respectivo copropietario en el Registro de Propiedad del Conservador de Bienes Ra&#237;ces correspondiente.
+     Asimismo, los copropietarios deber&#225;n proporcionar informaci&#243;n actualizada dentro del plazo de 60 d&#237;as corridos, contados desde que var&#237;en las circunstancias descritas en el presente art&#237;culo, en relaci&#243;n a situaciones propias, o de los arrendatarios u ocupantes a cualquier t&#237;tulo de la unidad o sitio. Por su parte, ser&#225; deber del administrador requerir anualmente la informaci&#243;n necesaria para la actualizaci&#243;n del Registro de Copropietarios del condominio. El reglamento de copropiedad podr&#225; establecer las sanciones en contra de aquellos copropietarios que no soliciten su incorporaci&#243;n al referido registro, que no entreguen oportunamente la informaci&#243;n actualizada o que no entreguen la informaci&#243;n que sea requerida anualmente por el administrador.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">5 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531760">
+          <Texto>     Art&#237;culo 6: Del contenido del Registro de Copropietarios: En el Registro de Copropietarios se deber&#225; individualizar al copropietario de cada unidad del condominio y a los arrendatarios y dem&#225;s ocupantes de este en virtud de otros t&#237;tulos, distinguiendo su calidad de ocupantes permanentes o transitorios, cuando corresponda, e indicando a lo menos, su nombre completo, c&#233;dula de identidad, domicilio y correo electr&#243;nico. En caso de que el copropietario de la unidad sea una persona jur&#237;dica, deber&#225;n entregarse estos mismos antecedentes respecto de esta y de su representante legal.
+     Para efectos de acreditar fehacientemente la calidad de copropietario, arrendatario u ocupante a otro t&#237;tulo, se entregar&#225; informaci&#243;n en formato digital o material, en conformidad a las siguientes reglas:
+     
+     1.   En el caso de los copropietarios, dicha calidad se acreditar&#225; mediante una copia de la inscripci&#243;n de dominio con vigencia de las unidades respectivas y una copia del documento de identidad.
+     2.   En el caso de los arrendatarios, dicha calidad se acreditar&#225; mediante copia simple del contrato de arrendamiento vigente, o en su defecto, de una declaraci&#243;n del arrendador y, en ambos casos, copia del documento de identidad de las partes.
+     3.   En el caso de ocupantes en virtud de otros t&#237;tulos, su calidad se acreditar&#225; con la exhibici&#243;n de estos o mediante una declaraci&#243;n escrita por parte del copropietario de la unidad y, en ambos casos, copia del documento de identidad de las partes.
+     
+     En el caso de los numerales 2 y 3 precedentes se deber&#225;, adicionalmente, acreditar la identidad del copropietario de las respectivas unidades, en conformidad a lo se&#241;alado en el numeral 1.
+     En el caso de los condominios que cuenten con unidades con destino habitacional ser&#225; obligatorio consignar la distinci&#243;n entre ocupantes permanentes y transitorios, referida en el inciso 1&#176; del presente art&#237;culo. Para estos efectos, se considerar&#225; como ocupantes permanentes del condominio, a quienes residan, a lo menos, por 30 d&#237;as corridos en la unidad respectiva. No obstante, en la medida de que se acredite la existencia de circunstancias particulares, independientes del tiempo de permanencia en la unidad, como por ejemplo el caso de ocupantes permanentes que deben desempe&#241;arse laboralmente mediante sistema de turnos en otras regiones del pa&#237;s u ocupantes transitorios que requieran hospedaje tur&#237;stico por m&#225;s de 30 d&#237;as, los ocupantes podr&#225;n indicar expresamente al administrador del condominio su calidad de permanente o transitorio.
+     Atendidas las caracter&#237;sticas propias del condominio, tales como, tipo de condominio, existencia de construcciones en altura, pisos de la edificaci&#243;n, materialidad de las construcciones, ubicaci&#243;n del condominio y otras, los copropietarios podr&#225;n acordar en asamblea, entregar voluntariamente informaci&#243;n adicional a la dispuesta, en cumplimiento de la obligaci&#243;n contenida en el inciso primero de este art&#237;culo.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">6 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531761">
+          <Texto>     Art&#237;culo 7: De la reserva de informaci&#243;n del Registro de Copropietarios: Atendida la informaci&#243;n contenida en este registro y las disposiciones de la ley N&#176; 19.628 sobre Protecci&#243;n de la Vida Privada, el administrador deber&#225; velar por la protecci&#243;n y resguardo de los datos personales, asegurando que la mencionada informaci&#243;n sea solo utilizada para las finalidades se&#241;aladas en el presente reglamento o en los respectivos reglamentos de copropiedad. En cumplimiento de lo anterior, cuando la informaci&#243;n contenida en el Registro de Copropietarios sea requerida por copropietarios u ocupantes del condominio ajenos a la administraci&#243;n, en conformidad al art&#237;culo 9 inciso sexto de la ley, solo podr&#225; entregarse informaci&#243;n estad&#237;stica que no pueda asociarse a los datos espec&#237;ficos de cada unidad, salvo autorizaci&#243;n expresa del copropietario afectado.
+     Sin perjuicio del deber de velar por la protecci&#243;n y resguardo de los datos personales se&#241;alado en el inciso anterior, la informaci&#243;n contenida en el registro ser&#225; utilizada por el administrador y el comit&#233; de administraci&#243;n y podr&#225; ser requerida por cualquier copropietario, arrendatario u ocupante, seg&#250;n corresponda, en los siguientes casos:
+     
+     1. Para la actualizaci&#243;n del plan de evacuaci&#243;n en conformidad al art&#237;culo 40, inciso 4&#176; de la ley.
+     2. Para el ingreso forzoso a alguna unidad, en conformidad al art&#237;culo 42 de la ley.
+     3. Ante la ocurrencia de alg&#250;n siniestro o emergencia en el condominio.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">7 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531762">
+          <Texto>     Art&#237;culo 8: Del uso de aplicaciones para recaudar las obligaciones econ&#243;micas del condominio: Mediante acuerdo del comit&#233; de administraci&#243;n, podr&#225;</Texto>
+          <Metadatos>
+            <NombreParte presente="si">8 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531763">
+          <Texto>     Art&#237;culo 9: De los convenios de pago: El administrador estar&#225; facultado para celebrar convenios de pago con aquellos copropietarios que se encuentren morosos respecto de sus obligaciones econ&#243;micas. Para estos efectos, el comit&#233; de administraci&#243;n podr&#225; dictar normas de uso y administraci&#243;n, que establezcan criterios generales y objetivos que permitan el acceso igualitario de los copropietarios morosos a la suscripci&#243;n de los referidos convenios, en funci&#243;n de la antig&#252;edad y monto de la deuda, u otros antecedentes que resulten relevantes y que permitan evitar cualquier arbitrariedad en el acceso, suscripci&#243;n y t&#233;rminos del convenio. Para la celebraci&#243;n de dichos convenios, el administrador deber&#225; sujetarse a las normas antes referidas, en caso de que existan.
+     El convenio deber&#225; ser suscrito presencial o electr&#243;nicamente por el copropietario moroso y el administrador, y en este podr&#225;n acordarse cuotas con vencimientos mensuales para el pago de la deuda, debiendo ser registrado en el archivo de documentos y en la contabilidad del condominio. Con todo, para celebrar el convenio de pago, el administrador deber&#225; requerir el acuerdo del comit&#233; de administraci&#243;n, el que deber&#225; constar por escrito y comunicarse por la v&#237;a m&#225;s id&#243;nea. Los convenios de pago vigentes podr&#225;n ser requeridos por cualquier copropietario del condominio y deber&#225;n considerarse en la rendici&#243;n de cuentas que debe hacer el administrador ante la asamblea de copropietarios.
+     La primera cuota del convenio deber&#225; pagarse al momento de suscribirlo y desde ese momento, y mientras cumpla con los t&#233;rminos convenidos y sus otras obligaciones econ&#243;micas, dicho copropietario ser&#225; considerado como copropietario h&#225;bil para los efectos se&#241;alados en la ley y en el presente reglamento. Si las normas de uso y administraci&#243;n dictadas por el comit&#233; de administraci&#243;n lo permitieren, podr&#225;n efectuarse repactaciones al convenio de pago. En todo caso, nunca podr&#225; suscribirse un convenio de pago adicional respecto del copropietario que tenga un convenio de pago vigente. Solo una vez pagada la &#250;ltima cuota de dicho convenio, el copropietario podr&#225; solicitar un nuevo convenio por obligaciones econ&#243;micas impagas distintas a las consideradas en el convenio anterior.
+     Las cuotas que tengan su origen en el convenio suscrito deber&#225;n consignarse, mientras aquel est&#233; vigente, en el respectivo aviso de cobro que haga el administrador respecto de las obligaciones econ&#243;micas mensuales del copropietario. Para efectos del pago de las cuotas convenidas, el copropietario deber&#225; sujetarse a lo se&#241;alado en el art&#237;culo 7 de la ley.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">9 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531764">
+          <Texto>     Art&#237;culo 10: Del resguardo de la calidad de vida de los ocupantes permanentes del condominio: En conformidad a lo dispuesto en el art&#237;culo 8 letra j) de la ley, el reglamento de copropiedad podr&#225; establecer normas de convivencia con el objeto de resguardar que el uso de las unidades habitacionales como alojamiento temporal, hospedaje tur&#237;stico, apart-hotel u otros an&#225;logos, no produzca molestias que afecten la calidad de vida de los ocupantes permanentes del condominio ni afectaci&#243;n en el uso de los bienes y servicios comunes por parte de &#233;stos. Para este efecto, solo podr&#225;n ser considerados como ocupantes permanentes del condominio, aquellos se&#241;alados expresamente como tales en el Registro de Copropietarios.
+     Estas normas de convivencia podr&#225;n establecer l&#237;mites y restricciones para el uso de los bienes y servicios comunes tales como piscina, gimnasio y otros de similar naturaleza, por parte de los ocupantes transitorios antes referidos. Dichas normas podr&#225;n consistir, sin que la siguiente enumeraci&#243;n sea taxativa, en:
+     
+     1.   Disposici&#243;n de un l&#237;mite en el n&#250;mero de usuarios simult&#225;neos en el uso de los bienes y servicios comunes.
+     2.   Definici&#243;n de horarios de uso de los bienes y servicios comunes.
+     3.   Establecimiento de preferencias de los ocupantes permanentes respecto de los transitorios en el uso de los bienes y servicios comunes.
+     
+     En ning&#250;n caso estas normas podr&#225;n implicar discriminaci&#243;n arbitraria en contra de los ocupantes transitorios del condominio.
+     En virtud de las limitaciones y restricciones referidas en el presente art&#237;culo, el reglamento de copropiedad podr&#225; establecer las respectivas sanciones y apremios por incumplimiento a las normas de convivencia reguladas, siendo funci&#243;n del comit&#233; de administraci&#243;n la aplicaci&#243;n de estas.
+     Los referidos l&#237;mites y restricciones al uso de los bienes y servicios comunes no ser&#225;n aplicables a las visitas, trabajadores de las unidades o del condominio, ni a otro tipo de personas que se encuentren en una situaci&#243;n de ocupaci&#243;n de las unidades que no sea an&#225;loga a los alojamientos temporales, hospedajes tur&#237;sticos o apart-hotel. El uso de los bienes y servicios comunes en esos casos, podr&#225; ser regulado en las normas de uso y administraci&#243;n o en el reglamento de copropiedad.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">10 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531765">
+      <Texto>     T&#205;TULO III
+     De la administraci&#243;n de las copropiedades</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">T&#205;TULO III De la administraci&#243;n de las copropiedades</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Par&#225;grafo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531766">
+          <Texto>     P&#225;rrafo 1&#176; De las asambleas de copropietarios</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 1&#176; De las asambleas de copropietarios</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531767">
+              <Texto>     Art&#237;culo 11: Del deber de asistencia a las sesiones: Todo copropietario estar&#225; obligado a asistir a las sesiones de asamblea de copropietarios respectivas, sea personalmente o representado, seg&#250;n disponga el reglamento de copropiedad. Dicho reglamento deber&#225; establecer requisitos, modalidades y/o formalidades para que opere la representaci&#243;n de los copropietarios, en aquellos casos en que no puedan asistir personalmente. De igual modo, podr&#225; establecer sanciones dirigidas a aquellos copropietarios que no participen en las sesiones, no sean representados en ellas, ni justifiquen su inasistencia, de acuerdo con los est&#225;ndares y circunstancias que defina la asamblea de copropietarios.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">11 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531768">
+              <Texto>     Art&#237;culo 12: De la facultad de representaci&#243;n en las sesiones: Si el copropietario no asistiere personalmente y no hiciere uso del derecho de designar representante o, habi&#233;ndolo designado, este no asistiere, para este efecto se entender&#225; que acepta, por el solo ministerio de la ley, que asuma su representaci&#243;n para asistir a las sesiones de asamblea, el arrendatario o el ocupante a quien hubiere entregado la tenencia de su unidad, y que se encuentre individualizado en su calidad de tal, en el Registro de Copropietarios a que se hace referencia en el art&#237;culo 9, inciso quinto, N&#176; 6) de la ley. Sin perjuicio de lo anterior, en aquellos casos en que los arrendatarios u ocupantes de las unidades, no se encuentren incorporados en el registro referido, podr&#225;n acreditar su calidad de tal ante el administrador, en conformidad a lo dispuesto en los numerales correspondientes referidos en el inciso 2&#176; del art&#237;culo 6 del presente reglamento, para efectos de representar al copropietario de la unidad, en conformidad al art&#237;culo 5, inciso 2&#176; de la ley.
+     De esta manera, cuando los arrendatarios u ocupantes actuaren en representaci&#243;n de un copropietario, se considerar&#225;n para el qu&#243;rum de constituci&#243;n de las asambleas y podr&#225;n votar en proporci&#243;n a los derechos que representan las unidades que arriendan u ocupan.
+     Sin perjuicio de ello, el copropietario podr&#225; comunicar al comit&#233; de administraci&#243;n y al administrador, su decisi&#243;n de no otorgar la facultad de representaci&#243;n en las sesiones de las asambleas de copropietarios, al arrendatario o al ocupante de su unidad, para lo cual bastar&#225; dejar constancia de dicha circunstancia mediante el env&#237;o de un correo electr&#243;nico por parte del copropietario a las casillas de correo electr&#243;nico del comit&#233; de administraci&#243;n y del administrador, o mediante comunicaci&#243;n escrita en soporte material, entregada personalmente a cualquiera de ellos, se&#241;alando previamente las sesiones o el per&#237;odo de tiempo durante el cual no otorgar&#225; la facultad de representaci&#243;n referida. Esta decisi&#243;n ser&#225; siempre revocable, y tanto el comit&#233; de administraci&#243;n como el administrador, proceder&#225;n en conformidad a la &#250;ltima comunicaci&#243;n enviada por los copropietarios sobre el particular.
+     No operar&#225; esta representaci&#243;n legal de los copropietarios en estos casos:
+     
+     1.   Cuando el copropietario asista personalmente.
+     2.   Cuando el copropietario haya designado a otro representante, y este asista en su representaci&#243;n.
+     3.   Cuando el copropietario haya comunicado, en la forma se&#241;alada en el inciso precedente, sobre su decisi&#243;n de no otorgar la facultad de representaci&#243;n al arrendatario o al ocupante de su unidad en las sesiones respectivas.
+     
+     No obstante, los arrendatarios u ocupantes referidos podr&#225;n igualmente asistir a dichas sesiones, pero no podr&#225;n votar y no ser&#225;n considerados en los qu&#243;rums de constituci&#243;n ni en la adopci&#243;n de acuerdos.
+     Sin perjuicio de lo se&#241;alado en el presente art&#237;culo, en el caso de las materias de la asamblea se&#241;aladas en el art&#237;culo 15 de la ley, que requieran qu&#243;rum de mayor&#237;a reforzada, el arrendatario u ocupante necesitar&#225; la autorizaci&#243;n expresa del copropietario de la unidad para su representaci&#243;n, de acuerdo a la forma en que determine el respectivo reglamento del condominio.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">12 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531769">
+              <Texto>     Art&#237;culo 13: De la asistencia personal y representaci&#243;n de los propietarios de m&#225;s de una unidad en las sesiones de las asambleas: En aquellos casos en que un copropietario sea due&#241;o de m&#225;s de una unidad en el condominio, podr&#225; asistir personalmente a las sesiones en su calidad de titular de aquellas, o representado en conformidad a lo se&#241;alado en los art&#237;culos 11 y 12 del presente reglamento.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">13 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531770">
+              <Texto>     Art&#237;culo 14: De otras normas generales de las sesiones de asambleas de copropietarios: El presidente del comit&#233; de administraci&#243;n, u otro miembro del comit&#233;, deber&#225; resguardar que se cumplan con los qu&#243;rums m&#237;nimos de constituci&#243;n de las sesiones de asambleas, dispuestos en el art&#237;culo 15 de la ley, sean estas presenciales, telem&#225;ticas o mixtas. Para lo anterior, ser&#225; responsabilidad del comit&#233; de administraci&#243;n, establecer en las normas de uso y administraci&#243;n del condominio, el mecanismo adecuado a las caracter&#237;sticas propias del condominio y del recinto donde se desarrollen las sesiones, que permita identificar a los asistentes y corroborar su asistencia, tanto para la constituci&#243;n de dichas sesiones, como para el ejercicio del derecho a voto en ellas. Toda la informaci&#243;n relativa al qu&#243;rum de constituci&#243;n y de adopci&#243;n de acuerdos en una sesi&#243;n de asamblea, deber&#225; ser proporcionada por el respectivo integrante del comit&#233; de administraci&#243;n, si procediere, a la persona que haya designado la asamblea para elaborar el acta de la sesi&#243;n.
+     Solo los copropietarios h&#225;biles podr&#225;n concurrir con su voto a los acuerdos que se adopten. Esta calidad se acreditar&#225; mediante certificado expedido por el administrador o por quien haga sus veces. En caso de poseer m&#225;s de una unidad, solo se considerar&#225; como copropietario h&#225;bil a aquel que se encuentre al d&#237;a en el pago de sus obligaciones econ&#243;micas para con el condominio, respecto de la totalidad de sus unidades.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">14 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531771">
+              <Texto>     Art&#237;culo 15: Del plazo para convocar a sesiones extraordinarias de la asamblea a petici&#243;n de los copropietarios: En el caso de que la citaci&#243;n a sesi&#243;n extraordinaria sea a petici&#243;n de los copropietarios que representen al menos el 10% de los derechos en el condominio, esta deber&#225; enviarse dentro del plazo de 10 d&#237;as corridos desde que sea recibida la petici&#243;n por parte del presidente del comit&#233; de administraci&#243;n o el administrador. Para estos efectos, la referida comunicaci&#243;n, deber&#225; realizarse en los t&#233;rminos se&#241;alados en el art&#237;culo 16 de la ley.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">15 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531772">
+              <Texto>     Art&#237;culo 16: De las normas y requisitos para las sesiones de asambleas telem&#225;ticas: En aquellos casos en que en el reglamento de copropiedad se acuerde la participaci&#243;n de los copropietarios en asambleas telem&#225;ticas, se deber&#225; asegurar la participaci&#243;n y votaci&#243;n efectiva y simult&#225;nea, mediante el cumplimiento de los siguientes requisitos:
+     
+     1.   El presidente del comit&#233; de administraci&#243;n o el administrador, deber&#225; resguardar que todos los copropietarios del condominio sean debidamente citados a la sesi&#243;n de la asamblea, informando el medio virtual por el cual &#233;sta se realizar&#225; y todo lo necesario para su efectiva participaci&#243;n en ella.
+     2.   El comit&#233; de administraci&#243;n, o el administrador, en su caso, deber&#225; resguardar que el medio telem&#225;tico elegido para la realizaci&#243;n de las asambleas virtuales permita el acceso expedito, efectivo y simult&#225;neo de los asistentes, que posibilite la comunicaci&#243;n entre los participantes mediante su intervenci&#243;n verbal o escrita de manera regulada y que dicho medio telem&#225;tico posea un alto nivel de compatibilidad con diversos dispositivos o sistemas operativos. Asimismo, el comit&#233; de administraci&#243;n deber&#225; velar para que dichas condiciones se mantengan durante el desarrollo de las asambleas.
+     3.   En caso de asistencia por videoconferencia, videollamada u otros medios telem&#225;ticos, ser&#225; deber del comit&#233; de administraci&#243;n identificar al copropietario o a sus representantes, mediante imagen y voz simult&#225;neamente, al momento de acreditarse la asistencia a la respectiva asamblea y de ejercer el voto. Lo anterior ser&#225; necesario para efectos de su consideraci&#243;n y validez, tanto en la constituci&#243;n de las asambleas respectivas, como en la contabilizaci&#243;n de los votos para la adopci&#243;n de los acuerdos.
+     4.   Las votaciones y la adopci&#243;n de acuerdos que se verifiquen durante las sesiones telem&#225;ticas o mixtas deber&#225;n quedar registradas en el acta en los t&#233;rminos dispuestos en el art&#237;culo 15, inciso 9&#176; de la ley. Ser&#225; deber del comit&#233; de administraci&#243;n velar para que dichas votaciones se realicen efectiva y simult&#225;neamente, conforme a las modalidades que se regulen en el reglamento de copropiedad.
+     5.   En el caso de realizaci&#243;n de asambleas mixtas, entendi&#233;ndose por estas aquellas en que los asistentes participan simult&#225;neamente de forma presencial y telem&#225;tica, se aplicar&#225; lo se&#241;alado en los numerales anteriores del presente art&#237;culo a aquellos asistentes que participen mediante esta segunda modalidad.
+     6.   El reglamento de copropiedad no podr&#225; establecer requisitos ni limitaciones a la localizaci&#243;n f&#237;sica de los asistentes a las asambleas telem&#225;ticas. Para todos los efectos legales, se entender&#225; como lugar de celebraci&#243;n de las asambleas, cuando esta sean mixtas o telem&#225;ticas, el que corresponde al domicilio del condominio.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">16 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531773">
+              <Texto>     Art&#237;culo 17: De la identidad de quienes participan en la consulta por escrito: El reglamento de copropiedad podr&#225; establecer un mecanismo que permita asegurar fehacientemente la identidad de quienes participan en la consulta. En caso de no regularse expresamente dicho mecanismo, cuando la respuesta del copropietario a la consulta formulada sea enviada en soporte digital, dicho env&#237;o se deber&#225; verificar a trav&#233;s de la casilla de correo electr&#243;nico singularizada en el Registro de Copropietarios. En caso de que la respuesta se otorgue en soporte material, deber&#225; ir acompa&#241;ada de una copia simple de la c&#233;dula de identidad del copropietario responsable de cada unidad.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">17 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Par&#225;grafo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531774">
+          <Texto>     P&#225;rrafo 2&#176; De los otros &#243;rganos de administraci&#243;n</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 2&#176; De los otros &#243;rganos de administraci&#243;n</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531775">
+              <Texto>     Art&#237;culo 18: De la actuaci&#243;n del comit&#233; de administraci&#243;n en representaci&#243;n de la asamblea: El comit&#233; de administraci&#243;n tendr&#225; la representaci&#243;n de la asamblea con todas sus facultades, excepto aquellas que deban ser materia de sesi&#243;n extraordinaria y que no hubieren sido delegadas por ella en conformidad a lo dispuesto en el art&#237;culo 15 de la ley. Sin perjuicio de lo anterior, esta representaci&#243;n no proceder&#225; para la designaci&#243;n de los miembros del comit&#233; de administraci&#243;n, quienes deber&#225;n ser elegidos necesariamente mediante una sesi&#243;n de asamblea o por medio de la consulta por escrito que la reemplace.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">18 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531776">
+              <Texto>     Art&#237;culo 19: De la designaci&#243;n de los miembros del comit&#233; de administraci&#243;n: Solo podr&#225;n ser designados miembros del comit&#233; de administraci&#243;n, las personas naturales que sean copropietarias h&#225;biles en el condominio o sus c&#243;nyuges o convivientes civiles, o cualquier otro mandatario o representante de un copropietario con poder suficiente, que conste en instrumento p&#250;blico otorgado ante notario y que confiera expresamente al mandatario la facultad para ser designado miembro del comit&#233; de administraci&#243;n, identificando espec&#237;ficamente al condominio donde se ejercer&#225; la facultad, el tiempo de duraci&#243;n del encargo y la unidad o unidades que representa.
+     Asimismo, podr&#225;n ser designados miembros del comit&#233; de administraci&#243;n, los representantes de las personas jur&#237;dicas que sean copropietarias h&#225;biles en el condominio, debidamente acreditados.
+     Cuando la asamblea designe como miembro del comit&#233; de administraci&#243;n al c&#243;nyuge, conviviente civil, representante o mandatario de un copropietario h&#225;bil, solo podr&#225; elegir a una de estas personas, independientemente del n&#250;mero de unidades de las que sea due&#241;o o de los derechos en los bienes de dominio com&#250;n que le correspondan al copropietario respectivo.
+     Sin embargo, esta regla no se aplicar&#225;, pudiendo incluso designarse a c&#243;nyuges, convivientes civiles, y a cualquier otro mandatario o representante de los copropietarios h&#225;biles, sin limitaci&#243;n del n&#250;mero de personas designadas, en aquellos casos en que falte acuerdo para la designaci&#243;n de los miembros del comit&#233; de administraci&#243;n o en que no existan interesados en ser parte de dicho &#243;rgano.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">19 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531777">
+              <Texto>     Art&#237;culo 20: Del sorteo para la designaci&#243;n de los integrantes del comit&#233; de administraci&#243;n: A falta de acuerdo para la designaci&#243;n de los miembros del comit&#233; de administraci&#243;n o no existiendo interesados en ser parte de dicho &#243;rgano, el primer administrador o el presidente saliente deber&#225; designarlos por sorteo, el que se realizar&#225; respecto de todos los copropietarios h&#225;biles del condominio.
+     El referido sorteo, deber&#225; realizarse por el administrador o por el presidente del comit&#233; saliente, en caso de que hubiere, en la misma asamblea en la cual no fue exitosa la designaci&#243;n, mediante el m&#233;todo que resulte m&#225;s eficiente conforme a las circunstancias del caso. La designaci&#243;n realizada de esta manera ser&#225; vinculante para las personas elegidas, quienes deber&#225;n desempe&#241;ar dicha funci&#243;n por el per&#237;odo que la asamblea decida, el que no podr&#225; exceder de tres a&#241;os, en conformidad a lo dispuesto en el inciso 3&#176; del art&#237;culo 17 de la ley.
+     Con todo, tanto los copropietarios que hubieren desempe&#241;ado dicha funci&#243;n con anterioridad, as&#237; como aquellos respecto de los cuales concurra alguna causal dispuesta en el reglamento de copropiedad, podr&#225;n eximirse en caso de que fueren designados por sorteo.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">20 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531778">
+              <Texto>     Art&#237;culo 21: De la permanencia en el comit&#233; de administraci&#243;n: Los miembros del comit&#233; de administraci&#243;n designados por la asamblea, o en su defecto, por sorteo, no podr&#225;n renunciar a esta funci&#243;n antes de haber transcurrido el per&#237;odo fijado por la asamblea para tal efecto, contado desde el inicio de sus funciones como integrantes del comit&#233;, salvo que concurra alguna causal de exenci&#243;n o eximente. Para estos efectos, el reglamento de copropiedad podr&#225; establecer dichas causales por hechos sobrevinientes atendidas las circunstancias particulares. En estos casos, acreditada la circunstancia alegada, se realizar&#225; nuevamente la designaci&#243;n por la asamblea de manera directa, o mediante sorteo, de un copropietario h&#225;bil que se encuentre en condiciones de desempe&#241;arse como miembro del comit&#233; de administraci&#243;n.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">21 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531779">
+              <Texto>     Art&#237;culo 22: Del copropietario que ejerce como administrador: El copropietario que ejerza como administrador del condominio, podr&#225; asistir y participar en las sesiones de asamblea, como titular de derechos, pero no podr&#225; asumir la representaci&#243;n de otros copropietarios, en atenci&#243;n a la restricci&#243;n se&#241;alada en el inciso s&#233;ptimo del art&#237;culo 15 de la ley.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">22 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531780">
+              <Texto>     Art&#237;culo 23: De la ausencia del administrador: Si por impedimento temporal, enfermedad, u otra circunstancia de similar naturaleza el administrador no pudiere ejercer su cargo, actuar&#225; como tal, el presidente del comit&#233; de administraci&#243;n mientras dure su ausencia. Para estos efectos, el administrador deber&#225; en el menor tiempo y de la forma m&#225;s expedita posible, notificar al comit&#233; de administraci&#243;n sobre las circunstancias de su ausencia. Una vez recibida la notificaci&#243;n por parte de dicho comit&#233;, o enterados de estas circunstancias cuando dicha notificaci&#243;n no sea posible por parte del administrador, el presidente del comit&#233; deber&#225; levantar un acta indicando las circunstancias aludidas, la fecha y hora en que asumir&#225; las funciones de administrador, as&#237; como cualquier otra informaci&#243;n relevante que resulte pertinente. Esta acta deber&#225; comunicarse a los copropietarios y publicarse en un lugar visible del condominio a m&#225;s tardar al d&#237;a siguiente de su suscripci&#243;n.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">23 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531781">
+              <Texto>     Art&#237;culo 24:  De la contabilidad del condominio: El administrador tendr&#225; la responsabilidad de recaudar los montos correspondientes a las obligaciones econ&#243;micas, emitir certificados en lo relativo al estado de deudas de las unidades, informar al comit&#233; de administraci&#243;n las gestiones realizadas para el cobro de dichas obligaciones respecto de los copropietarios, arrendatarios u ocupantes morosos y llevar la contabilidad del condominio disponiendo de un mecanismo sencillo, que facilite la comprensi&#243;n de este a los copropietarios. En el ejercicio de estas funciones, el administrador podr&#225; dar publicidad a las situaciones de morosidad de copropietarios y ocupantes del condominio, en conformidad a la forma que dispongan las normas de uso y administraci&#243;n del condominio.
+     En la contabilidad del condominio, el administrador deber&#225; representar fidedignamente el estado de situaci&#243;n financiera, con actualizaciones mensuales, para lo cual deber&#225; considerar a lo menos el desglose de los siguientes conceptos:
+     
+     1.   Recaudaci&#243;n mensual por concepto de gastos comunes ordinarios y extraordinarios.
+     2.   Gastos comunes ordinarios: en este apartado deber&#225;n especificarse los gastos relativos a la administraci&#243;n, mantenci&#243;n, reparaci&#243;n y uso o consumo de servicios b&#225;sicos colectivos.
+     3.   Gastos comunes extraordinarios.
+     4.   Fondo com&#250;n de reserva, indicando el total disponible y los gastos que mensualmente se hayan imputado al mismo.
+     5.   Multas, intereses, pago por arriendo de espacios comunes y otros similares, devengadas en el per&#237;odo respectivo, y la recaudaci&#243;n de estos &#237;tems en el mismo per&#237;odo.
+     
+     En la contabilidad del condominio, el administrador deber&#225; presentar el estado de las cuentas bancarias e inversiones debidamente conciliadas y otros instrumentos financieros vinculados a la administraci&#243;n del condominio. Adicionalmente deber&#225; considerar expresamente el detalle de pago de cada una de las unidades respecto de los gastos y fondos referidos anteriormente. Asimismo, deber&#225; considerar el pasivo del condominio, como cuentas de proveedores, remuneraciones, honorarios y obligaciones previsionales adeudadas del per&#237;odo, deudas con bancos y otras de similar naturaleza.
+     Cuando corresponda, el administrador tambi&#233;n deber&#225; considerar el detalle del estado financiero del fondo operacional inicial.
+     Las subadministraciones, cuando corresponda, tambi&#233;n deber&#225;n dar cumplimiento a las normas de contabilidad se&#241;aladas, respecto de los bienes y servicios comunes que corresponden exclusivamente al sector respectivo.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">24 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531782">
+              <Texto>     Art&#237;culo 25:  Del acta del primer administrador: Una vez efectuada la recepci&#243;n definitiva de la edificaci&#243;n, y antes de la ocupaci&#243;n del primer copropietario, la persona natural o jur&#237;dica propietaria del condominio deber&#225; designar al primer administrador, quien, dentro del plazo de 60 d&#237;as corridos contados desde su nombramiento, deber&#225; levantar un acta de las condiciones y estado de funcionamiento de todas las instalaciones de los bienes comunes. Para dichos efectos identificar&#225; cada una de las tipolog&#237;as de instalaciones de bienes comunes y se&#241;alar&#225;, a lo menos, la cantidad, ubicaci&#243;n, estado de conservaci&#243;n y funcionamiento de estas, debiendo identificarse especialmente en el acta, aquellas instalaciones de bienes comunes que presenten deterioro o mal funcionamiento, as&#237; como cualquier otra circunstancia relevante a juicio del administrador, tales como el estado de las garant&#237;as del fabricante asociadas a los artefactos o instalaciones cuando corresponda. En caso de que haya recepciones definitivas parciales, dicha constataci&#243;n se deber&#225; realizar una vez efectuada la primera de dichas recepciones.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">25 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531783">
+              <Texto>     Art&#237;culo 26: De los deberes de cuidado: El titular del proyecto, el primer administrador que este designe y los administradores que lo sucedan en el cargo, as&#237; como los subadministradores, tendr&#225;n la obligaci&#243;n de cuidar los bienes de dominio com&#250;n. El deber de cuidado consistir&#225; en la correcta diligencia y atenci&#243;n a los bienes de dominio com&#250;n del condominio.
+     El deber de cuidado incluye entre otras obligaciones, seg&#250;n corresponda a la naturaleza y tipo del condominio, la mantenci&#243;n de las redes internas de servicios b&#225;sicos y de los sistemas de emergencia y de extinci&#243;n de incendios, as&#237; como tambi&#233;n la obligaci&#243;n de cerciorarse de que la infraestructura de soporte de redes de telecomunicaciones no sea intervenida por terceros con el objeto o efecto de impedir el ingreso de distintos operadores de telecomunicaciones. En cumplimiento de estas obligaciones, el administrador deber&#225; actuar en conformidad a las siguientes exigencias, las que ser&#225;n extensivas, cuando corresponda, a las dem&#225;s personas mencionadas en el inciso anterior:
+     
+     1.   El administrador, para efectos de realizar una correcta proyecci&#243;n de los gastos comunes ordinarios de mantenci&#243;n o reparaci&#243;n referidos en el art&#237;culo 22 de la ley, deber&#225; elaborar un programa de mantenci&#243;n de las redes internas de servicios b&#225;sicos, y de los sistemas de emergencia y de extinci&#243;n de incendios, aplicable para un per&#237;odo de 12 meses. En este programa de mantenci&#243;n, el administrador deber&#225; realizar un diagn&#243;stico del estado en que se encuentran las instalaciones de redes y sistemas referidos, mediante la inspecci&#243;n de ellas, debiendo distinguir aquellas partidas que requieren mantenci&#243;n, de aquellas que requieren reparaci&#243;n. El programa deber&#225; contener una planificaci&#243;n de las fechas o periodicidad en que se ejecutar&#225;n las acciones de mantenci&#243;n o reparaci&#243;n seg&#250;n corresponda, considerando la priorizaci&#243;n de cada partida y una evaluaci&#243;n econ&#243;mica de los costos de su realizaci&#243;n.
+     2.   El administrador, con la periodicidad que establezca el programa de mantenci&#243;n indicado en el numeral 1 de este art&#237;culo, deber&#225; cerciorarse de que la infraestructura de soporte de redes de telecomunicaciones no sea intervenida por terceros con el objeto o efecto de impedir el ingreso de distintos operadores de telecomunicaciones, y asegurar que el condominio cuente permanentemente con la capacidad necesaria para que estos puedan suministrar sus servicios en condiciones competitivas. En el caso de que, por las condiciones del condominio o del ducto de telecomunicaciones, esta infraestructura no pueda ser inspeccionada personalmente por el administrador, este podr&#225; contratar a profesionales capacitados para tal labor, en concordancia con lo dispuesto en el art&#237;culo 20, N&#176; 2 de la ley.
+     3.   Terminado el per&#237;odo de 12 meses para el cual se planific&#243; el programa de mantenci&#243;n, el administrador deber&#225; rendir cuenta detallada al comit&#233; de administraci&#243;n, de todas las obras de mantenci&#243;n y reparaci&#243;n, y de las acciones de inspecci&#243;n que se llevaron a cabo en dicho per&#237;odo. Lo anterior, deber&#225; ser considerado en la rendici&#243;n de cuentas referida en el N&#176; 1, letra a) del cuadro contenido en el art&#237;culo 15 de la ley.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">26 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531784">
+              <Texto>     Art&#237;culo 27: De la notificaci&#243;n de la suspensi&#243;n del suministro de servicios b&#225;sicos y su reposici&#243;n: El administrador deber&#225; notificar por escrito, en soporte digital al correo electr&#243;nico indicado en el Registro de Copropietarios, o en su caso, en soporte papel, al copropietario o residente de la unidad con al menos 5 d&#237;as corridos de anticipaci&#243;n a la fecha programada para realizar la suspensi&#243;n del servicio, en caso de que el condominio dispusiere de sistemas propios de control para el paso de ellos. Por el contrario, si el administrador debe requerir la suspensi&#243;n del servicio de electricidad o telecomunicaciones a las empresas de suministro respectivas, la notificaci&#243;n al copropietario o residente de la unidad se realizar&#225; de la misma forma, con al menos 5 d&#237;as corridos de anticipaci&#243;n a la fecha del env&#237;o del requerimiento de suspensi&#243;n a dichas empresas. En ambos casos, desde la referida notificaci&#243;n, el pago total, o parcial de la deuda que implique una morosidad inferior a la dispuesta en el inciso 1&#176; del art&#237;culo 36 de la ley, o la suscripci&#243;n de un convenio de pago con el administrador en los t&#233;rminos del inciso 4&#176; del art&#237;culo 6 de la ley, evitar&#225; la suspensi&#243;n del servicio de suministro de electricidad, calefacci&#243;n o de telecomunicaciones programada.
+     En caso de que la suspensi&#243;n del servicio se haya verificado, y se acredite por parte del copropietario o residente el pago total, o parcial de la deuda que implique una morosidad inferior a la dispuesta en el inciso 1&#176; del art&#237;culo 36 de la ley, o la suscripci&#243;n del convenio de pago referido en el inciso precedente, el administrador, deber&#225;, a m&#225;s tardar dentro del d&#237;a h&#225;bil siguiente, reponer el servicio suspendido en caso de que el condominio dispusiere de sistemas propios de control para el paso de los servicios domiciliarios, o requerir a la empresa de suministro respectiva, la reposici&#243;n del servicio suspendido dentro del mismo plazo.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">27 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531785">
+              <Texto>     Art&#237;culo 28: De la publicidad de la informaci&#243;n sobre la rendici&#243;n de cuentas del administrador: En cumplimiento de su obligaci&#243;n de rendir cuenta documentada y pormenorizada de su gesti&#243;n ante el comit&#233; de administraci&#243;n en forma mensual y ante la asamblea de copropietarios en cada sesi&#243;n ordinaria y al t&#233;rmino de su administraci&#243;n, el administrador deber&#225; proporcionar con al menos 24 horas de antelaci&#243;n a la fecha en que se realicen las sesiones ordinarias o reuniones del comit&#233; de administraci&#243;n referidas, la documentaci&#243;n correspondiente, para lo cual la enviar&#225; mediante correo electr&#243;nico a los miembros del comit&#233; o copropietarios y arrendatarios que se encuentren inscritos en el Registro de Copropietarios, seg&#250;n corresponda. Si los copropietarios y arrendatarios no hubieren registrado correo electr&#243;nico en el mencionado registro, el env&#237;o se realizar&#225; dejando copia en formato papel en las respectivas unidades del condominio. Asimismo, el administrador deber&#225; velar para que la informaci&#243;n antes se&#241;alada est&#233; a disposici&#243;n de los copropietarios y arrendatarios del condominio que as&#237; lo requieran, debiendo proporcionarla dentro del plazo m&#225;ximo de 10 d&#237;as corridos contado desde la fecha de realizaci&#243;n de dicha solicitud.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">28 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531786">
+              <Texto>     Art&#237;culo 29: De las observaciones al balance de ingresos y egresos: Con motivo de la rendici&#243;n de cuentas de la gesti&#243;n de la administraci&#243;n en las sesiones ordinarias, el comit&#233; de administraci&#243;n someter&#225; a votaci&#243;n de la asamblea la aprobaci&#243;n del balance presentado. El rechazo de este balance deber&#225; ser siempre fundado por parte de los copropietarios, consign&#225;ndose los motivos en el acta respectiva. El administrador deber&#225; responder dichas observaciones en un plazo m&#225;ximo de 15 d&#237;as corridos mediante el env&#237;o de correo electr&#243;nico al comit&#233; de administraci&#243;n, junto con los antecedentes de respaldo. Recibida la respuesta o vencido el plazo para hacerlo, el comit&#233; de administraci&#243;n deber&#225; remitir los nuevos antecedentes a los copropietarios, en conformidad a lo se&#241;alado en el art&#237;culo 28 de este reglamento, y citar a una nueva sesi&#243;n ordinaria para votar la aprobaci&#243;n del balance, la que deber&#225; celebrarse a m&#225;s tardar dentro del plazo de 10 d&#237;as corridos contados desde la recepci&#243;n de la respuesta del administrador. Asimismo, la aprobaci&#243;n del balance en los t&#233;rminos se&#241;alados, podr&#225; realizarse mediante la respectiva consulta por escrito, conforme al inciso segundo del art&#237;culo 15 de la ley.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">29 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531787">
+              <Texto>     Art&#237;culo 30: Del Libro de Novedades: Las solicitudes efectuadas al administrador o al comit&#233; de administraci&#243;n en el libro de novedades deber&#225;n ser respondidas dentro de un plazo m&#225;ximo de 20 d&#237;as corridos y se comunicar&#225;n mediante env&#237;o de un correo electr&#243;nico a la direcci&#243;n registrada en el Registro de Copropietarios de cada condominio o en soporte papel mediante comunicaci&#243;n entregada en la unidad respectiva. Asimismo, ser&#225; deber del administrador transcribir y registrar en el Libro de Novedades, as&#237; como dar respuesta en los t&#233;rminos de este art&#237;culo, a todas aquellas solicitudes de los copropietarios, arrendatarios u ocupantes del condominio que sean formuladas por correo electr&#243;nico y dirigidas a la administraci&#243;n.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">30 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531788">
+              <Texto>     Art&#237;culo 31: De los bienes comunes diferenciados y sus est&#225;ndares m&#237;nimos de establecimiento: De acuerdo con lo se&#241;alado en el inciso segundo del art&#237;culo 24 de la ley, si el condominio est&#225; conformado &#250;nicamente por una edificaci&#243;n colectiva de m&#225;s de 200 unidades con destino habitacional, no se requerir&#225; la constituci&#243;n de subadministraciones, pero deber&#225; contemplarse la existencia de ciertos bienes comunes diferenciados que faciliten la circulaci&#243;n de personas y la administraci&#243;n diaria del condominio, los que se establecer&#225;n en el reglamento de copropiedad, en conformidad a lo dispuesto en el art&#237;culo 8 letra f) de la ley, si&#233;ndoles exigibles los siguientes est&#225;ndares m&#237;nimos:
+     
+     a)   Acceso peatonal a la edificaci&#243;n colectiva: Cada acceso peatonal a la edificaci&#243;n colectiva que conecta con el espacio p&#250;blico deber&#225; servir a un m&#225;ximo de 400 unidades habitacionales.
+     b)   Acceso vehicular al condominio: Cuando los condominios a que refiere el presente art&#237;culo superen las 200 unidades de estacionamiento para autom&#243;viles, deber&#225;n incorporar un nuevo acceso vehicular, o bien, incrementar en uno el n&#250;mero de pistas de un &#250;nico acceso, debiendo contemplarse estas modificaciones por cada 200 unidades de estacionamiento adicionales.
+     c)   Ascensores: Cada grupo de ascensores deber&#225; servir a un m&#225;ximo de 200 unidades habitacionales.
+     d)   Recepci&#243;n / Conserjer&#237;a: Cada recepci&#243;n o conserjer&#237;a deber&#225; servir a un m&#225;ximo de 200 unidades habitacionales.
+     e)   Zonas verticales de seguridad: Cada zona vertical de seguridad deber&#225; servir a un m&#225;ximo de 200 unidades habitacionales.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">31 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531789">
+              <Texto>     Art&#237;culo 32: De los subcomit&#233;s de administraci&#243;n: Para la designaci&#243;n, composici&#243;n, duraci&#243;n, reelecci&#243;n de los miembros y la presidencia del subcomit&#233; de administraci&#243;n, ser&#225;n aplicables, en lo que corresponda, las disposiciones del art&#237;culo 17 de la ley.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">32 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531790">
+      <Texto>     T&#205;TULO IV
+     De la seguridad del condominio</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">T&#205;TULO IV De la seguridad del condominio</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531791">
+          <Texto>     Art&#237;culo 33: Del plan de emergencia en condominios prexistentes a la ley: Trat&#225;ndose de inmuebles acogidos al r&#233;gimen de copropiedad de forma previa a la entrada en vigencia de la ley N&#176; 21.442 y que no hayan contado con un plan de emergencia, este deber&#225; ser realizado por un ingeniero en prevenci&#243;n de riesgos y suscrito por dicho profesional, adem&#225;s del presidente del comit&#233; de administraci&#243;n.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">33 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531792">
+          <Texto>     Art&#237;culo 34: Del plan de evacuaci&#243;n: El plan de evacuaci&#243;n deber&#225; ser actualizado al menos una vez al a&#241;o considerando el n&#250;mero de residentes y especialmente a las personas ocupantes con discapacidad, con movilidad reducida, infantes y poblaci&#243;n no hispanoparlante, se&#241;alando las acciones determinadas para su evacuaci&#243;n segura y expedita, debiendo incluir las acciones de capacitaci&#243;n que procedan y los respectivos simulacros de evacuaci&#243;n seg&#250;n los diferentes tipos de eventos o emergencias. Corresponder&#225; al comit&#233; de administraci&#243;n y al administrador requerir la referida informaci&#243;n respecto de cada unidad, as&#237; como proveer las capacitaciones al personal del condominio respecto de las acciones, medidas o procedimientos considerados en el plan de evacuaci&#243;n. Les corresponder&#225; asimismo coordinar con los residentes u ocupantes del condominio las capacitaciones necesarias para efectuar los simulacros o ejercicios de evacuaci&#243;n, seg&#250;n lo determinado en el respectivo plan.
+     Sin perjuicio de lo se&#241;alado, el comit&#233; de administraci&#243;n y el administrador, de consuno, podr&#225;n solicitar a un ingeniero en prevenci&#243;n de riesgos la elaboraci&#243;n de un informe fundado en el que se acreditar&#225; y dejar&#225; constancia de que las circunstancias consideradas en el plan de evacuaci&#243;n vigente han permanecido invariables desde el momento de la elaboraci&#243;n de este &#250;ltimo. En tal caso, para dar cumplimiento a la obligaci&#243;n de actualizaci&#243;n anual del referido plan, se&#241;alada en el inciso primero de este art&#237;culo, el presidente del comit&#233; de administraci&#243;n, el administrador y el referido ingeniero en prevenci&#243;n de riesgos, deber&#225;n volver a suscribir el plan de evacuaci&#243;n, indicando la nueva fecha de actualizaci&#243;n, e incorporando, al final de este, el informe antes se&#241;alado, entendi&#233;ndose que pasar&#225; a formar parte del mismo instrumento.
+     El plan de evacuaci&#243;n junto con el informe antes referido deber&#225; ser entregado a las autoridades respectivas conforme al inciso s&#233;ptimo del art&#237;culo 40 de la ley.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">34 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531793">
+          <Texto>     Art&#237;culo 35: De la entrega del plan de emergencia a Carabineros de Chile y al Cuerpo de Bomberos: El primer plan de emergencia, incluido el plan de evacuaci&#243;n, deber&#225; ser entregado por la persona natural o jur&#237;dica propietaria del condominio, en formato material y digital, a la respectiva unidad de Carabineros de Chile y del Cuerpo de Bomberos que corresponda a la comuna donde se emplaza el condominio, antes de presentar a la direcci&#243;n de obras municipales respectiva la solicitud de recepci&#243;n definitiva de las obras de edificaci&#243;n o para acoger el condominio al r&#233;gimen de copropiedad inmobiliaria, cuando las edificaciones de este ya cuenten con recepci&#243;n definitiva.
+     Asimismo, las actualizaciones a los referidos planes deber&#225;n ser entregadas a estas instituciones por el comit&#233; de administraci&#243;n, en formato material y digital, dentro del plazo de 15 d&#237;as corridos contados desde que estas se encuentren suscritas por el presidente del comit&#233; de administraci&#243;n y por el administrador.
+     La persona natural o jur&#237;dica propietaria del condominio o el comit&#233; de administraci&#243;n, en el caso de haber sido este designado, deber&#225;n requerir a Carabineros de Chile y al Cuerpo de Bomberos, la constancia de recepci&#243;n de los planes se&#241;alados en los incisos anteriores, en cumplimiento del art&#237;culo 40 de la ley, lo cual deber&#225; ser informado a los copropietarios, si correspondiere, mediante la exposici&#243;n de la constancia de recepci&#243;n se&#241;alada en un lugar visible del condominio.
+     Si Carabineros de Chile o el Cuerpo de Bomberos respectivo realizaren observaciones al plan de emergencia, al plan de evacuaci&#243;n o a las actualizaciones de estos planes, en uso de la facultad establecida en el art&#237;culo 40 de la ley, estas deber&#225;n ser evaluadas por un ingeniero en prevenci&#243;n de riesgos quien, en conjunto con la persona natural o jur&#237;dica propietaria del condominio o, en conjunto con el administrador y el comit&#233; de administraci&#243;n, en el caso de que este comit&#233; haya sido designado, deber&#225;n determinar si implican la necesidad de modificar el plan o las actualizaciones correspondientes. En caso afirmativo, el plan respectivo o la actualizaci&#243;n ser&#225; rectificada y la nueva versi&#243;n deber&#225; ser elaborada por un ingeniero en prevenci&#243;n de riesgos y suscrita por este profesional en conjunto con la persona natural o jur&#237;dica propietaria del condominio o, suscrita por dicho ingeniero en conjunto con el presidente del comit&#233; de administraci&#243;n y con el administrador, en el caso de que dicho comit&#233; haya sido designado, debiendo ser entregada a las instituciones se&#241;aladas en este inciso dentro del plazo de 90 d&#237;as corridos contado desde la recepci&#243;n de las observaciones. En caso de descartarse la modificaci&#243;n, dicha decisi&#243;n deber&#225; constar en un acta que ser&#225; suscrita por las mismas personas, seg&#250;n lo se&#241;alado en este inciso. Los documentos referidos en el presente art&#237;culo, as&#237; como el informe fundado elaborado por un ingeniero en prevenci&#243;n de riesgos, se&#241;alado en el inciso segundo del art&#237;culo precedente, deber&#225;n ser incorporados al archivo de documentos del condominio y custodiarse por el administrador, en conformidad a lo dispuesto en los incisos quinto y sexto del art&#237;culo 9 de la ley.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">35 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531794">
+          <Texto>     Art&#237;culo 36: Del ingreso forzado a las unidades: Si se viere comprometida la seguridad o conservaci&#243;n de un condominio sea respecto de sus bienes comunes o de sus unidades, por efecto de filtraciones, inundaciones, emanaciones de gas u otros desperfectos o imprevistos, para cuya reparaci&#243;n urgente e inmediata fuere necesario ingresar a una unidad, no encontr&#225;ndose el propietario, arrendatario u ocupante que facilite o permita el acceso, el administrador del condominio podr&#225; ingresar forzadamente a ella, debiendo hacerlo acompa&#241;ado de un copropietario, quien deber&#225; levantar acta detallada de la diligencia, en la cual se deber&#225; dejar constancia de, al menos, los siguientes aspectos:
+     
+     1.   Hecho que comprometi&#243; la seguridad o conservaci&#243;n del condominio y que motiv&#243; el ingreso forzado a la unidad, indicando la fecha y hora del evento.
+     2.   Reparaciones o trabajos de emergencia que debieron realizarse al interior de la unidad, especificando la duraci&#243;n de la intervenci&#243;n y si se requiri&#243; el ingreso de personas ajenas al condominio, como electricistas, cerrajeros u otros.
+     3.   Individualizaci&#243;n y firma del administrador y del copropietario que asistieron a la diligencia.
+     
+     Una vez firmada el acta por el administrador y el copropietario acompa&#241;ante, esta deber&#225; ser remitida por correo electr&#243;nico a todos los miembros del comit&#233; de administraci&#243;n, para que sea incorporada en el libro de actas, y al copropietario de la unidad. En todo caso, se dejar&#225; copia del acta al interior de la unidad, cuando las circunstancias posteriores al siniestro lo permitan.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">36 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531795">
+          <Texto>     Art&#237;culo 37: Del pago del seguro colectivo contra incendio: Respecto a la prima del seguro colectivo contra incendio contratado para cubrir los da&#241;os que sufran todos los bienes e instalaciones comunes del condominio, esta deber&#225; pagarse por todos los copropietarios, obligatoria e irrenunciablemente, de manera conjunta con los gastos comunes.
+     En los avisos de cobro de gastos comunes deber&#225; incluirse el valor de las primas que le corresponda pagar a cada unidad, aplic&#225;ndose a su respecto las mismas normas que rigen el cobro de las dem&#225;s obligaciones econ&#243;micas del condominio.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">37 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531796">
+          <Texto>     Art&#237;culo 38: De la contrataci&#243;n del seguro colectivo contra incendio: El seguro colectivo contra incendios del condominio deber&#225; ser contratado inicialmente por la persona natural o jur&#237;dica propietaria del mismo y la p&#243;liza del referido seguro formar&#225; parte del archivo de documentos referido en el art&#237;culo 9 de la ley.
+     La asamblea de copropietarios podr&#225; decidir incluir en la p&#243;liza otras coberturas complementarias para la protecci&#243;n de los referidos bienes comunes y/o sus unidades, tales como sismo o salida de mar.
+     Corresponder&#225; al administrador resguardar que el condominio se encuentre permanentemente asegurado, al menos, contra el riesgo de incendio, renovando el contrato de seguro antes de los respectivos vencimientos de la p&#243;liza, en caso de que corresponda, y velando por que todas las unidades mantengan cobertura permanente contra riesgo de incendio, sea mediante la p&#243;liza base de seguro colectivo contra incendio o la opci&#243;n de contrataci&#243;n de seguros individuales. Para el debido cumplimiento de esta obligaci&#243;n, el administrador podr&#225; requerir a los copropietarios peri&#243;dicamente, y a lo m&#225;s cada 12 meses, el env&#237;o de informaci&#243;n actualizada, la que deber&#225; ser solicitada y entregada de manera oportuna mediante el env&#237;o de correos electr&#243;nicos a trav&#233;s de las casillas se&#241;aladas en el Registro de Copropietarios o mediante otro tipo de comunicaciones realizadas por la v&#237;a m&#225;s expedita posible.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">38 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531797">
+          <Texto>     Art&#237;culo 39: De los qu&#243;rums para la contrataci&#243;n, renovaci&#243;n y t&#233;rmino de las p&#243;lizas de seguros colectivos contra incendio: En caso de la renovaci&#243;n o contrataci&#243;n de un nuevo seguro colectivo, siempre que no implique una modificaci&#243;n de los riesgos cubiertos por la p&#243;liza vigente, producto de la eliminaci&#243;n o incorporaci&#243;n de coberturas complementarias, el administrador requerir&#225; previamente acuerdo del comit&#233; de administraci&#243;n y de la asamblea ordinaria en los t&#233;rminos se&#241;alados en el cuadro del art&#237;culo 15, N&#176;1, letra e) de la ley.
+     Por otro lado, en caso de que se contrate un nuevo seguro que implique modificar los riesgos cubiertos por la p&#243;liza vigente, eliminando o incorporando coberturas complementarias, el administrador requerir&#225; previamente acuerdo del comit&#233; de administraci&#243;n y de la asamblea extraordinaria de mayor&#237;a reforzada en los t&#233;rminos del cuadro se&#241;alado en el art&#237;culo 15, N&#176; 3, letra k) de la ley.
+     Si el comit&#233; de administraci&#243;n acuerda no renovar el seguro existente, la contrataci&#243;n de una nueva p&#243;liza requerir&#225; el acuerdo previo de la asamblea de copropietarios, adoptado con los qu&#243;rums se&#241;alados en el N&#176; 1 del cuadro contenido en el art&#237;culo 15 de la ley, los que tambi&#233;n ser&#225;n aplicables en caso de que se proponga a la asamblea el t&#233;rmino anticipado del seguro existente.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">39 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531798">
+          <Texto>     Art&#237;culo 40: Del seguro colectivo contra incendio en los condominios de viviendas sociales: Las disposiciones relacionadas con la obligaci&#243;n de contrataci&#243;n de un seguro colectivo contra incendio, ser&#225;n en lo que corresponda, plenamente aplicables a los condominios de viviendas sociales.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">40 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531799">
+      <Texto>     T&#205;TULO V
+     De la constituci&#243;n de la copropiedad inmobiliaria</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">T&#205;TULO V De la constituci&#243;n de la copropiedad inmobiliaria</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531800">
+          <Texto>     Art&#237;culo 41: De la constituci&#243;n de la copropiedad inmobiliaria: Para acoger un condominio al r&#233;gimen de copropiedad inmobiliaria se deber&#225;n presentar a las direcciones de obras municipales respectivas los siguientes antecedentes, sin perjuicio de los otros que se soliciten en conformidad a lo dispuesto en el inciso segundo de este art&#237;culo:
+     
+     1.   Solicitud para acogerse al r&#233;gimen de copropiedad inmobiliaria.
+     2.   Copia autorizada de la escritura p&#250;blica donde conste el primer reglamento de copropiedad dictado por la persona natural o jur&#237;dica propietaria del condominio, y el respectivo certificado de inscripci&#243;n en el Registro de Hipotecas y Grav&#225;menes del Conservador de Bienes Ra&#237;ces.
+     3.   Planos de la copropiedad a que se refiere el art&#237;culo 49 de la ley.
+     
+     Una vez verificado por el director de obras municipales que el condominio cumple con las normas exigidas por la ley y este reglamento, por la Ley General de Urbanismo y Construcciones, por la Ordenanza General de Urbanismo y Construcciones, por los instrumentos de planificaci&#243;n territorial y por las normas que regulen el &#225;rea de emplazamiento del condominio, proceder&#225; a extender el certificado que lo declare acogido al r&#233;gimen de copropiedad inmobiliaria, aprobando en el mismo acto los planos del condominio.
+     El propietario del condominio, una vez otorgado el certificado referido en el inciso anterior, y aprobados los planos por parte del director de obras municipales, solicitar&#225; al Conservador de Bienes Ra&#237;ces correspondiente el archivo de estos documentos en la secci&#243;n especial del Registro de Propiedad y la nota al margen pertinente en el reglamento de copropiedad inscrito en el Registro de Hipotecas y Grav&#225;menes respectivo.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">41 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531801">
+          <Texto>     Art&#237;culo 42: Del t&#233;rmino de la copropiedad inmobiliaria: Cuando se declarare el t&#233;rmino de la copropiedad inmobiliaria de acuerdo al procedimiento descrito en el art&#237;culo 52 de la ley, la correspondiente resoluci&#243;n del director de obras municipales deber&#225; archivarse en una secci&#243;n especial del Registro de Propiedad del Conservador de Bienes Ra&#237;ces respectivo. Asimismo, deber&#225;n realizarse las notas al margen correspondientes en la inscripci&#243;n del reglamento de copropiedad que consta en el Registro de Hipotecas y Grav&#225;menes, as&#237; como en las inscripciones de dominio de cada una de las unidades enajenables del condominio y en la inscripci&#243;n de dominio del predio sobre el cual se constituy&#243; la copropiedad, que constan en el Registro de Propiedad del Conservador de Bienes Ra&#237;ces correspondiente.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">42 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531802">
+      <Texto>     T&#205;TULO VI
+     De los estacionamientos y de las asignaciones en uso y goce exclusivo</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">T&#205;TULO VI De los estacionamientos y de las asignaciones en uso y goce exclusivo</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531803">
+          <Texto>     Art&#237;culo 43: De los estacionamientos para autom&#243;viles en los condominios de viviendas de inter&#233;s p&#250;blico: Los condominios de viviendas de inter&#233;s p&#250;blico deber&#225;n contemplar, al menos, un estacionamiento para autom&#243;vil por cada unidad destinada a vivienda. Excepcionalmente, y previa solicitud fundada por parte del propietario del condominio, el director de obras municipales podr&#225; aprobar una dotaci&#243;n de estacionamientos inferior a la antes se&#241;alada. Para este efecto, esta solicitud podr&#225; fundamentarse en alguno de los siguientes supuestos:
+     
+     1.   Tama&#241;o acotado del condominio. Para estos efectos se entender&#225; como tama&#241;o acotado, los condominios que cuenten con 50 o menos unidades.
+     2.   Caracter&#237;sticas topogr&#225;ficas del terreno como pendientes superiores a un 8% que impliquen la reducci&#243;n del terreno &#250;til para cumplir con la norma de estacionamientos.
+     3.   Proyectos relacionados con Monumentos Nacionales, zonas t&#237;picas, inmuebles o zonas de conservaci&#243;n hist&#243;rica, o que se emplacen al costado de v&#237;as de m&#225;s de 100 a&#241;os de antig&#252;edad o de paseos peatonales.
+     4.   Proyectos que se encuentren ubicados a menos de 500 metros de ejes estructurantes del sistema de transporte p&#250;blico mayor, correspondientes a v&#237;as que concentren una oferta significativa de transporte p&#250;blico, atendiendo a criterios como la cantidad de servicios en operaci&#243;n, la existencia de l&#237;neas de metro, trenes, tranv&#237;as o similares, la existencia de infraestructura especializada o prioridad de circulaci&#243;n para el transporte p&#250;blico, mediante buses, tales como v&#237;as segregadas, pistas solo bus o v&#237;as exclusivas, u otras condiciones relacionadas con el sistema de transporte p&#250;blico mayor.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">43 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531804">
+          <Texto>     Art&#237;culo 44: De los estacionamientos para bicicletas en los condominios: En todo condominio deber&#225; contemplarse la cantidad de estacionamientos para bicicletas requerida conforme a las normas vigentes y al plan regulador respectivo, sin perjuicio de las exigencias de dise&#241;o y ejecuci&#243;n de proyectos que se establecen en el inciso segundo del presente art&#237;culo para los nuevos condominios de viviendas de inter&#233;s p&#250;blico.
+     En conformidad con lo dispuesto en el inciso primero del art&#237;culo 60 de la ley, en los nuevos proyectos de condominios de viviendas de inter&#233;s p&#250;blico, el espacio que se disponga para estacionar bicicletas, ya sea en los mismos estacionamientos para autom&#243;viles o en un &#225;rea com&#250;n destinada al efecto, deber&#225; ser techado. Por su parte, si dicho espacio de estacionamientos se ubicare en otro predio, deber&#225; garantizarse el acceso aut&#243;nomo a &#233;ste por parte de los copropietarios, arrendatarios y ocupantes que hagan uso de tales estacionamientos.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">44 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531805">
+          <Texto>     Art&#237;culo 45: De la asignaci&#243;n de estacionamientos en uso y goce exclusivo: El reglamento de copropiedad o la asamblea de copropietarios, podr&#225;n regular la forma de aprovechamiento de los bienes de dominio com&#250;n y acordar la constituci&#243;n de los derechos de uso y goce exclusivo sobre los estacionamientos vehiculares para personas con discapacidad, los que solo podr&#225;n ser asignados a copropietarios, ocupantes o arrendatarios del condominio que correspondan a personas con discapacidad, especialmente aquellos con movilidad reducida, y que cuenten con la respectiva acreditaci&#243;n de esa condici&#243;n conforme a la ley N&#176; 20.422.
+     Asimismo, el reglamento de copropiedad podr&#225; se&#241;alar la forma en que se asignar&#225;n estos estacionamientos temporalmente a cualquier copropietario, ya sea a t&#237;tulo gratuito u oneroso, en tanto no sean requeridos por las personas se&#241;aladas en el inciso anterior. Esta asignaci&#243;n temporal finalizar&#225; por el solo ministerio de la ley, cuando sean asignados a personas con discapacidad, especialmente aquellas con movilidad reducida.
+     Para estos efectos, la solicitud de asignaci&#243;n por parte de las personas indicadas en el inciso primero de este art&#237;culo deber&#225; ser dirigida por escrito al administrador del condominio, en formato digital o material, acompa&#241;ando los antecedentes que acrediten la situaci&#243;n de discapacidad o movilidad reducida. De esta solicitud, el administrador deber&#225; levantar un acta, indicando el n&#250;mero de estacionamiento asignado y su ubicaci&#243;n dentro del condominio, la individualizaci&#243;n del requirente y la fecha desde la cual se asigna. Esta acta se incorporar&#225; en el libro de actas referido en el art&#237;culo 15 de la ley y la decisi&#243;n que contiene deber&#225; ser ratificada por la asamblea de copropietarios, mediante sesi&#243;n extraordinaria de mayor&#237;a reforzada que ser&#225; convocada para estos efectos por el comit&#233; de administraci&#243;n o la consulta por escrito que la reemplace.
+     En caso de que el estacionamiento requerido se haya asignado a otro copropietario en los t&#233;rminos del inciso segundo de este art&#237;culo, el administrador deber&#225; notificar por escrito al actual asignatario del estacionamiento, dentro del plazo de 2 d&#237;as h&#225;biles contados desde la solicitud, quien estar&#225; impedido de seguir utiliz&#225;ndolo a partir del d&#237;a h&#225;bil siguiente de la notificaci&#243;n, cesando ese mismo d&#237;a su deber de pago, en caso en que se hubiere pactado una asignaci&#243;n onerosa.
+     La asignaci&#243;n de estacionamientos en los t&#233;rminos se&#241;alados, as&#237; como toda otra asignaci&#243;n en uso y goce exclusivo, que no conste en el reglamento de copropiedad y que recaiga en terrenos y bienes comunes, deber&#225; otorgarse por escritura p&#250;blica e inscribirse en el Registro de Hipotecas y Grav&#225;menes del respectivo Conservador de Bienes Ra&#237;ces, debiendo mantenerse copia de todas ellas en la administraci&#243;n.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">45 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531806">
+      <Texto>     T&#205;TULO VII
+     De los condominios de viviendas de inter&#233;s p&#250;blico</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">T&#205;TULO VII De los condominios de viviendas de inter&#233;s p&#250;blico</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531807">
+          <Texto>     Art&#237;culo 46: Del cobro de los gastos comunes y convenios con empresas de servicios b&#225;sicos: Para los efectos de hacer exigible lo dispuesto en el art&#237;culo 72 de la ley, el propietario primer vendedor o el administrador, seg&#250;n sea procedente, comunicar&#225; a las empresas se&#241;aladas en el inciso primero de dicha norma, la proporci&#243;n que le corresponda a cada unidad en los gastos comunes, seg&#250;n se haya determinado en el primer reglamento de copropiedad o seg&#250;n se disponga mediante una modificaci&#243;n de dicho reglamento verificada por acuerdo de la asamblea de copropietarios, conforme a lo dispuesto en el art&#237;culo 15 de la ley, a m&#225;s tardar dentro del per&#237;odo de cobro inmediatamente posterior a la correspondiente inscripci&#243;n de dicho reglamento, o de su modificaci&#243;n, seg&#250;n corresponda, en el registro respectivo del Conservador de Bienes Ra&#237;ces.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">46 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531808">
+          <Texto>     Art&#237;culo 47: Del fondo com&#250;n de reserva de las viviendas sociales: Sin perjuicio de lo dispuesto en el art&#237;culo 39 de la ley, la formaci&#243;n del fondo com&#250;n de reserva de los condominios de viviendas sociales se regir&#225; por las normas especiales se&#241;aladas en el presente art&#237;culo.
+     En el caso de que se contemple la existencia y funcionamiento de programas de autofinanciamiento, que permitan recibir recursos provenientes del arrendamiento de bienes comunes para la instalaci&#243;n de publicidad, de antenas, de locales comerciales, de estacionamientos u otros, que sean destinados total o parcialmente al fondo com&#250;n de reserva, no ser&#225; obligatorio para los condominios de viviendas sociales cumplir con lo dispuesto en el art&#237;culo 39 de la ley, en referencia al porcentaje m&#237;nimo de recargo del gasto com&#250;n mensual correspondiente a un 5%, ni a la periodicidad mensual, se&#241;alados en dicho art&#237;culo. En estos casos, considerando los ingresos que se proyecta recibir en virtud de los programas de autofinanciamiento referidos, la asamblea de copropietarios reunida en sesi&#243;n extraordinaria de mayor&#237;a absoluta, podr&#225; acordar la eximici&#243;n temporal del condominio, estableciendo un pago del porcentaje de recargo sobre los gastos comunes inferior al 5% se&#241;alado, y/o  una periodicidad de dicho pago mayor a la mensual, pudiendo establecerse pagos bimestrales, trimestrales, semestrales u otras formas de pago, con el objetivo de aliviar la carga econ&#243;mica de los copropietarios de estos condominios, en consideraci&#243;n a la inexistencia de personal contratado y/o a la antig&#252;edad del condominio, as&#237; como a la cantidad y tipo de bienes comunes que, a futuro, pudieren generar la necesidad de solventar gastos comunes extraordinarios, urgentes o imprevistos.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">47 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531809">
+      <Texto>     T&#205;TULO VIII
+     De las disposiciones generales</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">T&#205;TULO VIII De las disposiciones generales</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531810">
+          <Texto>     Art&#237;culo 48: De la remoci&#243;n del primer administrador y la designaci&#243;n de su reemplazante: Una vez enajenado el 33% de las unidades que formen parte de un condominio nuevo, ser&#225; exigible lo dispuesto en el art&#237;culo 14 de la ley en cuanto a la celebraci&#243;n obligatoria de sesiones ordinarias de la asamblea de copropietarios al menos una vez por a&#241;o. Sin perjuicio de lo anterior y de lo dispuesto en el inciso cuarto del art&#237;culo 14, as&#237; como en el numeral 1) letra c) del cuadro inserto en el art&#237;culo 15 de la ley, mientras no se alcance el 66% de los derechos enajenados, en estas sesiones ordinarias no podr&#225;n adoptarse acuerdos referidos a la designaci&#243;n de un nuevo administrador, cuando el anterior haya sido removido por la misma asamblea o por la persona natural o jur&#237;dica propietaria del condominio. En estos casos, una vez removido el administrador anterior, la designaci&#243;n de uno nuevo corresponder&#225; exclusivamente a la persona natural o jur&#237;dica propietaria del condominio, sin que por ese hecho se extingan las obligaciones se&#241;aladas en el inciso s&#233;ptimo del art&#237;culo 9 de la ley, que le corresponden tanto al anterior administrador, como a la persona natural o jur&#237;dica propietaria del condominio que dict&#243; el primer reglamento de copropiedad.
+     En conformidad a lo dispuesto en el literal c) del inciso octavo del art&#237;culo 9 de la ley, una vez enajenado el 66% de las unidades que formen parte de un condominio nuevo, no regir&#225; la restricci&#243;n se&#241;alada en el inciso anterior, por lo cual, en las sesiones de asamblea de copropietarios respectivas, podr&#225; acordarse la ratificaci&#243;n del administrador o su reemplazo mediante la designaci&#243;n de otra persona.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">48 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531811">
+          <Texto>     Art&#237;culo 49: De la interposici&#243;n de una reclamaci&#243;n en contra de los administradores de condominios: El comit&#233; de administraci&#243;n, o los copropietarios o arrendatarios que representen al menos el 15% de las unidades del condominio, podr&#225;n interponer una reclamaci&#243;n ante la Secretar&#237;a Regional Ministerial de Vivienda y Urbanismo de la regi&#243;n donde se encuentre el condominio, cuando el administrador o subadministrador incumpla alguna de las obligaciones que le impone la ley y el presente reglamento, en conformidad a lo dispuesto en el art&#237;culo 90 de la ley.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">49 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531812">
+          <Texto>     Art&#237;culo 50: De las multas a beneficio fiscal aplicadas a un administrador: Cuando un administrador resulte sancionado con una multa a beneficio fiscal, de acuerdo con lo dispuesto en el art&#237;culo 88 de la ley, esta deber&#225; ser pagada a la Tesorer&#237;a General de la Rep&#250;blica en el plazo de 30 d&#237;as h&#225;biles, contado desde que la sanci&#243;n se encuentre firme y ejecutoriada.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">50 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531813">
+      <Texto>     ART&#205;CULO TRANSITORIO</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">ART&#205;CULO TRANSITORIO</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-01-09" derogado="no derogado" idParte="10531814">
+          <Texto>     Art&#237;culo Transitorio: De los ajustes a los reglamentos de copropiedad: Corresponder&#225; al comit&#233; de administraci&#243;n de cada comunidad, revisar el reglamento de copropiedad vigente y proponer a la asamblea de copropietarios los ajustes que resulten necesarios para dar cumplimiento a lo se&#241;alado en el art&#237;culo 100 de la ley.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+  </EstructurasFuncionales>
+  <Promulgacion fechaVersion="2025-01-09" derogado="no derogado">
+    <Texto>     An&#243;tese, t&#243;mese raz&#243;n y publ&#237;quese.- GABRIEL BORIC FONT, Presidente de la Rep&#250;blica.- Carlos Montes Cisternas, Ministro de Vivienda y Urbanismo.
+     Lo que transcribo para su conocimiento.- Tatiana Valeska Rojas Leiva, Subsecretaria de Vivienda y Urbanismo.</Texto>
+  </Promulgacion>
+  
+</Norma>

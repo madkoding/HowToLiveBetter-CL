@@ -1,0 +1,13 @@
+# nombre<TAB>url
+ca_vph	https://www.chileatiende.gob.cl/fichas/36896-vacuna-contra-el-virus-del-papiloma-humano-vph
+ca_influenza	https://www.chileatiende.gob.cl/fichas/10424-vacuna-contra-la-influenza
+ca_pni	https://www.chileatiende.gob.cl/fichas/105622-vacunas-del-programa-nacional-de-inmunizaciones-del-minsal
+ca_cancer_mama	https://www.chileatiende.gob.cl/fichas/15852-prevenir-y-tratar-el-cancer-de-mama
+ca_permiso_examenes	https://www.chileatiende.gob.cl/fichas/37067-permiso-para-realizarse-examenes-medicos-durante-la-jornada-laboral
+ca_ley_urgencia	https://www.chileatiende.gob.cl/fichas/1092-ley-de-urgencia
+ca_fonasa_beneficios	https://www.chileatiende.gob.cl/momentos-de-vida/Acceder+a+salud+p%C3%BAblica/Conoce+y+accede+a+los+programas,+pr%C3%A9stamos+y+beneficios+de+Fonasa
+ca_tramos_fonasa	https://www.chileatiende.gob.cl/fichas/1135-tramos-de-fonasa
+ca_ges_cancer_cervicouterino	https://www.chileatiende.gob.cl/fichas/15777-prevenir-y-tratar-el-cancer-cervicouterino
+ca_ges_diabetes	https://www.chileatiende.gob.cl/fichas/1662-diabetes
+ca_ges_hipertension	https://www.chileatiende.gob.cl/fichas/1663-hipertension-arterial
+ca_isapre_reclamos	https://www.chileatiende.gob.cl/fichas/1169-reclamo-ante-la-superintendencia-de-salud

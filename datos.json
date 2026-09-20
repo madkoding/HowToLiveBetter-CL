@@ -1,0 +1,351 @@
+{
+ "capitulos": [
+  {
+   "archivo": "03-no-gastes-tu-energia.md",
+   "titulo": "3. No gastes tu energía"
+  }
+ ],
+ "items": [
+  {
+   "capitulo": "3. No gastes tu energía",
+   "archivo": "03-no-gastes-tu-energia.md",
+   "numero": 1,
+   "titulo": "Apaga las notificaciones que no sean imprescindibles y deja el teléfono fuera de la vista mientras trabajas",
+   "linea": 11,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "no",
+   "beneficio_nivel": "medio",
+   "medida": "tiempo",
+   "costo": "$0; unos minutos de configuración una sola vez.",
+   "simple": "Cuando el teléfono avisa algo, aunque no lo mires ni lo toques, tu rendimiento en tareas de atención baja casi lo mismo que si hubieras contestado la llamada. Y con el teléfono sobre el escritorio, aunque no lo tomes, te queda menos capacidad de trabajo disponible: mientras más pegado estás al teléfono, más grande la caída.",
+   "beneficio": "recibir una notificación sin mirar ni tocar el teléfono baja significativamente el rendimiento en tareas de atención, con un tamaño de efecto comparable a contestar una llamada o responder un mensaje (estudio de laboratorio, estudiantes universitarios); dos experimentos muestran que incluso resistiendo la revisión del teléfono, la mera presencia del propio aparato reduce la capacidad cognitiva disponible, con la mayor caída entre los más dependientes.",
+   "evidencia": "B",
+   "fuentes": "Stothart, Mitchum & Yehnert (2015). The attentional cost of receiving a cell phone notification. Journal of Experimental Psychology: Human Perception and Performance. <https://doi.org/10.1037/xhp0000100> ; Ward, Duke, Gneezy & Bos (2017). Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity. Journal of the Association for Consumer Research. <https://doi.org/10.1086/691462>",
+   "notas": "son tareas de laboratorio puntuales; el efecto acumulado en una jornada real no está medido directamente. Si tu pega exige estar disponible, deja notificaciones solo de unos pocos contactos y silencia el resto.",
+   "urls": [
+    "https://doi.org/10.1037/xhp0000100",
+    "https://doi.org/10.1086/691462"
+   ],
+   "busqueda": "apaga las notificaciones que no sean imprescindibles y deja el telefono fuera de la vista mientras trabajas 3. no gastes tu energia cuando el telefono avisa algo, aunque no lo mires ni lo toques, tu rendimiento en tareas de atencion baja casi lo mismo que si hubieras contestado la llamada. y con el telefono sobre el escritorio, aunque no lo tomes, te queda menos capacidad de trabajo disponible: mientras mas pegado estas al telefono, mas grande la caida. $0; unos minutos de configuracion una sola vez. recibir una notificacion sin mirar ni tocar el telefono baja significativamente el rendimiento en tareas de atencion, con un tamano de efecto comparable a contestar una llamada o responder un mensaje (estudio de laboratorio, estudiantes universitarios); dos experimentos muestran que incluso resistiendo la revision del telefono, la mera presencia del propio aparato reduce la capacidad cognitiva disponible, con la mayor caida entre los mas dependientes. son tareas de laboratorio puntuales; el efecto acumulado en una jornada real no esta medido directamente. si tu pega exige estar disponible, deja notificaciones solo de unos pocos contactos y silencia el resto."
+  },
+  {
+   "capitulo": "3. No gastes tu energía",
+   "archivo": "03-no-gastes-tu-energia.md",
+   "numero": 2,
+   "titulo": "Fija la hora de levantarte, también los fines de semana",
+   "linea": 20,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "algo",
+   "beneficio_nivel": "medio",
+   "medida": "tiempo",
+   "costo": "$0; significa renunciar a dormir hasta tarde el sábado, y algo de aguante.",
+   "simple": "Una persona con horarios desordenados vive con el reloj biológico corrido un par de horas respecto de alguien regular: es como vivir con jet lag permanente. Y a quien estudia, mientras más regular es su horario, mejor le va.",
+   "beneficio": "61 universitarios seguidos por 30 días: el quinto menos regular tenía un ritmo circadiano aproximadamente 2,5 horas más tarde que el quinto más regular (inicio de melatonina 00:08 vs 21:32), con el peak de somnolencia 1,8 horas más tarde; la regularidad del horario se correlacionó con el rendimiento académico (r = 0,37).",
+   "evidencia": "B",
+   "fuentes": "Phillips et al. (2017). Irregular sleep/wake patterns are associated with poorer academic performance and delayed circadian and sleep/wake timing. Scientific Reports. <https://doi.org/10.1038/s41598-017-03171-4>",
+   "notas": "cohorte única, observacional, muestra chica. Los modelos sugieren que la diferencia de ritmo viene sobre todo de la exposición a la luz, así que fijar la hora de levantarse funciona solo si además te expones a luz de mañana.",
+   "urls": [
+    "https://doi.org/10.1038/s41598-017-03171-4"
+   ],
+   "busqueda": "fija la hora de levantarte, tambien los fines de semana 3. no gastes tu energia una persona con horarios desordenados vive con el reloj biologico corrido un par de horas respecto de alguien regular: es como vivir con jet lag permanente. y a quien estudia, mientras mas regular es su horario, mejor le va. $0; significa renunciar a dormir hasta tarde el sabado, y algo de aguante. 61 universitarios seguidos por 30 dias: el quinto menos regular tenia un ritmo circadiano aproximadamente 2,5 horas mas tarde que el quinto mas regular (inicio de melatonina 00:08 vs 21:32), con el peak de somnolencia 1,8 horas mas tarde; la regularidad del horario se correlaciono con el rendimiento academico (r = 0,37). cohorte unica, observacional, muestra chica. los modelos sugieren que la diferencia de ritmo viene sobre todo de la exposicion a la luz, asi que fijar la hora de levantarse funciona solo si ademas te expones a luz de manana."
+  },
+  {
+   "capitulo": "3. No gastes tu energía",
+   "archivo": "03-no-gastes-tu-energia.md",
+   "numero": 3,
+   "titulo": "Duerme entre 7 y 8 horas; no te creas el cuento de las 6",
+   "linea": 29,
+   "plata": "0",
+   "tiempo": "mucho",
+   "aguante": "algo",
+   "beneficio_nivel": "alto",
+   "medida": "tiempo",
+   "costo": "reservar 1 a 2 horas más al día para dormir.",
+   "simple": "Dormir 6 horas por noche durante dos semanas seguidas deja tu rendimiento mental como el de alguien que lleva dos días y dos noches sin dormir. Lo tramposo es que no lo sientes: la somnolencia que percibes sube los primeros días y después se estanca, y quien duerme 6 horas se evalúa igual de somnoliento que quien duerme 4. Decir \"yo con 6 horas ando bien\" es, en sí mismo, un síntoma de la deuda de sueño.",
+   "beneficio": "48 adultos sanos de 21 a 38 años durmieron solo 6 horas por noche durante 14 días seguidos, y su rendimiento cognitivo cayó de forma acumulativa hasta el nivel de 2 noches completas sin dormir; la somnolencia subjetiva subió solo los primeros días y luego casi no cambió, y no hubo diferencia de somnolencia percibida entre el grupo de 6 horas y el de 4 (ensayo aleatorizado). La privación aguda de sueño (hasta 48 horas) tiene un tamaño de efecto de g = -0,776 en lapsus de atención simple y g = -0,125 en precisión de razonamiento (metaanálisis de 70 estudios).",
+   "evidencia": "A",
+   "fuentes": "Van Dongen, Maislin, Mullington & Dinges (2003). The cumulative cost of additional wakefulness. Sleep. <https://doi.org/10.1093/sleep/26.2.117> ; Lim & Dinges (2010). A meta-analysis of the impact of short-term sleep deprivation on cognitive variables. Psychological Bulletin. <https://doi.org/10.1037/a0018883>",
+   "notas": "lo importante es que \"no me siento somnoliento\" no es prueba de dormir suficiente: quien duerme crónicamente 6 horas se acostumbra a la sensación, pero su rendimiento no se recupera. El metaanálisis cubre privación total aguda; el efecto de la restricción crónica viene de un solo ensayo.",
+   "urls": [
+    "https://doi.org/10.1093/sleep/26.2.117",
+    "https://doi.org/10.1037/a0018883"
+   ],
+   "busqueda": "duerme entre 7 y 8 horas; no te creas el cuento de las 6 3. no gastes tu energia dormir 6 horas por noche durante dos semanas seguidas deja tu rendimiento mental como el de alguien que lleva dos dias y dos noches sin dormir. lo tramposo es que no lo sientes: la somnolencia que percibes sube los primeros dias y despues se estanca, y quien duerme 6 horas se evalua igual de somnoliento que quien duerme 4. decir \"yo con 6 horas ando bien\" es, en si mismo, un sintoma de la deuda de sueno. reservar 1 a 2 horas mas al dia para dormir. 48 adultos sanos de 21 a 38 anos durmieron solo 6 horas por noche durante 14 dias seguidos, y su rendimiento cognitivo cayo de forma acumulativa hasta el nivel de 2 noches completas sin dormir; la somnolencia subjetiva subio solo los primeros dias y luego casi no cambio, y no hubo diferencia de somnolencia percibida entre el grupo de 6 horas y el de 4 (ensayo aleatorizado). la privacion aguda de sueno (hasta 48 horas) tiene un tamano de efecto de g = -0,776 en lapsus de atencion simple y g = -0,125 en precision de razonamiento (metaanalisis de 70 estudios). lo importante es que \"no me siento somnoliento\" no es prueba de dormir suficiente: quien duerme cronicamente 6 horas se acostumbra a la sensacion, pero su rendimiento no se recupera. el metaanalisis cubre privacion total aguda; el efecto de la restriccion cronica viene de un solo ensayo."
+  },
+  {
+   "capitulo": "3. No gastes tu energía",
+   "archivo": "03-no-gastes-tu-energia.md",
+   "numero": 4,
+   "titulo": "Nada de cafeína después de las dos de la tarde",
+   "linea": 38,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "algo",
+   "beneficio_nivel": "alto",
+   "medida": "tiempo",
+   "costo": "$0; para quien tiene la costumbre del café de la tarde, algo de aguante.",
+   "simple": "Un café grande tomado unas horas antes de acostarte te cuesta una hora o más de sueño, y sin embargo tu propio registro de sueño no muestra ninguna diferencia. Para que el café de siempre no te toque el sueño, hay que terminarlo más de ocho horas antes de dormir: si te acuestas a las once, la última taza es a las dos de la tarde.",
+   "beneficio": "400 mg de cafeína tomados 6 horas antes de acostarse redujeron el tiempo total de sueño medido objetivamente entre 1,1 y 1,2 horas respecto de placebo, mientras los diarios de sueño de los participantes no reportaron diferencia, es decir, no lo notaron (estudio de laboratorio); metaanálisis: la cafeína reduce el tiempo total de sueño en 45 minutos en promedio y la eficiencia del sueño en 7%, y una taza de café (107 mg) debe consumirse más de 8,8 horas antes de acostarse para no afectar el sueño.",
+   "evidencia": "A",
+   "fuentes": "Drake, Roehrs, Shambroom & Roth (2013). Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed. Journal of Clinical Sleep Medicine. <https://doi.org/10.5664/jcsm.3170> ; Gardiner et al. (2023). The effect of caffeine on subsequent sleep: A systematic review and meta-analysis. Sleep Medicine Reviews. <https://doi.org/10.1016/j.smrv.2023.101764>",
+   "notas": "Drake es un estudio de laboratorio único y su dosis de 400 mg es alta (dos a tres tazas). Quien metaboliza la cafeína lento necesita cortarla antes. El beneficio se mide en horas de sueño y se suma al del ítem 3. Ojo con las bebidas energéticas y los energizantes con cafeína: revisa el envase, no la marca.",
+   "urls": [
+    "https://doi.org/10.5664/jcsm.3170",
+    "https://doi.org/10.1016/j.smrv.2023.101764"
+   ],
+   "busqueda": "nada de cafeina despues de las dos de la tarde 3. no gastes tu energia un cafe grande tomado unas horas antes de acostarte te cuesta una hora o mas de sueno, y sin embargo tu propio registro de sueno no muestra ninguna diferencia. para que el cafe de siempre no te toque el sueno, hay que terminarlo mas de ocho horas antes de dormir: si te acuestas a las once, la ultima taza es a las dos de la tarde. $0; para quien tiene la costumbre del cafe de la tarde, algo de aguante. 400 mg de cafeina tomados 6 horas antes de acostarse redujeron el tiempo total de sueno medido objetivamente entre 1,1 y 1,2 horas respecto de placebo, mientras los diarios de sueno de los participantes no reportaron diferencia, es decir, no lo notaron (estudio de laboratorio); metaanalisis: la cafeina reduce el tiempo total de sueno en 45 minutos en promedio y la eficiencia del sueno en 7%, y una taza de cafe (107 mg) debe consumirse mas de 8,8 horas antes de acostarse para no afectar el sueno. drake es un estudio de laboratorio unico y su dosis de 400 mg es alta (dos a tres tazas). quien metaboliza la cafeina lento necesita cortarla antes. el beneficio se mide en horas de sueno y se suma al del item 3. ojo con las bebidas energeticas y los energizantes con cafeina: revisa el envase, no la marca."
+  },
+  {
+   "capitulo": "3. No gastes tu energía",
+   "archivo": "03-no-gastes-tu-energia.md",
+   "numero": 5,
+   "titulo": "Junta el correo y los mensajes en dos o tres momentos fijos del día",
+   "linea": 47,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "algo",
+   "beneficio_nivel": "medio",
+   "medida": "tiempo",
+   "costo": "$0; requiere avisarle a tu equipo cada cuánto respondes.",
+   "simple": "A las mismas personas, dos semanas, comparadas consigo mismas: la semana en que limitaron el correo a tres revisiones al día, el estrés diario fue notablemente menor, y la cantidad de correos enviados y recibidos no cambió. Sin límite, se revisa el correo unas quince veces al día.",
+   "beneficio": "124 adultos en una comparación de dos semanas dentro del mismo sujeto: en la semana limitada a revisar el correo 3 veces al día el estrés diario fue significativamente menor que en la semana sin restricción (d de Cohen = 0,37), sin diferencia en la cantidad de correos recibidos ni respondidos entre ambas semanas; en la línea base las personas revisaban el correo 15,5 veces al día en promedio.",
+   "evidencia": "B",
+   "fuentes": "Kushlev & Dunn (2015). Checking email less frequently reduces stress. Computers in Human Behavior. <https://doi.org/10.1016/j.chb.2014.11.005>",
+   "notas": "estudio único, efecto chico a mediano, y lo que mide es estrés, no producción. Los mensajes instantáneos no se han estudiado directamente; solo cabe la analogía.",
+   "urls": [
+    "https://doi.org/10.1016/j.chb.2014.11.005"
+   ],
+   "busqueda": "junta el correo y los mensajes en dos o tres momentos fijos del dia 3. no gastes tu energia a las mismas personas, dos semanas, comparadas consigo mismas: la semana en que limitaron el correo a tres revisiones al dia, el estres diario fue notablemente menor, y la cantidad de correos enviados y recibidos no cambio. sin limite, se revisa el correo unas quince veces al dia. $0; requiere avisarle a tu equipo cada cuanto respondes. 124 adultos en una comparacion de dos semanas dentro del mismo sujeto: en la semana limitada a revisar el correo 3 veces al dia el estres diario fue significativamente menor que en la semana sin restriccion (d de cohen = 0,37), sin diferencia en la cantidad de correos recibidos ni respondidos entre ambas semanas; en la linea base las personas revisaban el correo 15,5 veces al dia en promedio. estudio unico, efecto chico a mediano, y lo que mide es estres, no produccion. los mensajes instantaneos no se han estudiado directamente; solo cabe la analogia."
+  },
+  {
+   "capitulo": "3. No gastes tu energía",
+   "archivo": "03-no-gastes-tu-energia.md",
+   "numero": 6,
+   "titulo": "Corta la interrupción aunque dure segundos, cuando el trabajo exige pensar seguido",
+   "linea": 56,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "no",
+   "beneficio_nivel": "alto",
+   "medida": "tiempo",
+   "costo": "cerrar la puerta, ponerse audífonos o colgar un cartel de \"no molestar\"; $0.",
+   "simple": "Una interrupción de unos pocos segundos duplica la probabilidad de equivocarte en el paso siguiente; una un poco más larga la triplica. En el trabajo real, retomar la tarea interrumpida toma en promedio alrededor de veinticinco minutos, y en el camino se cuelan otras dos tareas. Quien trabaja interrumpido avanza más rápido, pero con más estrés, más frustración y más cansancio.",
+   "beneficio": "una interrupción de 2,8 segundos en promedio duplicó la tasa de error por paso en una tarea secuencial, y una de 4,4 segundos la triplicó (laboratorio); observación en terreno de 24 trabajadores de la información: el tema de trabajo cambiaba cada 11 minutos en promedio, el 57% de los temas fue interrumpido, y retomar el trabajo interrumpido tomó 25 minutos con 26 segundos en promedio ese día, con 2,26 otras tareas intercaladas; quienes fueron interrumpidos trabajaron más rápido pero reportaron mayor estrés, frustración, presión de tiempo y esfuerzo (experimento con 48 participantes).",
+   "evidencia": "B",
+   "fuentes": "Altmann, Trafton & Hambrick (2014). Momentary interruptions can derail the train of thought. Journal of Experimental Psychology: General. <https://doi.org/10.1037/a0030986> ; Mark, Gonzalez & Harris (2005). No task left behind? Examining the nature of fragmented work. CHI 2005. <https://doi.org/10.1145/1054972.1055017> ; Mark, Gudith & Klocke (2008). The cost of interrupted work: More speed and stress. CHI 2008. <https://doi.org/10.1145/1357054.1357072>",
+   "notas": "el estudio de terreno separa las interrupciones externas de las que uno mismo se provoca; cerrar la puerta bloquea solo las primeras. Se usa junto con los ítems 1 y 5.",
+   "urls": [
+    "https://doi.org/10.1037/a0030986",
+    "https://doi.org/10.1145/1054972.1055017",
+    "https://doi.org/10.1145/1357054.1357072"
+   ],
+   "busqueda": "corta la interrupcion aunque dure segundos, cuando el trabajo exige pensar seguido 3. no gastes tu energia una interrupcion de unos pocos segundos duplica la probabilidad de equivocarte en el paso siguiente; una un poco mas larga la triplica. en el trabajo real, retomar la tarea interrumpida toma en promedio alrededor de veinticinco minutos, y en el camino se cuelan otras dos tareas. quien trabaja interrumpido avanza mas rapido, pero con mas estres, mas frustracion y mas cansancio. cerrar la puerta, ponerse audifonos o colgar un cartel de \"no molestar\"; $0. una interrupcion de 2,8 segundos en promedio duplico la tasa de error por paso en una tarea secuencial, y una de 4,4 segundos la triplico (laboratorio); observacion en terreno de 24 trabajadores de la informacion: el tema de trabajo cambiaba cada 11 minutos en promedio, el 57% de los temas fue interrumpido, y retomar el trabajo interrumpido tomo 25 minutos con 26 segundos en promedio ese dia, con 2,26 otras tareas intercaladas; quienes fueron interrumpidos trabajaron mas rapido pero reportaron mayor estres, frustracion, presion de tiempo y esfuerzo (experimento con 48 participantes). el estudio de terreno separa las interrupciones externas de las que uno mismo se provoca; cerrar la puerta bloquea solo las primeras. se usa junto con los items 1 y 5."
+  },
+  {
+   "capitulo": "3. No gastes tu energía",
+   "archivo": "03-no-gastes-tu-energia.md",
+   "numero": 7,
+   "titulo": "Haz una cosa a la vez; no contestes mensajes en medio de una reunión",
+   "linea": 65,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "algo",
+   "beneficio_nivel": "medio",
+   "medida": "tiempo",
+   "costo": "$0; un poco de aguante.",
+   "simple": "Cada vez que cambias de tarea, reaccionas más lento y te equivocas más. Y quien acostumbra a tener varias pantallas a la vez no es que haya entrenado una habilidad: le va peor en las pruebas de cambio de tarea.",
+   "beneficio": "después de un cambio de tarea las respuestas son significativamente más lentas y los errores más frecuentes (revisión); quienes usan muchos medios a la vez se distraen más con estímulos y recuerdos irrelevantes y rinden peor en pruebas de cambio de tarea (laboratorio, universitarios).",
+   "evidencia": "B",
+   "fuentes": "Monsell (2003). Task switching. Trends in Cognitive Sciences. <https://doi.org/10.1016/S1364-6613(03)00028-7> ; Ophir, Nass & Wagner (2009). Cognitive control in media multitaskers. PNAS. <https://doi.org/10.1073/pnas.0903620106>",
+   "notas": "el costo exacto del cambio depende mucho del tipo de tarea, por eso no se da un porcentaje único. Ophir es una comparación transversal y no puede distinguir si el multitasking causa la mala atención o si las personas con mala atención hacen multitasking.",
+   "urls": [
+    "https://doi.org/10.1016/S1364-6613(03",
+    "https://doi.org/10.1073/pnas.0903620106"
+   ],
+   "busqueda": "haz una cosa a la vez; no contestes mensajes en medio de una reunion 3. no gastes tu energia cada vez que cambias de tarea, reaccionas mas lento y te equivocas mas. y quien acostumbra a tener varias pantallas a la vez no es que haya entrenado una habilidad: le va peor en las pruebas de cambio de tarea. $0; un poco de aguante. despues de un cambio de tarea las respuestas son significativamente mas lentas y los errores mas frecuentes (revision); quienes usan muchos medios a la vez se distraen mas con estimulos y recuerdos irrelevantes y rinden peor en pruebas de cambio de tarea (laboratorio, universitarios). el costo exacto del cambio depende mucho del tipo de tarea, por eso no se da un porcentaje unico. ophir es una comparacion transversal y no puede distinguir si el multitasking causa la mala atencion o si las personas con mala atencion hacen multitasking."
+  },
+  {
+   "capitulo": "3. No gastes tu energía",
+   "archivo": "03-no-gastes-tu-energia.md",
+   "numero": 8,
+   "titulo": "Sin pantallas que emitan luz en la hora antes de dormir; si vas a leer, papel o tinta electrónica",
+   "linea": 74,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "si",
+   "beneficio_nivel": "medio",
+   "medida": "tiempo",
+   "costo": "$0; requiere aguante.",
+   "simple": "Leer en una pantalla que emite luz antes de dormir hace que te demores más en quedarte dormido que leyendo un libro de papel, reduce la melatonina a la mitad y corre tu reloj biológico hacia adelante, dejándote más somnoliento y más lento al día siguiente.",
+   "beneficio": "ensayo cruzado de laboratorio: leer un libro electrónico con luz antes de dormir tardó 25,7 minutos en conciliar el sueño versus 15,8 minutos con un libro de papel, suprimió la melatonina de la tarde en un 55% y retrasó el ritmo circadiano del día siguiente en más de 1,5 horas (inicio de melatonina 22:31 vs 21:01), con mayor somnolencia matinal y más tiempo para despertar del todo.",
+   "evidencia": "B",
+   "fuentes": "Chang, Aeschbach, Duffy & Czeisler (2015). Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness. PNAS. <https://doi.org/10.1073/pnas.1418490112>",
+   "notas": "muestra chica y condiciones de laboratorio controladas; a brillo y uso cotidianos el efecto puede ser menor. Cuánto lo reduce el modo noche no se midió en este estudio.",
+   "urls": [
+    "https://doi.org/10.1073/pnas.1418490112"
+   ],
+   "busqueda": "sin pantallas que emitan luz en la hora antes de dormir; si vas a leer, papel o tinta electronica 3. no gastes tu energia leer en una pantalla que emite luz antes de dormir hace que te demores mas en quedarte dormido que leyendo un libro de papel, reduce la melatonina a la mitad y corre tu reloj biologico hacia adelante, dejandote mas somnoliento y mas lento al dia siguiente. $0; requiere aguante. ensayo cruzado de laboratorio: leer un libro electronico con luz antes de dormir tardo 25,7 minutos en conciliar el sueno versus 15,8 minutos con un libro de papel, suprimio la melatonina de la tarde en un 55% y retraso el ritmo circadiano del dia siguiente en mas de 1,5 horas (inicio de melatonina 22:31 vs 21:01), con mayor somnolencia matinal y mas tiempo para despertar del todo. muestra chica y condiciones de laboratorio controladas; a brillo y uso cotidianos el efecto puede ser menor. cuanto lo reduce el modo noche no se midio en este estudio."
+  },
+  {
+   "capitulo": "3. No gastes tu energía",
+   "archivo": "03-no-gastes-tu-energia.md",
+   "numero": 9,
+   "titulo": "Acuéstate a tu hora; no te quedes pegado a las pantallas en la cama",
+   "linea": 83,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "si",
+   "beneficio_nivel": "alto",
+   "medida": "tiempo",
+   "costo": "$0; resistir el \"una más\" sostenidamente. Lo que menos esfuerzo cuesta es dejar el teléfono fuera del dormitorio.",
+   "simple": "Quien usa teléfono o tablet antes de dormir tiene más del doble de probabilidad de dormir insuficiente y casi el triple de andar somnoliento durante el día. Y pasa lo mismo si el aparato está en el dormitorio sin usarse: la solución más simple es no llevarlo a la pieza.",
+   "beneficio": "el uso de dispositivos portátiles antes de dormir se asocia a sueño insuficiente (OR 2,17), mala calidad de sueño (OR 1,46) y somnolencia diurna (OR 2,72), y la mera presencia del dispositivo en el dormitorio sin uso muestra la misma dirección (OR 1,79/1,53/2,27) (metaanálisis de 20 estudios transversales, 125.198 niños y adolescentes); entre 844 adultos de 18 a 94 años, quienes seguían usando el teléfono después de apagar la luz se dormían más lento, tenían menor eficiencia de sueño y más fatiga diurna (transversal).",
+   "evidencia": "B",
+   "fuentes": "Carter et al. (2016). Association Between Portable Screen-Based Media Device Access or Use and Sleep Outcomes. JAMA Pediatrics. <https://doi.org/10.1001/jamapediatrics.2016.2341> ; Exelmans & Van den Bulck (2016). Bedtime mobile phone use and sleep in adults. Social Science & Medicine. <https://doi.org/10.1016/j.socscimed.2015.11.037>",
+   "notas": "el costo de trasnochar en sí está en el ítem 3 de este capítulo. Sobre el efecto del contenido —series, videos cortos, pornografía— en la energía y la atención no hay evidencia causal confiable en personas comunes: lo que este ítem ataca es solo el sueño que ese contenido desplaza.",
+   "urls": [
+    "https://doi.org/10.1001/jamapediatrics.2016.2341",
+    "https://doi.org/10.1016/j.socscimed.2015.11.037"
+   ],
+   "busqueda": "acuestate a tu hora; no te quedes pegado a las pantallas en la cama 3. no gastes tu energia quien usa telefono o tablet antes de dormir tiene mas del doble de probabilidad de dormir insuficiente y casi el triple de andar somnoliento durante el dia. y pasa lo mismo si el aparato esta en el dormitorio sin usarse: la solucion mas simple es no llevarlo a la pieza. $0; resistir el \"una mas\" sostenidamente. lo que menos esfuerzo cuesta es dejar el telefono fuera del dormitorio. el uso de dispositivos portatiles antes de dormir se asocia a sueno insuficiente (or 2,17), mala calidad de sueno (or 1,46) y somnolencia diurna (or 2,72), y la mera presencia del dispositivo en el dormitorio sin uso muestra la misma direccion (or 1,79/1,53/2,27) (metaanalisis de 20 estudios transversales, 125.198 ninos y adolescentes); entre 844 adultos de 18 a 94 anos, quienes seguian usando el telefono despues de apagar la luz se dormian mas lento, tenian menor eficiencia de sueno y mas fatiga diurna (transversal). el costo de trasnochar en si esta en el item 3 de este capitulo. sobre el efecto del contenido —series, videos cortos, pornografia— en la energia y la atencion no hay evidencia causal confiable en personas comunes: lo que este item ataca es solo el sueno que ese contenido desplaza."
+  },
+  {
+   "capitulo": "3. No gastes tu energía",
+   "archivo": "03-no-gastes-tu-energia.md",
+   "numero": 10,
+   "titulo": "No tomes decisiones importantes ni mandes mensajes que pesan de madrugada",
+   "linea": 92,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "algo",
+   "beneficio_nivel": "alto",
+   "medida": "tiempo",
+   "costo": "$0; solo significa dejarlo para después de dormir.",
+   "simple": "Personas privadas de sueño durante dos noches seguidas, puestas ante un juego de decisiones con riesgo, eligen una y otra vez la opción riesgosa; descansadas, aprenden rápido a evitarla. Y mientras mayor la edad, más fuerte el efecto.",
+   "beneficio": "34 adultos sanos hicieron la Iowa Gambling Task tras 49,5 horas sin dormir: descansados aprendían rápido a evitar las opciones de alto riesgo, y privados de sueño eligieron esas opciones de alto riesgo con más frecuencia, con mayor efecto en los participantes de más edad (experimento, estudio único).",
+   "evidencia": "B",
+   "fuentes": "Killgore, Balkin & Wesensten (2006). Impaired decision making following 49 h of sleep deprivation. Journal of Sleep Research. <https://doi.org/10.1111/j.1365-2869.2006.00487.x>",
+   "notas": "el estudio cubre el caso extremo de dos noches seguidas sin dormir; el efecto de trasnochar hasta las dos de la mañana no está medido directamente. La parte de \"no mandes mensajes\" es experiencia, no literatura: mandarlos al día siguiente no es tarde.",
+   "urls": [
+    "https://doi.org/10.1111/j.1365-2869.2006.00487.x"
+   ],
+   "busqueda": "no tomes decisiones importantes ni mandes mensajes que pesan de madrugada 3. no gastes tu energia personas privadas de sueno durante dos noches seguidas, puestas ante un juego de decisiones con riesgo, eligen una y otra vez la opcion riesgosa; descansadas, aprenden rapido a evitarla. y mientras mayor la edad, mas fuerte el efecto. $0; solo significa dejarlo para despues de dormir. 34 adultos sanos hicieron la iowa gambling task tras 49,5 horas sin dormir: descansados aprendian rapido a evitar las opciones de alto riesgo, y privados de sueno eligieron esas opciones de alto riesgo con mas frecuencia, con mayor efecto en los participantes de mas edad (experimento, estudio unico). el estudio cubre el caso extremo de dos noches seguidas sin dormir; el efecto de trasnochar hasta las dos de la manana no esta medido directamente. la parte de \"no mandes mensajes\" es experiencia, no literatura: mandarlos al dia siguiente no es tarde."
+  },
+  {
+   "capitulo": "3. No gastes tu energía",
+   "archivo": "03-no-gastes-tu-energia.md",
+   "numero": 11,
+   "titulo": "Si te baja el sueño en la tarde, duerme una siesta corta: una siesta larga te deja peor",
+   "linea": 101,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "no",
+   "beneficio_nivel": "medio",
+   "medida": "tiempo",
+   "costo": "unos minutos y un lugar donde recostarte o apoyar la cabeza.",
+   "simple": "Una siesta de diez minutos te despeja al tiro y el efecto dura un par de horas; una de cinco casi no sirve; una de veinte recién se siente media hora después; y después de treinta minutos despiertas en un rato de pesadez en que rindes peor que si no hubieras dormido nada.",
+   "beneficio": "tras una noche de sueño restringido, una siesta de 10 minutos mejoró de inmediato la somnolencia, la fatiga, el vigor y el rendimiento cognitivo, con parte del beneficio presente hasta 155 minutos después; la de 5 minutos casi no produjo beneficio; la de 20 minutos solo se sintió 35 minutos más tarde; la de 30 minutos fue seguida primero por un período de inercia del sueño (rendimiento peor justo después de despertar) antes de mejorar.",
+   "evidencia": "B",
+   "fuentes": "Brooks & Lack (2006). A brief afternoon nap following nocturnal sleep restriction: Which nap duration is most recuperative? Sleep. <https://doi.org/10.1093/sleep/29.6.831>",
+   "notas": "estudio de laboratorio único, adultos jóvenes sanos. Si no logras dormirte, no lo fuerces: no hay beneficio respaldado por investigación en solo cerrar los ojos.",
+   "urls": [
+    "https://doi.org/10.1093/sleep/29.6.831"
+   ],
+   "busqueda": "si te baja el sueno en la tarde, duerme una siesta corta: una siesta larga te deja peor 3. no gastes tu energia una siesta de diez minutos te despeja al tiro y el efecto dura un par de horas; una de cinco casi no sirve; una de veinte recien se siente media hora despues; y despues de treinta minutos despiertas en un rato de pesadez en que rindes peor que si no hubieras dormido nada. unos minutos y un lugar donde recostarte o apoyar la cabeza. tras una noche de sueno restringido, una siesta de 10 minutos mejoro de inmediato la somnolencia, la fatiga, el vigor y el rendimiento cognitivo, con parte del beneficio presente hasta 155 minutos despues; la de 5 minutos casi no produjo beneficio; la de 20 minutos solo se sintio 35 minutos mas tarde; la de 30 minutos fue seguida primero por un periodo de inercia del sueno (rendimiento peor justo despues de despertar) antes de mejorar. estudio de laboratorio unico, adultos jovenes sanos. si no logras dormirte, no lo fuerces: no hay beneficio respaldado por investigacion en solo cerrar los ojos."
+  },
+  {
+   "capitulo": "3. No gastes tu energía",
+   "archivo": "03-no-gastes-tu-energia.md",
+   "numero": 12,
+   "titulo": "Si trabajas en una oficina con ruido, usa tapones o busca una sala silenciosa para lo que exige memoria",
+   "linea": 110,
+   "plata": "poco",
+   "tiempo": "poco",
+   "aguante": "no",
+   "beneficio_nivel": "medio",
+   "medida": "tiempo",
+   "costo": "los tapones cuestan unos miles de pesos; reservar una sala toma tiempo.",
+   "simple": "Cuando el ruido de fondo sube, se recuerdan menos palabras, la gente se siente más cansada y baja las ganas de trabajar. En los descansos, ver algo de naturaleza con sonido recupera más energía que seguir escuchando el ruido de la oficina.",
+   "beneficio": "estudiantes trabajando en una oficina simulada: al subir el ruido de fondo de 39 dB a 51 dB (LAeq) recordaron menos palabras, se evaluaron más fatigados y mostraron menor motivación; en los descansos, ver una película de naturaleza con sonido recuperó el vigor mejor que escuchar solo sonido de río o el ruido de oficina.",
+   "evidencia": "B",
+   "fuentes": "Jahncke, Hygge, Halin, Green & Dimberg (2011). Open-plan office noise: Cognitive performance and restoration. Journal of Environmental Psychology. <https://doi.org/10.1016/j.jenvp.2011.07.002>",
+   "notas": "estudio de laboratorio único. El daño principal del ruido viene del habla humana inteligible; los audífonos con ruido blanco ayudan con eso, pero no se probaron en este estudio.",
+   "urls": [
+    "https://doi.org/10.1016/j.jenvp.2011.07.002"
+   ],
+   "busqueda": "si trabajas en una oficina con ruido, usa tapones o busca una sala silenciosa para lo que exige memoria 3. no gastes tu energia cuando el ruido de fondo sube, se recuerdan menos palabras, la gente se siente mas cansada y baja las ganas de trabajar. en los descansos, ver algo de naturaleza con sonido recupera mas energia que seguir escuchando el ruido de la oficina. los tapones cuestan unos miles de pesos; reservar una sala toma tiempo. estudiantes trabajando en una oficina simulada: al subir el ruido de fondo de 39 db a 51 db (laeq) recordaron menos palabras, se evaluaron mas fatigados y mostraron menor motivacion; en los descansos, ver una pelicula de naturaleza con sonido recupero el vigor mejor que escuchar solo sonido de rio o el ruido de oficina. estudio de laboratorio unico. el dano principal del ruido viene del habla humana inteligible; los audifonos con ruido blanco ayudan con eso, pero no se probaron en este estudio."
+  },
+  {
+   "capitulo": "3. No gastes tu energía",
+   "archivo": "03-no-gastes-tu-energia.md",
+   "numero": 13,
+   "titulo": "Trabaja como máximo 40 horas a la semana: en Chile es tu tope legal",
+   "linea": 119,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "algo",
+   "beneficio_nivel": "alto",
+   "medida": "plata",
+   "costo": "$0; puede significar menos horas extra pagadas, o negociar con tu jefatura.",
+   "simple": "Pasadas ciertas horas semanales, lo que trabajas de más deja de producir: en los registros de fábricas, una semana de setenta horas producía casi exactamente lo mismo que una de cincuenta y seis, así que esas catorce horas se perdían. En Chile ese tope además es ley: la jornada ordinaria no puede pasar de cuarenta horas semanales.",
+   "beneficio": "registros de producción de fábricas británicas de municiones en la Primera Guerra Mundial: hasta 49 horas semanales la producción era proporcional a las horas trabajadas; sobre 49 horas la ganancia se aplanó, con un peak alrededor de las 63 horas, y la producción a 70 horas resultó casi igual a la de 56 horas. En Chile, el artículo 22 del Código del Trabajo —modificado por la Ley 21.561, publicada el 26 de abril de 2023 y con plena vigencia desde el 11 de julio de 2025— dispone que \"la duración de la jornada ordinaria de trabajo no excederá de cuarenta horas semanales\"; la jornada puede distribuirse en la semana o promediarse en ciclos de hasta cuatro semanas, y en esa modalidad no puede exceder 45 horas en una semana ni sumar más de 52 horas entre jornada ordinaria y extraordinaria.",
+   "evidencia": "B",
+   "fuentes": "Pencavel (2015). The Productivity of Working Hours. The Economic Journal. <https://doi.org/10.1111/ecoj.12166> ; Biblioteca del Congreso Nacional. Ley 21.561 que modifica el Código del Trabajo para reducir la jornada laboral, artículo 22 del Código del Trabajo. <https://www.bcn.cl/leychile/navegar?idLey=21561>",
+   "notas": "el dato de producción viene de fábricas de 1915-1918, no de oficinas de hoy, y por eso la evidencia es B. La parte chilena es A: es el texto vigente de la ley. Las 40 horas no eliminan el derecho a horas extraordinarias pactadas, que se pagan con recargo legal; lo que hace es poner un techo a la jornada ordinaria. Cómo se pagan las horas extra está en el capítulo 19.",
+   "urls": [
+    "https://doi.org/10.1111/ecoj.12166",
+    "https://www.bcn.cl/leychile/navegar?idLey=21561"
+   ],
+   "busqueda": "trabaja como maximo 40 horas a la semana: en chile es tu tope legal 3. no gastes tu energia pasadas ciertas horas semanales, lo que trabajas de mas deja de producir: en los registros de fabricas, una semana de setenta horas producia casi exactamente lo mismo que una de cincuenta y seis, asi que esas catorce horas se perdian. en chile ese tope ademas es ley: la jornada ordinaria no puede pasar de cuarenta horas semanales. $0; puede significar menos horas extra pagadas, o negociar con tu jefatura. registros de produccion de fabricas britanicas de municiones en la primera guerra mundial: hasta 49 horas semanales la produccion era proporcional a las horas trabajadas; sobre 49 horas la ganancia se aplano, con un peak alrededor de las 63 horas, y la produccion a 70 horas resulto casi igual a la de 56 horas. en chile, el articulo 22 del codigo del trabajo —modificado por la ley 21.561, publicada el 26 de abril de 2023 y con plena vigencia desde el 11 de julio de 2025— dispone que \"la duracion de la jornada ordinaria de trabajo no excedera de cuarenta horas semanales\"; la jornada puede distribuirse en la semana o promediarse en ciclos de hasta cuatro semanas, y en esa modalidad no puede exceder 45 horas en una semana ni sumar mas de 52 horas entre jornada ordinaria y extraordinaria. el dato de produccion viene de fabricas de 1915-1918, no de oficinas de hoy, y por eso la evidencia es b. la parte chilena es a: es el texto vigente de la ley. las 40 horas no eliminan el derecho a horas extraordinarias pactadas, que se pagan con recargo legal; lo que hace es poner un techo a la jornada ordinaria. como se pagan las horas extra esta en el capitulo 19."
+  },
+  {
+   "capitulo": "3. No gastes tu energía",
+   "archivo": "03-no-gastes-tu-energia.md",
+   "numero": 14,
+   "titulo": "Antes de mandar ese correo o hacer esa compra, espera a estar descansado",
+   "linea": 128,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "algo",
+   "beneficio_nivel": "alto",
+   "medida": "tiempo",
+   "costo": "$0; significa postergar la decisión unas horas.",
+   "simple": "Cuando llevas muchas horas despierto o andas durmiendo mal, te vuelves más impulsivo y más seguro de ti mismo al mismo tiempo: la sensación de \"esto es lo que hay que hacer\" no es un buen indicador de si conviene.",
+   "beneficio": "la privación de sueño aumenta la impulsividad y el riesgo en tareas de decisión, y al mismo tiempo deteriora la capacidad de reconocer el propio deterioro, de modo que la autoevaluación se mantiene alta mientras el rendimiento cae (revisiones y estudios experimentales citados en los ítems 3 y 10 de este capítulo).",
+   "evidencia": "B",
+   "fuentes": "Killgore, Balkin & Wesensten (2006). Impaired decision making following 49 h of sleep deprivation. Journal of Sleep Research. <https://doi.org/10.1111/j.1365-2869.2006.00487.x> ; Van Dongen, Maislin, Mullington & Dinges (2003). The cumulative cost of additional wakefulness. Sleep. <https://doi.org/10.1093/sleep/26.2.117>",
+   "notas": "es un corolario de los ítems 3 y 10, no un estudio aparte; se deja explícito porque es la aplicación práctica que más plata y más rabia ahorra. No aplica a urgencias médicas ni a decisiones que no admiten espera.",
+   "urls": [
+    "https://doi.org/10.1111/j.1365-2869.2006.00487.x",
+    "https://doi.org/10.1093/sleep/26.2.117"
+   ],
+   "busqueda": "antes de mandar ese correo o hacer esa compra, espera a estar descansado 3. no gastes tu energia cuando llevas muchas horas despierto o andas durmiendo mal, te vuelves mas impulsivo y mas seguro de ti mismo al mismo tiempo: la sensacion de \"esto es lo que hay que hacer\" no es un buen indicador de si conviene. $0; significa postergar la decision unas horas. la privacion de sueno aumenta la impulsividad y el riesgo en tareas de decision, y al mismo tiempo deteriora la capacidad de reconocer el propio deterioro, de modo que la autoevaluacion se mantiene alta mientras el rendimiento cae (revisiones y estudios experimentales citados en los items 3 y 10 de este capitulo). es un corolario de los items 3 y 10, no un estudio aparte; se deja explicito porque es la aplicacion practica que mas plata y mas rabia ahorra. no aplica a urgencias medicas ni a decisiones que no admiten espera."
+  },
+  {
+   "capitulo": "3. No gastes tu energía",
+   "archivo": "03-no-gastes-tu-energia.md",
+   "numero": 15,
+   "titulo": "Deja de lado los proyectos que no te van a devolver nada",
+   "linea": 137,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "algo",
+   "beneficio_nivel": "medio",
+   "medida": "tiempo",
+   "costo": "$0; cuesta aceptar lo ya invertido.",
+   "simple": "La gente sigue metiendo plata y tiempo en algo que ya muestra que no va a resultar, justamente porque ya metió plata y tiempo. Lo perdido no se recupera por insistir: se agranda.",
+   "beneficio": "en experimentos de decisión, los participantes que ya habían invertido recursos siguieron financiando proyectos con resultado negativo, gastando más que quienes no habían invertido (efecto del costo hundido, replicado en series experimentales); la conducta se atenúa cuando la decisión se toma mirando solo lo que queda por delante.",
+   "evidencia": "B",
+   "fuentes": "Arkes & Blumer (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes. <https://doi.org/10.1016/0749-5978(85)90049-4> ; Sleesman, Conlon, McNamara & Miles (2012). Cleaning up the big muddy: A meta-analytic review of the determinants of escalation of commitment. Academy of Management Journal. <https://doi.org/10.5465/amj.2010.0696>",
+   "notas": "el efecto está bien establecido en el laboratorio; en decisiones grandes y públicas los incentivos para insistir son otros además del sesgo. Cómo se decide cortar un proyecto de plata está en el capítulo 12.",
+   "urls": [
+    "https://doi.org/10.1016/0749-5978(85",
+    "https://doi.org/10.5465/amj.2010.0696"
+   ],
+   "busqueda": "deja de lado los proyectos que no te van a devolver nada 3. no gastes tu energia la gente sigue metiendo plata y tiempo en algo que ya muestra que no va a resultar, justamente porque ya metio plata y tiempo. lo perdido no se recupera por insistir: se agranda. $0; cuesta aceptar lo ya invertido. en experimentos de decision, los participantes que ya habian invertido recursos siguieron financiando proyectos con resultado negativo, gastando mas que quienes no habian invertido (efecto del costo hundido, replicado en series experimentales); la conducta se atenua cuando la decision se toma mirando solo lo que queda por delante. el efecto esta bien establecido en el laboratorio; en decisiones grandes y publicas los incentivos para insistir son otros ademas del sesgo. como se decide cortar un proyecto de plata esta en el capitulo 12."
+  }
+ ],
+ "total": 15
+}
