@@ -1,0 +1,5 @@
+# nombre<TAB>url
+glosa06_dic2024	https://www.minsal.cl/wp-content/uploads/2021/05/Ord-2169-Glosa-6-letras-a-b-c-d-i-y-j-cuarto-trimestre-2024.pdf
+deis_esperanza_vida	https://repositoriodeis.minsal.cl/deis/ev/esperanza_de_vida/esperanza_de_vida_por_quinquenios_sexo.htm
+deis_covid2021	https://repositoriodeis.minsal.cl/ContenidoSitioWeb2020/Publicaciones/Impactos%20del%20Covid-19%20en%20la%20mortalidad%20de%20Chile%20durante%20el%20a%C3%B1o%202021.pdf
+paho_chile	https://www.paho.org/es/temas/perfil-pais-chile

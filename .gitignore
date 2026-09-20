@@ -4,3 +4,15 @@ __pycache__/
 verificacion.json
 datos.json.tmp
 .DS_Store
+
+# Cachés de descarga de fuentes: no son contenido, se regeneran
+.fuentes/
+_cache/
+_raw/
+tools/.cache/
+docs/investigacion/.venv/
+docs/investigacion/_cache/
+docs/investigacion/_raw/
+docs/investigacion/*.py
+
+# Se conserva a propósito: docs/investigacion/*.md (informes con fuentes citadas)

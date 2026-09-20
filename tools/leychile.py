@@ -51,6 +51,8 @@ def fetch(id_norma: int, force: bool = False) -> dict:
 
 
 def _clean(h: str) -> str:
+    # las referencias a leyes modificatorias vienen en <span class="n">; no son texto del articulo
+    h = re.sub(r'<span class="n".*?</span>', '', h, flags=re.S)
     h = re.sub(r"<(br|/div|/p)\s*/?>", "\n", h)
     h = TAG.sub("", h)
     h = html.unescape(h)
