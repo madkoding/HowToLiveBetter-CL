@@ -58,6 +58,30 @@ Para cada capítulo:
 
 ## Estado
 
-- [ ] 01-11
-- [ ] 12-22
-- [ ] 23-32
+- [x] 01-11 (salud, plata, legal, trabajo) — **11 capítulos escritos, 204 ítems, 158 grado A**
+- [~] 12-22 (vivienda, familia, emergencias, plataforma) — en redacción
+- [~] 23-32 (educación, trámites, duelo, niños) — en redacción
+
+### Escritos
+
+01, 02, 03, 05, 06, 07, 08, 09, 11, 13, 19.
+
+### En redacción (segunda tanda)
+
+04, 10, 12, 14, 15, 17, 24, 25, 26, 29.
+
+### En redacción (tercera tanda)
+
+16, 18, 20, 21, 22, 23, 27, 28, 30, 31.
+
+### Falta
+
+- 32 (estudiar afuera y becas)
+- Cierre: conteos del README, `datos.json` regenerado, `verificar.py --urls` en cero errores,
+  y push a GitHub.
+
+### Datos que NO se re-investigan
+
+Ver `docs/investigacion/anclas-verificadas.md`: jornada de 40 horas (Ley 21.561), calendario PNI
+2026 completo, números y protocolos de emergencia, y los dos números de ley que resultaron falsos
+(drones, juego online).

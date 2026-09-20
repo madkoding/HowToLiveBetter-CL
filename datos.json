@@ -43,6 +43,10 @@
   {
    "archivo": "19-pega-despido-accidentes.md",
    "titulo": "19. Pega, despido y accidentes"
+  },
+  {
+   "archivo": "32-estudiar-afuera.md",
+   "titulo": "32. Estudiar afuera"
   }
  ],
  "items": [
@@ -4818,7 +4822,283 @@
     "https://www.dt.gob.cl/portal/1628/w3-article-103247.html"
    ],
    "busqueda": "denuncia el acoso por escrito y exige de inmediato las medidas de resguardo 19. pega, despido y accidentes la denuncia por acoso laboral o sexual se puede hacer de manera verbal o por escrito, en la empresa o en la inspeccion del trabajo, y quien la recibe debe levantar un acta firmada y entregarte copia. desde ese momento el empleador tiene que separar a los involucrados y darte atencion psicologica: eso no depende de que la investigacion termine. $0; aguante para denunciar y sostener el procedimiento en el tiempo. la ley 21.643 modifico el codigo del trabajo en materia de prevencion, investigacion y sancion del acoso sexual, laboral y la violencia en el trabajo. articulo 211-a: las trabajadoras y los trabajadores tienen derecho a que el empleador adopte e implemente las medidas destinadas a prevenir, investigar y sancionar las conductas de acoso sexual, laboral y violencia en el lugar de trabajo, y los empleadores deben elaborar y poner a disposicion un protocolo de prevencion a traves de los organismos administradores de la ley 16.744, informando semestralmente los canales de denuncia. articulo 211-b bis: en caso de acoso la persona afectada debe hacer llegar su denuncia por escrito o de manera verbal a la empresa, establecimiento o servicio, o a la respectiva inspeccion del trabajo; si es verbal, quien la recibe debe levantar un acta firmada por la persona denunciante y entregarle copia; recibida la denuncia, el empleador debe adoptar de manera inmediata las medidas de resguardo necesarias, entre ellas la separacion de los espacios fisicos, la redistribucion del tiempo de la jornada y la atencion psicologica temprana a traves del organismo administrador de la ley 16.744; si la denuncia se hace ante la inspeccion, esta solicita al empleador una o mas medidas de resguardo en el plazo maximo de dos dias habiles. articulo 211-c: el empleador dispone la investigacion interna o, en el plazo de tres dias, remite los antecedentes a la inspeccion del trabajo, y la investigacion debe concluirse en el plazo de treinta dias. articulo 211-e: en conformidad al merito del informe, el empleador debe disponer y aplicar las medidas o sanciones dentro de los quince dias siguientes a su recepcion, informando a la persona denunciante y a la denunciada. articulo 160, numero 1, letras b) y f): el acoso sexual y el acoso laboral son causales de terminacion del contrato sin derecho a indemnizacion cuando estan debidamente comprobadas. la denuncia administrativa no impide la judicial: la tutela de derechos fundamentales se interpone ante el tribunal dentro de sesenta dias desde que se produce la vulneracion (articulo 486), y la inspeccion puede denunciar de oficio. guarda las comunicaciones y el acta: son la prueba. invocar estas causales de manera falsa o con el proposito de lesionar la honra de la persona denunciada tiene consecuencias legales (articulo 171). si la conducta es ademas delito, la denuncia ante la inspeccion no reemplaza la denuncia penal."
+  },
+  {
+   "capitulo": "32. Estudiar afuera",
+   "archivo": "32-estudiar-afuera.md",
+   "numero": 1,
+   "titulo": "Antes de pagar la matrícula, confirma que la carrera esté acreditada en su propio país",
+   "linea": 17,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "no",
+   "beneficio_nivel": "alto",
+   "medida": "plata",
+   "costo": "$0 y unos minutos de búsqueda en el registro oficial del país de destino.",
+   "simple": "En Chile no hay una lista oficial que te diga si un título extranjero sirve. Lo que sí se puede verificar antes de pagar es si la institución y la carrera están acreditadas en su propio país, ante el organismo oficial de ese país. Una carrera sin acreditación allá es una matrícula que no se puede recuperar.",
+   "beneficio": "en Chile, la acreditación de instituciones y carreras la administra la Comisión Nacional de Acreditación (CNA), cuyo registro público está en <https://www.cnachile.cl/>. Para una institución extranjera, la acreditación corresponde al organismo oficial del país de destino, no a Chile: cada país publica su propio registro, y no existe un registro único internacional. La Universidad de Chile, que es la entidad que revalida títulos de países sin convenio, advierte que el trámite de revalidación no garantiza el resultado y que es responsabilidad del solicitante elegir el título chileno por el cual pide revalidar (ver el ítem 2).",
+   "evidencia": "B",
+   "fuentes": "Comisión Nacional de Acreditación. Registro de instituciones y carreras acreditadas. <https://www.cnachile.cl/> ; Universidad de Chile. Revalidación y Reconocimiento: documentos requeridos y advertencias. <https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos>",
+   "notas": "no confundir tres cosas distintas: que la universidad exista, que esté acreditada en su país, y que tu título después se revalide en Chile. Son tres verificaciones separadas y ninguna asegura la siguiente. Si el destino es un país con convenio vigente con Chile, el registro no lo lleva la Universidad de Chile sino el Ministerio de Relaciones Exteriores (ver el ítem 2).",
+   "urls": [
+    "https://www.cnachile.cl/",
+    "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos"
+   ],
+   "busqueda": "antes de pagar la matricula, confirma que la carrera este acreditada en su propio pais 32. estudiar afuera en chile no hay una lista oficial que te diga si un titulo extranjero sirve. lo que si se puede verificar antes de pagar es si la institucion y la carrera estan acreditadas en su propio pais, ante el organismo oficial de ese pais. una carrera sin acreditacion alla es una matricula que no se puede recuperar. $0 y unos minutos de busqueda en el registro oficial del pais de destino. en chile, la acreditacion de instituciones y carreras la administra la comision nacional de acreditacion (cna), cuyo registro publico esta en <https://www.cnachile.cl/>. para una institucion extranjera, la acreditacion corresponde al organismo oficial del pais de destino, no a chile: cada pais publica su propio registro, y no existe un registro unico internacional. la universidad de chile, que es la entidad que revalida titulos de paises sin convenio, advierte que el tramite de revalidacion no garantiza el resultado y que es responsabilidad del solicitante elegir el titulo chileno por el cual pide revalidar (ver el item 2). no confundir tres cosas distintas: que la universidad exista, que este acreditada en su pais, y que tu titulo despues se revalide en chile. son tres verificaciones separadas y ninguna asegura la siguiente. si el destino es un pais con convenio vigente con chile, el registro no lo lleva la universidad de chile sino el ministerio de relaciones exteriores (ver el item 2)."
+  },
+  {
+   "capitulo": "32. Estudiar afuera",
+   "archivo": "32-estudiar-afuera.md",
+   "numero": 2,
+   "titulo": "Averigua AHORA cómo vas a revalidar el título, no cuando vuelvas",
+   "linea": 26,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "no",
+   "beneficio_nivel": "alto",
+   "medida": "plata",
+   "costo": "$0; una consulta a la oficina de revalidación antes de matricularte.",
+   "simple": "Revalidar un título extranjero para ejercer en Chile es un trámite largo y con costo. Si vuelves con el título y no lo revalidaste, no puedes ejercer la profesión: el título existe, pero no te sirve para trabajar en lo que estudiaste. La consulta previa es gratis y evita el problema completo.",
+   "beneficio": "la Universidad de Chile revalida o reconoce títulos y grados obtenidos en países **que no tengan un convenio de reconocimiento vigente con Chile**. Dos advertencias oficiales: el proceso **\"tiene una duración mínima de 6 meses\"** y es **\"exclusiva responsabilidad de cada solicitante escoger el título chileno por el cual desea revalidar su título o grado extranjero\"**. Se distingue **revalidación** (certifica equivalencia con un título profesional universitario chileno) de **reconocimiento** (asimila el grado extranjero a licenciado, magíster o doctorado, y se usa sobre todo para posgrados). Existen tratados bilaterales vigentes con Ecuador, Uruguay, Brasil y Colombia, y parte de los títulos obtenidos por chilenos en España, cuyo registro corresponde al Ministerio de Relaciones Exteriores; y para títulos de Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Perú y Bolivia, acogidos a la Convención de México, la Universidad de Chile solo toma examen en carreras de la salud, incluidas medicina y química y farmacia.",
+   "evidencia": "A",
+   "fuentes": "Universidad de Chile. Revalidación y Reconocimiento de títulos obtenidos en el extranjero (etapas, duración y documentos). <https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos> ; Universidad de Chile. Sitio de consulta de títulos revalidados. <https://revalidaciones.uchile.cl/> ; Universidad de Chile. Etapas del proceso. <https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/etapas-del-proceso>",
+   "notas": "las carreras de la salud son el caso más duro y el más consultado; conviene preguntar por escrito antes de partir. **Nunca pagues a un tercero que te ofrezca \"revalidar\" el título: la propia Universidad de Chile advierte que \"nunca solicitará realizar pagos en alguna cuenta personal\".** Ese aviso existe porque la estafa existe.",
+   "urls": [
+    "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos",
+    "https://revalidaciones.uchile.cl/",
+    "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/etapas-del-proceso"
+   ],
+   "busqueda": "averigua ahora como vas a revalidar el titulo, no cuando vuelvas 32. estudiar afuera revalidar un titulo extranjero para ejercer en chile es un tramite largo y con costo. si vuelves con el titulo y no lo revalidaste, no puedes ejercer la profesion: el titulo existe, pero no te sirve para trabajar en lo que estudiaste. la consulta previa es gratis y evita el problema completo. $0; una consulta a la oficina de revalidacion antes de matricularte. la universidad de chile revalida o reconoce titulos y grados obtenidos en paises **que no tengan un convenio de reconocimiento vigente con chile**. dos advertencias oficiales: el proceso **\"tiene una duracion minima de 6 meses\"** y es **\"exclusiva responsabilidad de cada solicitante escoger el titulo chileno por el cual desea revalidar su titulo o grado extranjero\"**. se distingue **revalidacion** (certifica equivalencia con un titulo profesional universitario chileno) de **reconocimiento** (asimila el grado extranjero a licenciado, magister o doctorado, y se usa sobre todo para posgrados). existen tratados bilaterales vigentes con ecuador, uruguay, brasil y colombia, y parte de los titulos obtenidos por chilenos en espana, cuyo registro corresponde al ministerio de relaciones exteriores; y para titulos de costa rica, el salvador, guatemala, honduras, nicaragua, peru y bolivia, acogidos a la convencion de mexico, la universidad de chile solo toma examen en carreras de la salud, incluidas medicina y quimica y farmacia. las carreras de la salud son el caso mas duro y el mas consultado; conviene preguntar por escrito antes de partir. **nunca pagues a un tercero que te ofrezca \"revalidar\" el titulo: la propia universidad de chile advierte que \"nunca solicitara realizar pagos en alguna cuenta personal\".** ese aviso existe porque la estafa existe."
+  },
+  {
+   "capitulo": "32. Estudiar afuera",
+   "archivo": "32-estudiar-afuera.md",
+   "numero": 3,
+   "titulo": "Los documentos que tienes que traerte: se piden en el país donde estudiaste, y conseguir algunos allá después es carísimo",
+   "linea": 35,
+   "plata": "poco",
+   "tiempo": "medio",
+   "aguante": "algo",
+   "beneficio_nivel": "alto",
+   "medida": "plata",
+   "costo": "los originales apostillados o legalizados se piden en el país de origen; el trámite puede costar y toma tiempo antes de volver.",
+   "simple": "Todo lo que acredita lo que estudiaste —el diploma, las notas, el plan de estudios con sus horas y el programa de cada ramo— hay que traerlo original, apostillado o legalizado por consulado. Pedirlo desde Chile, años después, es mucho más caro y más lento que pedirlo antes de irse.",
+   "beneficio": "la Universidad de Chile exige, para iniciar el trámite, **seis documentos originales**: diploma del título o grado legalizado vía consular o apostillado (no se aceptan copias); certificación de notas original, legalizada o apostillada, **que debe indicar la escala de calificaciones con nota máxima y mínima de aprobación**; plan de estudios original legalizado o apostillado, \"detalle de carga horaria y/o créditos por cada asignatura\"; programas de estudios completos, con la descripción de cada asignatura; cédula de identidad chilena o pasaporte; y habilitación profesional original legalizada o apostillada, es decir la autorización para ejercer en el país de origen. Los documentos 1, 2, 3 y 6, si están en idioma extranjero, **deben traer traducción oficial o certificada**; el de programas de estudios admite traducción simple. La habilitación no se exige para el reconocimiento de posgrados.",
+   "evidencia": "A",
+   "fuentes": "Universidad de Chile. Revalidación y Reconocimiento: documentos requeridos. <https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos>",
+   "notas": "el plan de estudios con carga horaria y créditos es el documento que más se olvida y el más caro de recuperar: pídelo a la secretaría de tu facultad antes de irte, no después. Lo mismo con la escala de notas: si la certificación no dice la nota máxima y la mínima de aprobación, te la van a devolver.",
+   "urls": [
+    "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos"
+   ],
+   "busqueda": "los documentos que tienes que traerte: se piden en el pais donde estudiaste, y conseguir algunos alla despues es carisimo 32. estudiar afuera todo lo que acredita lo que estudiaste —el diploma, las notas, el plan de estudios con sus horas y el programa de cada ramo— hay que traerlo original, apostillado o legalizado por consulado. pedirlo desde chile, anos despues, es mucho mas caro y mas lento que pedirlo antes de irse. los originales apostillados o legalizados se piden en el pais de origen; el tramite puede costar y toma tiempo antes de volver. la universidad de chile exige, para iniciar el tramite, **seis documentos originales**: diploma del titulo o grado legalizado via consular o apostillado (no se aceptan copias); certificacion de notas original, legalizada o apostillada, **que debe indicar la escala de calificaciones con nota maxima y minima de aprobacion**; plan de estudios original legalizado o apostillado, \"detalle de carga horaria y/o creditos por cada asignatura\"; programas de estudios completos, con la descripcion de cada asignatura; cedula de identidad chilena o pasaporte; y habilitacion profesional original legalizada o apostillada, es decir la autorizacion para ejercer en el pais de origen. los documentos 1, 2, 3 y 6, si estan en idioma extranjero, **deben traer traduccion oficial o certificada**; el de programas de estudios admite traduccion simple. la habilitacion no se exige para el reconocimiento de posgrados. el plan de estudios con carga horaria y creditos es el documento que mas se olvida y el mas caro de recuperar: pidelo a la secretaria de tu facultad antes de irte, no despues. lo mismo con la escala de notas: si la certificacion no dice la nota maxima y la minima de aprobacion, te la van a devolver."
+  },
+  {
+   "capitulo": "32. Estudiar afuera",
+   "archivo": "32-estudiar-afuera.md",
+   "numero": 4,
+   "titulo": "Revisa de antes cuánto cuesta el trámite: se cobra en UTM, y no es solo la matrícula",
+   "linea": 44,
+   "plata": "mucho",
+   "tiempo": "medio",
+   "aguante": "no",
+   "beneficio_nivel": "alto",
+   "medida": "plata",
+   "costo": "el arancel de ingreso y el del estudio curricular, pagaderos en pesos chilenos desde una cuenta chilena.",
+   "simple": "El trámite de revalidación se cobra en dos pagos, uno al ingresar la solicitud y otro cuando la facultad estudia tu currículum. Con el valor de la UTM, son alrededor de trescientos sesenta mil pesos sumando ambos, más lo que la facultad cobre si te exige cumplir exigencias académicas.",
+   "beneficio": "la Universidad de Chile fija los aranceles en unidades tributarias mensuales: **2 UTM** por el arancel de ingreso, y **3 UTM** por el estudio curricular que hace la unidad académica. El valor de la UTM de septiembre de 2026, según la tabla oficial del Servicio de Impuestos Internos, es de **$71.721**, lo que da **$143.442** por el arancel de ingreso y **$215.163** por el estudio curricular. El pago debe hacerse en pesos chilenos desde una cuenta chilena. El informe final puede proponer tres resultados: aprobación, denegación o cumplimiento de exigencias académicas, \"los costos y fechas asociadas son informadas por la unidad académica\".",
+   "evidencia": "A",
+   "fuentes": "Universidad de Chile. Reglamento de aranceles de revalidación 2026 (DEX 384) y etapas del proceso. <https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/etapas-del-proceso> ; Servicio de Impuestos Internos. UTM 2026. <https://www.sii.cl/valores_y_fechas/utm/utm2026.htm>",
+   "notas": "la UTM cambia todos los meses, así que el monto en pesos cambia con ella: al leer esto, revisa el valor vigente en la tabla del SII. El costo no termina en los aranceles: si el informe propone \"cumplimiento de exigencias académicas\", significa que te van a pedir ramos o exámenes adicionales, y eso tiene su propio costo en tiempo y plata.",
+   "urls": [
+    "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/etapas-del-proceso",
+    "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+   ],
+   "busqueda": "revisa de antes cuanto cuesta el tramite: se cobra en utm, y no es solo la matricula 32. estudiar afuera el tramite de revalidacion se cobra en dos pagos, uno al ingresar la solicitud y otro cuando la facultad estudia tu curriculum. con el valor de la utm, son alrededor de trescientos sesenta mil pesos sumando ambos, mas lo que la facultad cobre si te exige cumplir exigencias academicas. el arancel de ingreso y el del estudio curricular, pagaderos en pesos chilenos desde una cuenta chilena. la universidad de chile fija los aranceles en unidades tributarias mensuales: **2 utm** por el arancel de ingreso, y **3 utm** por el estudio curricular que hace la unidad academica. el valor de la utm de septiembre de 2026, segun la tabla oficial del servicio de impuestos internos, es de **$71.721**, lo que da **$143.442** por el arancel de ingreso y **$215.163** por el estudio curricular. el pago debe hacerse en pesos chilenos desde una cuenta chilena. el informe final puede proponer tres resultados: aprobacion, denegacion o cumplimiento de exigencias academicas, \"los costos y fechas asociadas son informadas por la unidad academica\". la utm cambia todos los meses, asi que el monto en pesos cambia con ella: al leer esto, revisa el valor vigente en la tabla del sii. el costo no termina en los aranceles: si el informe propone \"cumplimiento de exigencias academicas\", significa que te van a pedir ramos o examenes adicionales, y eso tiene su propio costo en tiempo y plata."
+  },
+  {
+   "capitulo": "32. Estudiar afuera",
+   "archivo": "32-estudiar-afuera.md",
+   "numero": 5,
+   "titulo": "Postula a las becas estatales: exigen excelencia académica y se postula ANTES de tener la carta de aceptación",
+   "linea": 53,
+   "plata": "0",
+   "tiempo": "medio",
+   "aguante": "algo",
+   "beneficio_nivel": "alto",
+   "medida": "plata",
+   "costo": "$0; el tiempo está en reunir certificados de notas y de ranking.",
+   "simple": "Las becas del Estado para estudiar un posgrado afuera no piden que ya estés aceptado para postular, pero sí piden rendimiento: promedio de notas de pregrado de 5,0 o más, o estar en el 30% mejor de tu generación. Si tu promedio no llega, la beca no es una opción para ti, por mucho que el proyecto sea bueno.",
+   "beneficio": "los requisitos mínimos publicados por ANID para la beca de magíster en el extranjero son: ser persona **chilena o extranjera con permanencia definitiva en Chile vigente**; poseer el grado de **licenciado, título profesional o equivalente**; **acreditar excelencia académica en al menos uno** de estos requisitos: \"haber obtenido promedio de notas de egreso de pregrado igual o superior a 5,0 (en escala de notas chilena)\", o \"encontrarse dentro del 30% superior del ranking de egreso de pregrado\"; y ser alumno regular o estar aceptado en el programa. Quedan **excluidos** los programas de Magíster en Administración de empresas o negocios y los de Derecho del área comercial, tributaria o corporativa.",
+   "evidencia": "A",
+   "fuentes": "ANID. Magíster en el extranjero, Becas Chile: requisitos. <https://anid.cl/capital-humano-2/magister-en-el-extranjero> ; ANID. Concursos de capital humano. <https://anid.cl/concursos/>",
+   "notas": "las fechas de apertura y cierre cambian en cada convocatoria, así que no se fijan acá: se revisa el calendario de concursos de ANID antes de cada postulación. La exclusión de los MBA y de los postgrados en Derecho comercial, tributario o corporativo es explícita y deja fuera a programas que mucha gente asume cubiertos; verifícala en las bases de tu convocatoria antes de invertir tiempo en la postulación.",
+   "urls": [
+    "https://anid.cl/capital-humano-2/magister-en-el-extranjero",
+    "https://anid.cl/concursos/"
+   ],
+   "busqueda": "postula a las becas estatales: exigen excelencia academica y se postula antes de tener la carta de aceptacion 32. estudiar afuera las becas del estado para estudiar un posgrado afuera no piden que ya estes aceptado para postular, pero si piden rendimiento: promedio de notas de pregrado de 5,0 o mas, o estar en el 30% mejor de tu generacion. si tu promedio no llega, la beca no es una opcion para ti, por mucho que el proyecto sea bueno. $0; el tiempo esta en reunir certificados de notas y de ranking. los requisitos minimos publicados por anid para la beca de magister en el extranjero son: ser persona **chilena o extranjera con permanencia definitiva en chile vigente**; poseer el grado de **licenciado, titulo profesional o equivalente**; **acreditar excelencia academica en al menos uno** de estos requisitos: \"haber obtenido promedio de notas de egreso de pregrado igual o superior a 5,0 (en escala de notas chilena)\", o \"encontrarse dentro del 30% superior del ranking de egreso de pregrado\"; y ser alumno regular o estar aceptado en el programa. quedan **excluidos** los programas de magister en administracion de empresas o negocios y los de derecho del area comercial, tributaria o corporativa. las fechas de apertura y cierre cambian en cada convocatoria, asi que no se fijan aca: se revisa el calendario de concursos de anid antes de cada postulacion. la exclusion de los mba y de los postgrados en derecho comercial, tributario o corporativo es explicita y deja fuera a programas que mucha gente asume cubiertos; verificala en las bases de tu convocatoria antes de invertir tiempo en la postulacion."
+  },
+  {
+   "capitulo": "32. Estudiar afuera",
+   "archivo": "32-estudiar-afuera.md",
+   "numero": 6,
+   "titulo": "Los topes de horas de trabajo son una línea roja de la visa, y los fija el país de destino, no tú",
+   "linea": 62,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "algo",
+   "beneficio_nivel": "alto",
+   "medida": "libertad",
+   "costo": "$0; registrar tus horas cada semana y no creerle al empleador que dice \"unas horas más no las revisa nadie\".",
+   "simple": "Los países que reciben estudiantes ponen un tope a las horas que puedes trabajar con visa de estudiante. Pasarse no es una falta administrativa menor: es incumplir las condiciones de la visa, y puede terminar en cancelación de la visa y expulsión, además de preguntas incómodas en cualquier solicitud futura. Contar la norma de memoria es el error: hay que leer la página oficial del país donde vas.",
+   "beneficio": "la condición de estudiante con derecho a trabajar es una materia **del país de destino** y cambia con su normativa interna, que no depende de Chile y no se puede resumir en una lista fija acá. La Universidad de Chile advierte en su sitio que el proceso de revalidación no es lo único que hay que mirar y que cada caso es particular, y para la visa la fuente es la autoridad migratoria del país correspondiente.",
+   "evidencia": "B",
+   "fuentes": "Universidad de Chile. Revalidación y Reconocimiento (advertencias y responsabilidad del solicitante). <https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos> ; Ministerio de Relaciones Exteriores de Chile. Consulados de Chile en el mundo. <https://www.minrel.gob.cl/>",
+   "notas": "**este ítem queda deliberadamente sin cifras de horas.** El original chino lista los topes por país (Estados Unidos, Canadá, Reino Unido, Australia) y con razón advierte que cambian antes que las normas de origen; para un lector chileno, copiar esos números sería darle una cifra que envejece y que además describe otra visa. Lo que se escribe acá es la regla: el tope es una condición de la visa, el que manda es el país de destino, y la fuente es la autoridad migratoria de ese país. POR VERIFICAR: no se pudo confirmar, contra fuente oficial del Ministerio de Relaciones Exteriores, un documento chileno único que consolide las condiciones de trabajo de la visa de estudiante por país de destino; habría que armarlo desde la autoridad migratoria de cada país.",
+   "urls": [
+    "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos",
+    "https://www.minrel.gob.cl/"
+   ],
+   "busqueda": "los topes de horas de trabajo son una linea roja de la visa, y los fija el pais de destino, no tu 32. estudiar afuera los paises que reciben estudiantes ponen un tope a las horas que puedes trabajar con visa de estudiante. pasarse no es una falta administrativa menor: es incumplir las condiciones de la visa, y puede terminar en cancelacion de la visa y expulsion, ademas de preguntas incomodas en cualquier solicitud futura. contar la norma de memoria es el error: hay que leer la pagina oficial del pais donde vas. $0; registrar tus horas cada semana y no creerle al empleador que dice \"unas horas mas no las revisa nadie\". la condicion de estudiante con derecho a trabajar es una materia **del pais de destino** y cambia con su normativa interna, que no depende de chile y no se puede resumir en una lista fija aca. la universidad de chile advierte en su sitio que el proceso de revalidacion no es lo unico que hay que mirar y que cada caso es particular, y para la visa la fuente es la autoridad migratoria del pais correspondiente. **este item queda deliberadamente sin cifras de horas.** el original chino lista los topes por pais (estados unidos, canada, reino unido, australia) y con razon advierte que cambian antes que las normas de origen; para un lector chileno, copiar esos numeros seria darle una cifra que envejece y que ademas describe otra visa. lo que se escribe aca es la regla: el tope es una condicion de la visa, el que manda es el pais de destino, y la fuente es la autoridad migratoria de ese pais. por verificar: no se pudo confirmar, contra fuente oficial del ministerio de relaciones exteriores, un documento chileno unico que consolide las condiciones de trabajo de la visa de estudiante por pais de destino; habria que armarlo desde la autoridad migratoria de cada pais."
+  },
+  {
+   "capitulo": "32. Estudiar afuera",
+   "archivo": "32-estudiar-afuera.md",
+   "numero": 7,
+   "titulo": "El derecho a trabajar depende de estar estudiando a tiempo completo, no de que la visa esté vigente",
+   "linea": 71,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "no",
+   "beneficio_nivel": "alto",
+   "medida": "libertad",
+   "costo": "$0; antes de congelar ramos o cambiarte de institución, confirmar tu condición con la oficina de estudiantes internacionales.",
+   "simple": "El permiso para trabajar cuelga de que estés estudiando a tiempo completo. El momento en que congelas, te retiras o quedas en el aire entre dos instituciones, ese permiso desaparece, aunque la visa siga vigente en el papel. Mucha gente cree que está en regla porque la visa no ha vencido, y su condición se rompió mucho antes.",
+   "beneficio": "la condición de estudiante y su derecho a trabajar son un régimen del país de destino, y la fuente es su autoridad migratoria y la propia oficina internacional de tu institución. La regla práctica que se repite en todos esos regímenes es que el derecho a trabajar depende de mantener la matrícula a tiempo completo.",
+   "evidencia": "B",
+   "fuentes": "Ministerio de Relaciones Exteriores de Chile. Consulados de Chile en el mundo (asistencia al chileno en el exterior). <https://www.minrel.gob.cl/> ; Universidad de Chile. Revalidación y Reconocimiento. <https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos>",
+   "notas": "POR VERIFICAR: igual que el ítem anterior, no se halló un documento oficial chileno que consolide esta regla para todos los destinos; se deja como principio y se remite a la autoridad migratoria del país de destino y a la oficina internacional de la institución. Si tienes que bajar la carga académica por estrés, la pregunta a hacer es cuánto puedes bajar antes de dejar de contar como estudiante a tiempo completo: eso rompe la condición antes que el trabajo.",
+   "urls": [
+    "https://www.minrel.gob.cl/",
+    "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos"
+   ],
+   "busqueda": "el derecho a trabajar depende de estar estudiando a tiempo completo, no de que la visa este vigente 32. estudiar afuera el permiso para trabajar cuelga de que estes estudiando a tiempo completo. el momento en que congelas, te retiras o quedas en el aire entre dos instituciones, ese permiso desaparece, aunque la visa siga vigente en el papel. mucha gente cree que esta en regla porque la visa no ha vencido, y su condicion se rompio mucho antes. $0; antes de congelar ramos o cambiarte de institucion, confirmar tu condicion con la oficina de estudiantes internacionales. la condicion de estudiante y su derecho a trabajar son un regimen del pais de destino, y la fuente es su autoridad migratoria y la propia oficina internacional de tu institucion. la regla practica que se repite en todos esos regimenes es que el derecho a trabajar depende de mantener la matricula a tiempo completo. por verificar: igual que el item anterior, no se hallo un documento oficial chileno que consolide esta regla para todos los destinos; se deja como principio y se remite a la autoridad migratoria del pais de destino y a la oficina internacional de la institucion. si tienes que bajar la carga academica por estres, la pregunta a hacer es cuanto puedes bajar antes de dejar de contar como estudiante a tiempo completo: eso rompe la condicion antes que el trabajo."
+  },
+  {
+   "capitulo": "32. Estudiar afuera",
+   "archivo": "32-estudiar-afuera.md",
+   "numero": 8,
+   "titulo": "El seguro de salud no es opcional en varios destinos, y la repatriación es lo que casi nunca cubre un seguro barato",
+   "linea": 80,
+   "plata": "poco",
+   "tiempo": "poco",
+   "aguante": "no",
+   "beneficio_nivel": "alto",
+   "medida": "plata",
+   "costo": "la prima anual del seguro; en varios destinos es un requisito para inscribirse o para obtener la visa.",
+   "simple": "Varios países exigen un seguro de salud para el estudiante extranjero y lo piden al inscribirlo. Lo que hay que mirar no es el precio, sino si cubre traslado o repatriación: si te enfermas grave, volver a Chile puede costar más que todo el año de universidad.",
+   "beneficio": "la exigencia de seguro médico para estudiantes extranjeros es una condición migratoria o de matrícula del país de destino, y se verifica en su autoridad correspondiente; su monto depende del destino y de la cobertura elegida, y no está fijado por norma chilena.",
+   "evidencia": "C",
+   "fuentes": "Ministerio de Relaciones Exteriores de Chile. Consulados de Chile en el mundo. <https://www.minrel.gob.cl/> ; Universidad de Chile. Revalidación y Reconocimiento. <https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos>",
+   "notas": "grado C porque no hay norma chilena que fijar acá: es información del destino. El detalle de qué cubre un seguro de viaje y por qué la repatriación es la cláusula que importa está en el capítulo 21. **Antes de contratar, lee la cláusula de repatriación y la de preexistencias, en ese orden.**",
+   "urls": [
+    "https://www.minrel.gob.cl/",
+    "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos"
+   ],
+   "busqueda": "el seguro de salud no es opcional en varios destinos, y la repatriacion es lo que casi nunca cubre un seguro barato 32. estudiar afuera varios paises exigen un seguro de salud para el estudiante extranjero y lo piden al inscribirlo. lo que hay que mirar no es el precio, sino si cubre traslado o repatriacion: si te enfermas grave, volver a chile puede costar mas que todo el ano de universidad. la prima anual del seguro; en varios destinos es un requisito para inscribirse o para obtener la visa. la exigencia de seguro medico para estudiantes extranjeros es una condicion migratoria o de matricula del pais de destino, y se verifica en su autoridad correspondiente; su monto depende del destino y de la cobertura elegida, y no esta fijado por norma chilena. grado c porque no hay norma chilena que fijar aca: es informacion del destino. el detalle de que cubre un seguro de viaje y por que la repatriacion es la clausula que importa esta en el capitulo 21. **antes de contratar, lee la clausula de repatriacion y la de preexistencias, en ese orden.**"
+  },
+  {
+   "capitulo": "32. Estudiar afuera",
+   "archivo": "32-estudiar-afuera.md",
+   "numero": 9,
+   "titulo": "Si vas a quedarte a trabajar allá, revisa la ruta legal desde el primer día, no cuando se te acabe la visa",
+   "linea": 89,
+   "plata": "poco",
+   "tiempo": "medio",
+   "aguante": "algo",
+   "beneficio_nivel": "alto",
+   "medida": "libertad",
+   "costo": "el trámite de cambio o extensión de condición; hacerlo tarde cuesta la estadía completa.",
+   "simple": "La visa de estudiante es para estudiar, no para quedarse a trabajar. Si tu plan es quedarte, hay un trámite para cambiar de condición y tiene plazos: se prepara con meses de anticipación, no en la última semana.",
+   "beneficio": "la conversión de estudiante a residente o trabajador es materia del régimen migratorio del país de destino, con plazos y requisitos propios; su incumplimiento afecta la condición migratoria y las solicitudes futuras. Por el lado chileno, la Ley 21.325 regula la entrada, residencia y egreso de extranjeros en Chile, y no rige lo que un chileno hace en otro país.",
+   "evidencia": "B",
+   "fuentes": "Biblioteca del Congreso Nacional. Ley 21.325 de migración y extranjería. <https://www.bcn.cl/leychile/navegar?idLey=21325> ; Ministerio de Relaciones Exteriores de Chile. Consulados de Chile en el mundo. <https://www.minrel.gob.cl/>",
+   "notas": "la Ley 21.325 se cita solo para dejar claro el límite: es la norma **chilena** de extranjería, y no gobierna tu situación en el extranjero. Para eso manda la autoridad migratoria del destino. Si ya estás allá y el plazo se acerca, la consulta es con la oficina internacional de la institución y con un abogado de migración del país, no con un conocido que \"sabe cómo es\".",
+   "urls": [
+    "https://www.bcn.cl/leychile/navegar?idLey=21325",
+    "https://www.minrel.gob.cl/"
+   ],
+   "busqueda": "si vas a quedarte a trabajar alla, revisa la ruta legal desde el primer dia, no cuando se te acabe la visa 32. estudiar afuera la visa de estudiante es para estudiar, no para quedarse a trabajar. si tu plan es quedarte, hay un tramite para cambiar de condicion y tiene plazos: se prepara con meses de anticipacion, no en la ultima semana. el tramite de cambio o extension de condicion; hacerlo tarde cuesta la estadia completa. la conversion de estudiante a residente o trabajador es materia del regimen migratorio del pais de destino, con plazos y requisitos propios; su incumplimiento afecta la condicion migratoria y las solicitudes futuras. por el lado chileno, la ley 21.325 regula la entrada, residencia y egreso de extranjeros en chile, y no rige lo que un chileno hace en otro pais. la ley 21.325 se cita solo para dejar claro el limite: es la norma **chilena** de extranjeria, y no gobierna tu situacion en el extranjero. para eso manda la autoridad migratoria del destino. si ya estas alla y el plazo se acerca, la consulta es con la oficina internacional de la institucion y con un abogado de migracion del pais, no con un conocido que \"sabe como es\"."
+  },
+  {
+   "capitulo": "32. Estudiar afuera",
+   "archivo": "32-estudiar-afuera.md",
+   "numero": 10,
+   "titulo": "Compara el costo total y no el arancel: el arancel es la parte que se ve",
+   "linea": 98,
+   "plata": "0",
+   "tiempo": "medio",
+   "aguante": "algo",
+   "beneficio_nivel": "alto",
+   "medida": "plata",
+   "costo": "el tiempo de armar la cuenta completa antes de decidir, con arriendo, comida, transporte, seguro y el pasaje.",
+   "simple": "La universidad te muestra el valor de la matrícula; lo que te va a quebrar es el costo de vivir allá, que suele ser la parte más grande y la que nadie cotiza. Y si la plata viene de Chile, el tipo de cambio se mueve: lo que hoy alcanza, en dos años puede no alcanzar.",
+   "beneficio": "la metodología de comparación es la misma del capítulo 18 y del 15: sumar todos los flujos, no el precio de la matrícula. Los componentes verificables por fuente oficial son los que cobra la institución (arancel, seguro si lo exige) y los del trámite de revalidación al volver (2 UTM de ingreso y 3 UTM por el estudio curricular, a valor de la UTM del día del pago). Los costos de vida del destino no los fija ninguna norma chilena y hay que cotizarlos para ese país y esa ciudad.",
+   "evidencia": "C",
+   "fuentes": "Universidad de Chile. Reglamento de aranceles de revalidación 2026 (DEX 384). <https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/etapas-del-proceso> ; Servicio de Impuestos Internos. UTM 2026. <https://www.sii.cl/valores_y_fechas/utm/utm2026.htm>",
+   "notas": "grado C porque el método de comparación no tiene una fuente única: es aritmética. El riesgo cambiario es real y no se cubre con un seguro: quien tenga ingresos en pesos y gastos en otra moneda está expuesto todos los meses. Si la beca paga en dólares o en la moneda del destino y tú gastas ahí, ese riesgo se reduce.",
+   "urls": [
+    "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/etapas-del-proceso",
+    "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+   ],
+   "busqueda": "compara el costo total y no el arancel: el arancel es la parte que se ve 32. estudiar afuera la universidad te muestra el valor de la matricula; lo que te va a quebrar es el costo de vivir alla, que suele ser la parte mas grande y la que nadie cotiza. y si la plata viene de chile, el tipo de cambio se mueve: lo que hoy alcanza, en dos anos puede no alcanzar. el tiempo de armar la cuenta completa antes de decidir, con arriendo, comida, transporte, seguro y el pasaje. la metodologia de comparacion es la misma del capitulo 18 y del 15: sumar todos los flujos, no el precio de la matricula. los componentes verificables por fuente oficial son los que cobra la institucion (arancel, seguro si lo exige) y los del tramite de revalidacion al volver (2 utm de ingreso y 3 utm por el estudio curricular, a valor de la utm del dia del pago). los costos de vida del destino no los fija ninguna norma chilena y hay que cotizarlos para ese pais y esa ciudad. grado c porque el metodo de comparacion no tiene una fuente unica: es aritmetica. el riesgo cambiario es real y no se cubre con un seguro: quien tenga ingresos en pesos y gastos en otra moneda esta expuesto todos los meses. si la beca paga en dolares o en la moneda del destino y tu gastas ahi, ese riesgo se reduce."
+  },
+  {
+   "capitulo": "32. Estudiar afuera",
+   "archivo": "32-estudiar-afuera.md",
+   "numero": 11,
+   "titulo": "Deja el pasaporte y la visa en orden antes de comprar el pasaje",
+   "linea": 107,
+   "plata": "poco",
+   "tiempo": "poco",
+   "aguante": "no",
+   "beneficio_nivel": "alto",
+   "medida": "libertad",
+   "costo": "el arancel del pasaporte y el tiempo del trámite, más el del visado si corresponde.",
+   "simple": "La visa y el pasaporte tienen requisitos de vigencia y de plazo de tramitación que se piden antes del viaje. Comprar el pasaje primero y tramitar después es cómo se pierde el semestre.",
+   "beneficio": "el pasaporte chileno y los trámites de identidad se solicitan al Registro Civil, que publica los requisitos y los plazos de cada trámite; la visa y los requisitos de entrada los fija el país de destino y se consultan en su representación en Chile, no en una agencia.",
+   "evidencia": "B",
+   "fuentes": "Registro Civil e Identificación. Pasaporte. <https://www.registrocivil.cl/> ; Ministerio de Relaciones Exteriores de Chile. Consulados y representaciones extranjeras en Chile. <https://www.minrel.gob.cl/>",
+   "notas": "**no se dan acá los requisitos de entrada de cada país**, y es a propósito: cambian por normativa ajena y una lista escrita hoy puede estar mal mañana. Lo que sirve es saber dónde se consulta: la embajada o el consulado del país de destino acreditado en Chile, y su sitio oficial. Qué hace y qué no hace un consulado chileno cuando estás afuera está en el capítulo 21.",
+   "urls": [
+    "https://www.registrocivil.cl/",
+    "https://www.minrel.gob.cl/"
+   ],
+   "busqueda": "deja el pasaporte y la visa en orden antes de comprar el pasaje 32. estudiar afuera la visa y el pasaporte tienen requisitos de vigencia y de plazo de tramitacion que se piden antes del viaje. comprar el pasaje primero y tramitar despues es como se pierde el semestre. el arancel del pasaporte y el tiempo del tramite, mas el del visado si corresponde. el pasaporte chileno y los tramites de identidad se solicitan al registro civil, que publica los requisitos y los plazos de cada tramite; la visa y los requisitos de entrada los fija el pais de destino y se consultan en su representacion en chile, no en una agencia. **no se dan aca los requisitos de entrada de cada pais**, y es a proposito: cambian por normativa ajena y una lista escrita hoy puede estar mal manana. lo que sirve es saber donde se consulta: la embajada o el consulado del pais de destino acreditado en chile, y su sitio oficial. que hace y que no hace un consulado chileno cuando estas afuera esta en el capitulo 21."
+  },
+  {
+   "capitulo": "32. Estudiar afuera",
+   "archivo": "32-estudiar-afuera.md",
+   "numero": 12,
+   "titulo": "Pide asesoría en la oficina de revalidación antes de matricularte, y desconfía de quien cobre por adelantado",
+   "linea": 116,
+   "plata": "0",
+   "tiempo": "poco",
+   "aguante": "no",
+   "beneficio_nivel": "alto",
+   "medida": "plata",
+   "costo": "$0; una consulta y un correo.",
+   "simple": "La universidad que revalida atiende consultas gratis y sin cita, y su sitio advierte que nunca va a pedirte plata a una cuenta personal. Quien te ofrezca \"resolver\" la revalidación por una comisión está cobrando por algo que puedes preguntar tú mismo, o te está estafando.",
+   "beneficio": "la Universidad de Chile publica que su oficina de revalidación \"ofrece asesorías y consultas de manera presencial y **sin costo**\" y advierte expresamente que \"**nunca solicitará realizar pagos en alguna cuenta personal**, por lo que se recomienda informarse siempre mediante nuestros canales oficiales de contacto\". El contacto oficial es el correo contactorevalidacion@uchile.cl y la dirección Portugal 84, Torre 15, oficina 302, Santiago.",
+   "evidencia": "A",
+   "fuentes": "Universidad de Chile. Revalidación y Reconocimiento U. de Chile. <https://uchile.cl/revalidacion> ; Universidad de Chile. Revalidación y Reconocimiento: contacto. <https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos>",
+   "notas": "el aviso de la cuenta personal es una advertencia oficial contra la estafa, y basta para descartar a cualquiera que pida un depósito. Los pagos del trámite se hacen por depósito o transferencia **según el instructivo oficial**, en pesos chilenos desde una cuenta chilena, y solo después de iniciado el expediente.",
+   "urls": [
+    "https://uchile.cl/revalidacion",
+    "https://uchile.cl/presentacion/relaciones-internacionales/revalidacion-de-titulos-extranjeros/revalidacion-y-reconocimiento-de-titulos"
+   ],
+   "busqueda": "pide asesoria en la oficina de revalidacion antes de matricularte, y desconfia de quien cobre por adelantado 32. estudiar afuera la universidad que revalida atiende consultas gratis y sin cita, y su sitio advierte que nunca va a pedirte plata a una cuenta personal. quien te ofrezca \"resolver\" la revalidacion por una comision esta cobrando por algo que puedes preguntar tu mismo, o te esta estafando. $0; una consulta y un correo. la universidad de chile publica que su oficina de revalidacion \"ofrece asesorias y consultas de manera presencial y **sin costo**\" y advierte expresamente que \"**nunca solicitara realizar pagos en alguna cuenta personal**, por lo que se recomienda informarse siempre mediante nuestros canales oficiales de contacto\". el contacto oficial es el correo contactorevalidacion@uchile.cl y la direccion portugal 84, torre 15, oficina 302, santiago. el aviso de la cuenta personal es una advertencia oficial contra la estafa, y basta para descartar a cualquiera que pida un deposito. los pagos del tramite se hacen por deposito o transferencia **segun el instructivo oficial**, en pesos chilenos desde una cuenta chilena, y solo despues de iniciado el expediente."
   }
  ],
- "total": 204
+ "total": 216
 }

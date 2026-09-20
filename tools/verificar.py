@@ -63,11 +63,17 @@ HOSTS_BLOQUEAN_BOTS = {
 }  # fmt: skip
 
 # Palabras que no pueden aparecer en "En simple": el lector de esa linea no es estadistico.
+# Se comparan con limites de palabra (regex \b): si se busca la subcadena "or:" pelada, aparece
+# dentro de "mayor:", "menor:", "superior:", "peor:" y da falsos positivos.
 PROHIBIDAS_SIMPLE = [
-    "RR ", "RR:", "HR ", "HR:", " OR ", "OR:", "IC 95", "IC95",
-    "cohorte", "metaanálisis", "metaanalisis", "ensayo clínico",
-    "odds ratio", "hazard ratio", "intervalo de confianza",
-    "estadísticamente significativo", "p<", "p <", "p=",
+    r"\bRR\b", r"\bHR\b", r"\bOR\b", r"\bIC\b", r"\bCI\b",
+    r"IC\s*95", r"IC95",
+    r"\bcohorte\b", r"\bcohort\b", r"\bmetaan[aá]lisis\b", r"\bmeta-analysis\b", r"\bmeta analysis\b",
+    r"\bensayo cl[ií]nico\b", r"\brandomi[sz]ed trial\b",
+    r"\bodds ratio\b", r"\bhazard ratio\b",
+    r"\bintervalo de confianza\b", r"\bconfidence interval\b",
+    r"\bestad[ií]sticamente significativ[oa]\b", r"\bstatistically significant\b",
+    r"\bp\s*[<=>]\s*0?[.,]\d",
 ]
 PALABRAS_MARKETING = [
     "poderoso", "revolucionario", "increíble", "definitivo", "garantizado",
@@ -248,14 +254,15 @@ def revisar_capitulo(ruta: pathlib.Path) -> tuple[list[Hallazgo], list[dict]]:
 
         # "En simple": sin estadistica cruda ni marketing.
         simple = valores.get("En simple", "")
-        for palabra in PROHIBIDAS_SIMPLE:
-            if palabra.lower() in simple.lower():
+        for patron in PROHIBIDAS_SIMPLE:
+            m = re.search(patron, simple, re.I)
+            if m:
                 hallazgos.append(
                     Hallazgo(
                         "ERROR",
                         nombre,
                         i + 1,
-                        f"item {numero}: 'En simple' usa estadistica cruda ('{palabra.strip()}'); traduce a lenguaje comun",
+                        f"item {numero}: 'En simple' usa estadistica cruda ('{m.group(0)}'); traduce a lenguaje comun",
                     )
                 )
         for palabra in PALABRAS_MARKETING:
