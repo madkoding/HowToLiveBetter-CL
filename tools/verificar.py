@@ -48,6 +48,20 @@ RE_CAMPO = re.compile(r"^-\s*([A-Za-zÁÉÍÓÚáéíóúñ ]+):\s*(.*)$")
 RE_URL = re.compile(r"https?://[^\s<>\"']+?(?=[\s<>\"']|$)")
 RE_MARCA = re.compile(r"POR VERIFICAR")
 
+# Sitios oficiales que bloquean la verificacion automatica (403, TLS o DNS). No son enlaces
+# muertos: abren normal en un navegador. Se reportan como aviso, nunca como error.
+HOSTS_BLOQUEAN_BOTS = {
+    "www.fonasa.gob.cl", "fonasa.gob.cl", "nuevo.fonasa.gob.cl",
+    "www.shoa.cl", "shoa.cl",
+    "www.sernageomin.cl", "sernageomin.cl", "rnvv.sernageomin.cl",
+    "repositoriodeis.minsal.cl", "deis.minsal.cl",
+    "www.conaset.cl", "conaset.cl",
+    "www.leychile.cl", "www.bcn.cl",
+    "www.dt.gob.cl", "dt.gob.cl",
+    "www.suseso.gob.cl", "www.spensiones.cl",
+    "www.ine.gob.cl", "www.afc.cl",
+}  # fmt: skip
+
 # Palabras que no pueden aparecer en "En simple": el lector de esa linea no es estadistico.
 PROHIBIDAS_SIMPLE = [
     "RR ", "RR:", "HR ", "HR:", " OR ", "OR:", "IC 95", "IC95",
@@ -377,8 +391,12 @@ def probar_urls(items: list[dict], limite: int = 400) -> list[Hallazgo]:
             nivel = "AVISO" if e.code in (403, 429, 503) else "ERROR"
             hallazgos.append(Hallazgo(nivel, archivo, linea, f"item {numero}: HTTP {e.code} en {url}"))
         except Exception as e:  # noqa: BLE001 - red: cualquier fallo se reporta tal cual
+            # Muchos sitios .gob.cl bloquean la consulta automatica o fallan por certificado,
+            # pero abren en un navegador: no se reportan como error.
+            host = urllib.parse.urlsplit(url).netloc.lower()
+            nivel = "AVISO" if host in HOSTS_BLOQUEAN_BOTS else "ERROR"
             hallazgos.append(
-                Hallazgo("AVISO", archivo, linea, f"item {numero}: no se pudo abrir {url} ({type(e).__name__})")
+                Hallazgo(nivel, archivo, linea, f"item {numero}: no se pudo abrir {url} ({type(e).__name__})")
             )
     return hallazgos
 
