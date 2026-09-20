@@ -1,0 +1,971 @@
+<!doctype html>
+<html lang="es">
+<head>
+	<!-- Required meta tags -->
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO Premium plugin v23.9 (Yoast SEO v23.9) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Tramos - Fonasa</title>
+	<meta name="description" content="Conoce aquí los tramos de Fonasa" />
+	<link rel="canonical" href="https://www.fonasa.gob.cl/tramos/" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Tramos" />
+	<meta property="og:description" content="Conoce aquí los tramos de Fonasa" />
+	<meta property="og:url" content="https://www.fonasa.gob.cl/tramos/" />
+	<meta property="og:site_name" content="Fonasa" />
+	<meta property="article:publisher" content="https://www.facebook.com/FonasaChile/" />
+	<meta property="article:modified_time" content="2026-06-24T20:26:50+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@fonasa" />
+	<meta name="twitter:label1" content="Tiempo de lectura" />
+	<meta name="twitter:data1" content="4 minutos" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.fonasa.gob.cl/tramos/","url":"https://www.fonasa.gob.cl/tramos/","name":"Tramos - Fonasa","isPartOf":{"@id":"https://www.fonasa.gob.cl/#website"},"datePublished":"2026-06-24T16:47:56+00:00","dateModified":"2026-06-24T20:26:50+00:00","description":"Conoce aquí los tramos de Fonasa","breadcrumb":{"@id":"https://www.fonasa.gob.cl/tramos/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://www.fonasa.gob.cl/tramos/"]}]},{"@type":"BreadcrumbList","@id":"https://www.fonasa.gob.cl/tramos/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada","item":"https://www.fonasa.gob.cl/"},{"@type":"ListItem","position":2,"name":"Tramos"}]},{"@type":"WebSite","@id":"https://www.fonasa.gob.cl/#website","url":"https://www.fonasa.gob.cl/","name":"Fonasa","description":"Fondo Nacional de Salud - Chile","publisher":{"@id":"https://www.fonasa.gob.cl/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.fonasa.gob.cl/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es"},{"@type":"Organization","@id":"https://www.fonasa.gob.cl/#organization","name":"Fonasa","url":"https://www.fonasa.gob.cl/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"https://www.fonasa.gob.cl/#/schema/logo/image/","url":"https://www.fonasa.gob.cl/wp-content/uploads/2025/09/logo_fonasa.png","contentUrl":"https://www.fonasa.gob.cl/wp-content/uploads/2025/09/logo_fonasa.png","width":204,"height":70,"caption":"Fonasa"},"image":{"@id":"https://www.fonasa.gob.cl/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/FonasaChile/","https://x.com/fonasa","https://www.instagram.com/fonasachile/","https://www.youtube.com/channel/UCEb6BZnaMmGaDjoEGElnDMg"]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/www.fonasa.gob.cl\/wp-includes\/js\/wp-emoji.js?ver=6.7.3","twemoji":"https:\/\/www.fonasa.gob.cl\/wp-includes\/js\/twemoji.js?ver=6.7.3"}};
+/**
+ * @output wp-includes/js/wp-emoji-loader.js
+ */
+
+/**
+ * Emoji Settings as exported in PHP via _print_emoji_detection_script().
+ * @typedef WPEmojiSettings
+ * @type {object}
+ * @property {?object} source
+ * @property {?string} source.concatemoji
+ * @property {?string} source.twemoji
+ * @property {?string} source.wpemoji
+ * @property {?boolean} DOMReady
+ * @property {?Function} readyCallback
+ */
+
+/**
+ * Support tests.
+ * @typedef SupportTests
+ * @type {object}
+ * @property {?boolean} flag
+ * @property {?boolean} emoji
+ */
+
+/**
+ * IIFE to detect emoji support and load Twemoji if needed.
+ *
+ * @param {Window} window
+ * @param {Document} document
+ * @param {WPEmojiSettings} settings
+ */
+( function wpEmojiLoader( window, document, settings ) {
+	if ( typeof Promise === 'undefined' ) {
+		return;
+	}
+
+	var sessionStorageKey = 'wpEmojiSettingsSupports';
+	var tests = [ 'flag', 'emoji' ];
+
+	/**
+	 * Checks whether the browser supports offloading to a Worker.
+	 *
+	 * @since 6.3.0
+	 *
+	 * @private
+	 *
+	 * @returns {boolean}
+	 */
+	function supportsWorkerOffloading() {
+		return (
+			typeof Worker !== 'undefined' &&
+			typeof OffscreenCanvas !== 'undefined' &&
+			typeof URL !== 'undefined' &&
+			URL.createObjectURL &&
+			typeof Blob !== 'undefined'
+		);
+	}
+
+	/**
+	 * @typedef SessionSupportTests
+	 * @type {object}
+	 * @property {number} timestamp
+	 * @property {SupportTests} supportTests
+	 */
+
+	/**
+	 * Get support tests from session.
+	 *
+	 * @since 6.3.0
+	 *
+	 * @private
+	 *
+	 * @returns {?SupportTests} Support tests, or null if not set or older than 1 week.
+	 */
+	function getSessionSupportTests() {
+		try {
+			/** @type {SessionSupportTests} */
+			var item = JSON.parse(
+				sessionStorage.getItem( sessionStorageKey )
+			);
+			if (
+				typeof item === 'object' &&
+				typeof item.timestamp === 'number' &&
+				new Date().valueOf() < item.timestamp + 604800 && // Note: Number is a week in seconds.
+				typeof item.supportTests === 'object'
+			) {
+				return item.supportTests;
+			}
+		} catch ( e ) {}
+		return null;
+	}
+
+	/**
+	 * Persist the supports in session storage.
+	 *
+	 * @since 6.3.0
+	 *
+	 * @private
+	 *
+	 * @param {SupportTests} supportTests Support tests.
+	 */
+	function setSessionSupportTests( supportTests ) {
+		try {
+			/** @type {SessionSupportTests} */
+			var item = {
+				supportTests: supportTests,
+				timestamp: new Date().valueOf()
+			};
+
+			sessionStorage.setItem(
+				sessionStorageKey,
+				JSON.stringify( item )
+			);
+		} catch ( e ) {}
+	}
+
+	/**
+	 * Checks if two sets of Emoji characters render the same visually.
+	 *
+	 * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+	 * scope. Everything must be passed by parameters.
+	 *
+	 * @since 4.9.0
+	 *
+	 * @private
+	 *
+	 * @param {CanvasRenderingContext2D} context 2D Context.
+	 * @param {string} set1 Set of Emoji to test.
+	 * @param {string} set2 Set of Emoji to test.
+	 *
+	 * @return {boolean} True if the two sets render the same.
+	 */
+	function emojiSetsRenderIdentically( context, set1, set2 ) {
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, context.canvas.width, context.canvas.height );
+		context.fillText( set1, 0, 0 );
+		var rendered1 = new Uint32Array(
+			context.getImageData(
+				0,
+				0,
+				context.canvas.width,
+				context.canvas.height
+			).data
+		);
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, context.canvas.width, context.canvas.height );
+		context.fillText( set2, 0, 0 );
+		var rendered2 = new Uint32Array(
+			context.getImageData(
+				0,
+				0,
+				context.canvas.width,
+				context.canvas.height
+			).data
+		);
+
+		return rendered1.every( function ( rendered2Data, index ) {
+			return rendered2Data === rendered2[ index ];
+		} );
+	}
+
+	/**
+	 * Determines if the browser properly renders Emoji that Twemoji can supplement.
+	 *
+	 * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+	 * scope. Everything must be passed by parameters.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @private
+	 *
+	 * @param {CanvasRenderingContext2D} context 2D Context.
+	 * @param {string} type Whether to test for support of "flag" or "emoji".
+	 * @param {Function} emojiSetsRenderIdentically Reference to emojiSetsRenderIdentically function, needed due to minification.
+	 *
+	 * @return {boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( context, type, emojiSetsRenderIdentically ) {
+		var isIdentical;
+
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * Test for Transgender flag compatibility. Added in Unicode 13.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + transgender symbol).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					context,
+					'\uD83C\uDFF3\uFE0F\u200D\u26A7\uFE0F', // as a zero-width joiner sequence
+					'\uD83C\uDFF3\uFE0F\u200B\u26A7\uFE0F' // separated by a zero-width space
+				);
+
+				if ( isIdentical ) {
+					return false;
+				}
+
+				/*
+				 * Test for UN flag compatibility. This is the least supported of the letter locale flags,
+				 * so gives us an easy test for full support.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly ([U] + [N]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					context,
+					'\uD83C\uDDFA\uD83C\uDDF3', // as the sequence of two code points
+					'\uD83C\uDDFA\u200B\uD83C\uDDF3' // as the two code points separated by a zero-width space
+				);
+
+				if ( isIdentical ) {
+					return false;
+				}
+
+				/*
+				 * Test for English flag compatibility. England is a country in the United Kingdom, it
+				 * does not have a two letter locale code but rather a five letter sub-division code.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					context,
+					// as the flag sequence
+					'\uD83C\uDFF4\uDB40\uDC67\uDB40\uDC62\uDB40\uDC65\uDB40\uDC6E\uDB40\uDC67\uDB40\uDC7F',
+					// with each code point separated by a zero-width space
+					'\uD83C\uDFF4\u200B\uDB40\uDC67\u200B\uDB40\uDC62\u200B\uDB40\uDC65\u200B\uDB40\uDC6E\u200B\uDB40\uDC67\u200B\uDB40\uDC7F'
+				);
+
+				return ! isIdentical;
+			case 'emoji':
+				/*
+				 * Four and twenty blackbirds baked in a pie.
+				 *
+				 * To test for Emoji 15.0 support, try to render a new emoji: Blackbird.
+				 *
+				 * The Blackbird is a ZWJ sequence combining 🐦 Bird and ⬛ large black square.,
+				 *
+				 * 0x1F426 (\uD83D\uDC26) == Bird
+				 * 0x200D == Zero-Width Joiner (ZWJ) that links the code points for the new emoji or
+				 * 0x200B == Zero-Width Space (ZWS) that is rendered for clients not supporting the new emoji.
+				 * 0x2B1B == Large Black Square
+				 *
+				 * When updating this test for future Emoji releases, ensure that individual emoji that make up the
+				 * sequence come from older emoji standards.
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					context,
+					'\uD83D\uDC26\u200D\u2B1B', // as the zero-width joiner sequence
+					'\uD83D\uDC26\u200B\u2B1B' // separated by a zero-width space
+				);
+
+				return ! isIdentical;
+		}
+
+		return false;
+	}
+
+	/**
+	 * Checks emoji support tests.
+	 *
+	 * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+	 * scope. Everything must be passed by parameters.
+	 *
+	 * @since 6.3.0
+	 *
+	 * @private
+	 *
+	 * @param {string[]} tests Tests.
+	 * @param {Function} browserSupportsEmoji Reference to browserSupportsEmoji function, needed due to minification.
+	 * @param {Function} emojiSetsRenderIdentically Reference to emojiSetsRenderIdentically function, needed due to minification.
+	 *
+	 * @return {SupportTests} Support tests.
+	 */
+	function testEmojiSupports( tests, browserSupportsEmoji, emojiSetsRenderIdentically ) {
+		var canvas;
+		if (
+			typeof WorkerGlobalScope !== 'undefined' &&
+			self instanceof WorkerGlobalScope
+		) {
+			canvas = new OffscreenCanvas( 300, 150 ); // Dimensions are default for HTMLCanvasElement.
+		} else {
+			canvas = document.createElement( 'canvas' );
+		}
+
+		var context = canvas.getContext( '2d', { willReadFrequently: true } );
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		var supports = {};
+		tests.forEach( function ( test ) {
+			supports[ test ] = browserSupportsEmoji( context, test, emojiSetsRenderIdentically );
+		} );
+		return supports;
+	}
+
+	/**
+	 * Adds a script to the head of the document.
+	 *
+	 * @ignore
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param {string} src The url where the script is located.
+	 *
+	 * @return {void}
+	 */
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+		script.src = src;
+		script.defer = true;
+		document.head.appendChild( script );
+	}
+
+	settings.supports = {
+		everything: true,
+		everythingExceptFlag: true
+	};
+
+	// Create a promise for DOMContentLoaded since the worker logic may finish after the event has fired.
+	var domReadyPromise = new Promise( function ( resolve ) {
+		document.addEventListener( 'DOMContentLoaded', resolve, {
+			once: true
+		} );
+	} );
+
+	// Obtain the emoji support from the browser, asynchronously when possible.
+	new Promise( function ( resolve ) {
+		var supportTests = getSessionSupportTests();
+		if ( supportTests ) {
+			resolve( supportTests );
+			return;
+		}
+
+		if ( supportsWorkerOffloading() ) {
+			try {
+				// Note that the functions are being passed as arguments due to minification.
+				var workerScript =
+					'postMessage(' +
+					testEmojiSupports.toString() +
+					'(' +
+					[
+						JSON.stringify( tests ),
+						browserSupportsEmoji.toString(),
+						emojiSetsRenderIdentically.toString()
+					].join( ',' ) +
+					'));';
+				var blob = new Blob( [ workerScript ], {
+					type: 'text/javascript'
+				} );
+				var worker = new Worker( URL.createObjectURL( blob ), { name: 'wpTestEmojiSupports' } );
+				worker.onmessage = function ( event ) {
+					supportTests = event.data;
+					setSessionSupportTests( supportTests );
+					worker.terminate();
+					resolve( supportTests );
+				};
+				return;
+			} catch ( e ) {}
+		}
+
+		supportTests = testEmojiSupports( tests, browserSupportsEmoji, emojiSetsRenderIdentically );
+		setSessionSupportTests( supportTests );
+		resolve( supportTests );
+	} )
+		// Once the browser emoji support has been obtained from the session, finalize the settings.
+		.then( function ( supportTests ) {
+			/*
+			 * Tests the browser support for flag emojis and other emojis, and adjusts the
+			 * support settings accordingly.
+			 */
+			for ( var test in supportTests ) {
+				settings.supports[ test ] = supportTests[ test ];
+
+				settings.supports.everything =
+					settings.supports.everything && settings.supports[ test ];
+
+				if ( 'flag' !== test ) {
+					settings.supports.everythingExceptFlag =
+						settings.supports.everythingExceptFlag &&
+						settings.supports[ test ];
+				}
+			}
+
+			settings.supports.everythingExceptFlag =
+				settings.supports.everythingExceptFlag &&
+				! settings.supports.flag;
+
+			// Sets DOMReady to false and assigns a ready function to settings.
+			settings.DOMReady = false;
+			settings.readyCallback = function () {
+				settings.DOMReady = true;
+			};
+		} )
+		.then( function () {
+			return domReadyPromise;
+		} )
+		.then( function () {
+			// When the browser can not render everything we need to load a polyfill.
+			if ( ! settings.supports.everything ) {
+				settings.readyCallback();
+
+				var src = settings.source || {};
+
+				if ( src.concatemoji ) {
+					addScript( src.concatemoji );
+				} else if ( src.wpemoji && src.twemoji ) {
+					addScript( src.twemoji );
+					addScript( src.wpemoji );
+				}
+			}
+		} );
+} )( window, document, window._wpemojiSettings );
+
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.fonasa.gob.cl/wp-includes/css/dist/block-library/style.css?ver=6.7.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/**
+ * These rules are needed for backwards compatibility.
+ * They should match the button element rules in the base theme.json file.
+ */
+.wp-block-button__link {
+	color: #ffffff;
+	background-color: #32373c;
+	border-radius: 9999px; /* 100% causes an oval, but any explicit but really high value retains the pill shape. */
+
+	/* This needs a low specificity so it won't override the rules from the button element if defined in theme.json. */
+	box-shadow: none;
+	text-decoration: none;
+
+	/* The extra 2px are added to size solids the same as the outline versions.*/
+	padding: calc(0.667em + 2px) calc(1.333em + 2px);
+
+	font-size: 1.125em;
+}
+
+.wp-block-file__button {
+	background: #32373c;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wordpress-file-upload-style-css' href='https://www.fonasa.gob.cl/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_style.css?ver=6.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-file-upload-style-safe-css' href='https://www.fonasa.gob.cl/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_style_safe.css?ver=6.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-file-upload-adminbar-style-css' href='https://www.fonasa.gob.cl/wp-content/plugins/wp-file-upload/css/wordpress_file_upload_adminbarstyle.css?ver=6.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css-css' href='https://www.fonasa.gob.cl/wp-content/plugins/wp-file-upload/vendor/jquery/jquery-ui.min.css?ver=6.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-timepicker-addon-css-css' href='https://www.fonasa.gob.cl/wp-content/plugins/wp-file-upload/vendor/jquery/jquery-ui-timepicker-addon.min.css?ver=6.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='roboto-css' href='https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='material-css' href='https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,400,0,0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css' href='https://www.fonasa.gob.cl/wp-content/themes/tema_fonasa/css/scss/slick.css?ver=6.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://www.fonasa.gob.cl/wp-content/themes/tema_fonasa/style.css?ver=6.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css' href='https://www.fonasa.gob.cl/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<style id='addtoany-inline-css' type='text/css'>
+.addtoany_list >a { padding: 0!important; }
+.addtoany_list .a2a_s_facebook {border-radius: 10px 0 0 10px!important; }
+.addtoany_list .a2a_s_linkedin {border-radius: 0 10px 10px 0!important; }
+.a2a_label {display: block!important;font-size:0;color: transparent;width:0!important;height: 0!important;}
+.a2a_svg { display: flex!important; justify-content: center; align-items: center; border-radius: 0!important; width: 75px!important; height: 40px!important; }
+.a2a_svg svg { width: 28px!important; }
+</style>
+<script type="text/javascript" id="addtoany-core-js-before">
+/* <![CDATA[ */
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Compartir",
+	Save: "Guardar",
+	Subscribe: "Suscribir",
+	Email: "Correo electrónico",
+	Bookmark: "Marcador",
+	ShowAll: "Mostrar todo",
+	ShowLess: "Mostrar menos",
+	FindServices: "Encontrar servicio(s)",
+	FindAnyServiceToAddTo: "Encuentra al instante cualquier servicio para añadir a",
+	PoweredBy: "Funciona con",
+	ShareViaEmail: "Compartir por correo electrónico",
+	SubscribeViaEmail: "Suscribirse a través de correo electrónico",
+	BookmarkInYourBrowser: "Añadir a marcadores de tu navegador",
+	BookmarkInstructions: "Presiona «Ctrl+D» o «\u2318+D» para añadir esta página a marcadores",
+	AddToYourFavorites: "Añadir a tus favoritos",
+	SendFromWebOrProgram: "Enviar desde cualquier dirección o programa de correo electrónico ",
+	EmailProgram: "Programa de correo electrónico",
+	More: "Más&#8230;",
+	ThanksForSharing: "¡Gracias por compartir!",
+	ThanksForFollowing: "¡Gracias por seguirnos!"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="https://static.addtoany.com/menu/page.js" id="addtoany-core-js"></script>
+<script type="text/javascript" src="https://www.fonasa.gob.cl/wp-includes/js/jquery/jquery.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.fonasa.gob.cl/wp-includes/js/jquery/jquery-migrate.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" defer src="https://www.fonasa.gob.cl/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" id="addtoany-jquery-js"></script>
+<!--[if lt IE 8]>
+<script type="text/javascript" src="https://www.fonasa.gob.cl/wp-includes/js/json2.js?ver=2015-05-03" id="json2-js"></script>
+<![endif]-->
+<script type="text/javascript" src="https://www.fonasa.gob.cl/wp-content/plugins/wp-file-upload/js/wordpress_file_upload_functions.js?ver=6.7.3" id="wordpress_file_upload_script-js"></script>
+<script type="text/javascript" src="https://www.fonasa.gob.cl/wp-includes/js/jquery/ui/core.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://www.fonasa.gob.cl/wp-includes/js/jquery/ui/datepicker.js?ver=1.13.3" id="jquery-ui-datepicker-js"></script>
+<script type="text/javascript" id="jquery-ui-datepicker-js-after">
+/* <![CDATA[ */
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Cerrar","currentText":"Hoy","monthNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"monthNamesShort":["Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic"],"nextText":"Siguiente","prevText":"Anterior","dayNames":["domingo","lunes","martes","mi\u00e9rcoles","jueves","viernes","s\u00e1bado"],"dayNamesShort":["Dom","Lun","Mar","Mi\u00e9","Jue","Vie","S\u00e1b"],"dayNamesMin":["D","L","M","X","J","V","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.fonasa.gob.cl/wp-content/plugins/wp-file-upload/vendor/jquery/jquery-ui-timepicker-addon.min.js?ver=6.7.3" id="jquery-ui-timepicker-addon-js-js"></script>
+<link rel="https://api.w.org/" href="https://www.fonasa.gob.cl/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.fonasa.gob.cl/wp-json/wp/v2/pages/7004" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.fonasa.gob.cl/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.3" />
+<link rel='shortlink' href='https://www.fonasa.gob.cl/?p=7004' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.fonasa.gob.cl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fonasa.gob.cl%2Ftramos%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.fonasa.gob.cl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fonasa.gob.cl%2Ftramos%2F&#038;format=xml" />
+<script>document.createElement( "picture" );if(!window.HTMLPictureElement && document.addEventListener) {window.addEventListener("DOMContentLoaded", function() {var s = document.createElement("script");s.src = "https://www.fonasa.gob.cl/wp-content/plugins/webp-express/js/picturefill.min.js";document.body.appendChild(s);});}</script>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to automatic -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
+	var dataLayer_content = {"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Camila Jara"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5WDZZXXP');
+</script>
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N43DXW5B');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+		<script>
+		(function(h,o,t,j,a,r){
+			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+			h._hjSettings={hjid:4947100,hjsv:5};
+			a=o.getElementsByTagName('head')[0];
+			r=o.createElement('script');r.async=1;
+			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+		</script>
+		<link rel="icon" href="https://www.fonasa.gob.cl/wp-content/uploads/2024/04/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.fonasa.gob.cl/wp-content/uploads/2024/04/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.fonasa.gob.cl/wp-content/uploads/2024/04/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.fonasa.gob.cl/wp-content/uploads/2024/04/cropped-favicon-270x270.png" />
+</head>
+<body class="page-template page-template-page-texto page-template-page-texto-php page page-id-7004 personas ">
+	
+		
+<header style="background-image: url('');"> 
+  <!-- Pre Header -->
+  <div id="pre-header" class="container-fluid">
+    <div class="row ps-3">
+      <ul id="perfiles">
+		<li class="active menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a href="https://www.fonasa.gob.cl/" target="">Personas</a></li><li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a href="http://www.fonasa.gob.cl/empleadores" target="">Empleadores</a></li><li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a href="http://www.fonasa.gob.cl/prestadores" target="">Prestadores</a></li>      </ul>
+    </div>
+  </div>
+  <!-- Navbar -->
+ 	
+  <nav class="navbar navbar-expand-lg bg-body-tertiary py-3">
+    <div class="container-fluid">
+	  <!--<h1 id="brand" class="ms-2">-->
+          <a id="brand" class="navbar-brand" class="d-block w-100 m-0 p-0" href="https://www.fonasa.gob.cl">
+			  <img src="https://www.fonasa.gob.cl/wp-content/uploads/2024/04/fonasa-logo-header.svg" class="d-block w-100 m-0 p-0" loading="lazy" alt="Fonasa">          </a>
+      <!--</h1>-->
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="hamburger" id="hamburger-1"> <span class="line"></span> <span class="line"></span> <span class="line"></span> </div>
+      </button>
+	  		
+      <!-- Button trigger modal responsive -->
+      <button type="button" class="btn btn-light d-flex d-lg-none align-self-center buscador-mobile" data-bs-toggle="modal" data-bs-target="#searchModal"> <span class="material-symbols-rounded">search</span> </button>
+	        <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        </ul>
+		            <div class="d-grid mb-2 mb-lg-0">
+              <a href="https://mi.fonasa.gob.cl/login" class="btn btn-primary me-0 me-lg-2">Mi Fonasa</a>
+            </div>
+         
+		  
+        <!--<button type="button" class="btn btn-light d-flex align-self-center"> <span class="material-symbols-rounded">accessibility_new</span> </button>-->
+		<div class="accessibilitybox m-0 d-flex flex-row w-fit mx-lg-0 mx-auto">
+            <div class="accessibilitybox__options d-flex flex-row gap-sm gap-md-2">
+                <button type="button" class="accessibilitybox__plus d-block m-0 border-0">
+                    <img src="https://www.fonasa.gob.cl/wp-content/themes/tema_fonasa/src/images/icon__header_plus.svg" loading="lazy" width="24" height="24" alt="">
+                    <span class="friendly-anchortext">a+</span>
+                </button>
+
+                <button type="button" class="accessibilitybox__minus d-block m-0 border-0">
+                    <img src="https://www.fonasa.gob.cl/wp-content/themes/tema_fonasa/src/images/icon__header_minus.svg" loading="lazy" width="24" height="24" alt="">
+                    <span class="friendly-anchortext">a-</span>
+                </button>
+                
+                <button type="button" class="accessibilitybox__blind d-block m-0 border-0">
+                    <img src="https://www.fonasa.gob.cl/wp-content/themes/tema_fonasa/src/images/Icon-header-colorblind.svg" width="20" height="20" alt="">
+                    <span class="friendly-anchortext">blind</span>
+                </button>
+
+                <button type="button" class="accessibilitybox__color d-block m-0 border-0">
+                    <img src="https://www.fonasa.gob.cl/wp-content/themes/tema_fonasa/src/images/icon__header_color.svg" width="20" height="20" alt="">
+                    <span class="friendly-anchortext">colors</span>
+                </button>
+            </div>
+
+            <button type="button" class="accessibilitybox__open d-flex align-self-center border-0 bg-transparent">
+                <span class="material-symbols-rounded">accessibility_new</span>
+            </button>
+        </div>  
+		  
+		  
+		  
+        		<!-- Button trigger modal -->
+        <button type="button" class="btn btn-light d-none d-lg-flex align-self-center" data-bs-toggle="modal" data-bs-target="#searchModal"> <span class="material-symbols-rounded">search</span> </button>
+		  
+      </div>
+      <!-- Search Modal -->
+      <div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel"
+                    aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+          <div class="modal-content">
+            <div class="modal-body">
+			  <form method="POST" class="d-flex" role="search" action="https://www.fonasa.gob.cl/">
+				<input type="hidden" id="search_nonce_field" name="search_nonce_field" value="554c5ea417" /><input type="hidden" name="_wp_http_referer" value="/tramos/?/" />  
+                <input class="form-control me-2" type="search" placeholder="Escribe lo que buscas aquí" aria-label="Search" name="s" required>
+                <button class="btn btn-primary d-flex align-self-center" type="submit"><span class="material-symbols-rounded">search</span></button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  	
+</header>
+<!-- MIGAS DE PAN -->
+<div class="breadcrumb w-100 m-0">
+    <div class="custom-row row m-0 mx-auto w-100">
+        <ul class="breadcrumb__list d-flex flex-row w_100 m-0 p-0">
+            <li class="d-flex align-items-center">
+                <a href="https://www.fonasa.gob.cl" class="d-block w-fit m-0 p-0">Inicio</a>
+            </li>
+
+            <li class="d-flex align-items-center">
+                <span>Tramos</span>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- PAGE HEADER -->
+<div class="pageheader w-100 m-0">
+    <div class="custom-row row m-0 mx-auto d-flex flex-column w-100">
+        <div class="pageheader__link d-flex align-items-center w-fit p-0">
+            <a href="https://www.fonasa.gob.cl" class="m-0 p-0">
+                <picture  class="d-block pageheader__icon w-100">
+                    <img src="https://www.fonasa.gob.cl/wp-content/themes/tema_fonasa/src/images/icons/icon__pageheader.svg" class="d-block w-100 h-auto" loading="lazy" width="21" height="21" alt="">
+                </picture>
+            </a>
+
+            <h2 class="d-block pageheader__title m-0 p-0">Tramos</h2>
+        </div>
+
+        <p class="pageheader__text d-block w-100 m-0 p-0">Conoce aquí los tramos que rigen actualmente</p>
+    </div>
+</div>
+<!-- CONTENIDO -->
+<div class="d-block w-100 pt-4 py-5">
+    <div class="custom-row row m-0 mx-auto d-flex flex-column w-100">
+        <div id="condiciones-uso" class="navbox col-12 d-flex flex-column-reverse flex-lg-row justify-content-center align-items-center align-items-lg-start w-100 m-0 p-0 active">
+            <!-- CONTENIDO -->
+			<div class="navbox__navcontent d-flex flex-column gap-md w-100 m-0 p-0">
+                						<div id="" class="d-flex flex-column gap-md">
+							<h3 class="tabcontent__title d-block w-100 m-0 p-0">¿Conoces los tramos de Fonasa?</h3><div class="section-header">Fonasa no excluye a nadie. Incorpora a todas aquellas personas que viven en el territorio nacional, independiente de su edad, sexo, género, nivel de ingresos, número de cargas familiares, enfermedades preexistentes y nacionalidad de origen.</div>
+<div></div>
+<div class="section-header">Las personas beneficiarias no pagan extra por carga familiar. Con el 7% de cotización están cubiertos.</div>
+<div></div>
+<div class="section-header">Desde septiembre de 2022, existe el Copago Cero en la Modalidad de Atención Institucional (Centros de Salud, Consultorios, Postas y Hospitales Públicos).</div>
+<div></div>
+<div class="section-header">Si perteneces a los tramos B, C y D puedes comprar bonos para atenderse en la Modalidad de Libre Elección en Prestadores en convenio con Fonasa. En este caso, el valor de bono no depende del tramo, si no que del médico o centro médico donde te vayas a atender. El tramo A sólo puede atenderse en la Modalidad de Atención Institucional (Centros de Salud, Consultorios, Postas y Hospitales Públicos).</div>
+<div></div>
+<div class="section-header">Fonasa brinda a sus beneficiarios y beneficiarias cobertura financiera, según su nivel de ingresos y vulnerabilidad económica. Con este fin, se establecen cuatro tramos, <span style="color: #ff0000;"><strong>actualizados al 1 de mayo de 2026 </strong></span><strong>según la</strong><span style="color: #ff0000;"><strong> <a href="https://www.bcn.cl/leychile/navegar?idNorma=1225354">ley 21.830</a></strong></span><strong>:</strong></div>
+<div id="lectura" class="section-body my-4">
+<table class="table-resp" style="width: 103.662%;" width="0">
+<tbody>
+<tr>
+<td style="width: 14.9367%;" width="108"><strong>Tramo</strong></td>
+<td style="width: 32.5181%;" width="275"><strong>Beneficiarios</strong></td>
+<td style="width: 54.0339%;"><strong>Bonificación y copago</strong></td>
+</tr>
+<tr>
+<td style="width: 14.9367%;" width="108" data-label="Tramo: "><strong>Tramo A</strong></td>
+<td style="width: 32.5181%;" width="275" data-label="Beneficiarios: ">
+<ul>
+<li>Personas carentes de recursos.</li>
+<li>Causantes de subsidio familiar (Ley 18.020).</li>
+</ul>
+</td>
+<td style="width: 54.0339%;" data-label="Bonificación y copago: "><strong>&#8211; Tienen Copago Cero en las atenciones de salud en la Red Pública en la Modalidad de Atención Institucional (MAI).</strong></p>
+<p><strong>&#8211; No tienen acceso a comprar bonos de atención de salud en establecimientos privados en convenio con Fonasa, pues son carentes de recursos.</strong></td>
+</tr>
+<tr>
+<td style="width: 14.9367%;" width="108" data-label="Tramo: "><strong>Tramo B</strong></td>
+<td style="width: 32.5181%;" width="275" data-label="Beneficiarios: ">
+<ul>
+<li>Personas que perciben un ingreso imponible mensual menor o igual a <strong>$553.553</strong>.</li>
+</ul>
+</td>
+<td style="width: 54.0339%;" data-label="Bonificación y copago: "><strong>&#8211; Tienen Copago Cero en las atenciones de salud en la Red Pública en la Modalidad de Atención Institucional (MAI).</strong></p>
+<p><strong>&#8211; Pueden comprar bonos de atención de salud en establecimientos privados en convenio con Fonasa (Modalidad Libre Elección/MLE).</strong></td>
+</tr>
+<tr>
+<td style="width: 14.9367%;" width="108" data-label="Tramo: "><strong>Tramo C</strong></td>
+<td style="width: 32.5181%;" width="275" data-label="Beneficiarios: ">
+<ul>
+<li>Personas que perciben un ingreso imponible mensual desde <strong>$553.554 </strong>y menor o igual a <strong>$808.187</strong>.</li>
+</ul>
+<p><strong>Nota: Con 3 o más cargas familiares pasará a Tramo B.</strong></td>
+<td style="width: 54.0339%;" data-label="Bonificación y copago: "><strong>&#8211;</strong><strong> Tienen Copago Cero en las atenciones de salud en la Red Pública en la Modalidad de Atención Institucional (MAI).</strong></p>
+<p><strong>&#8211; Pueden comprar bonos de atención de salud en establecimientos privados en convenio con Fonasa (Modalidad Libre Elección/MLE).</strong></td>
+</tr>
+<tr>
+<td style="width: 14.9367%;" width="108" data-label="Tramo: "><strong>Tramo D</strong></td>
+<td style="width: 32.5181%;" width="275" data-label="Beneficiarios: ">
+<ul>
+<li>Personas que perciben un ingreso imponible mensual mayor a <strong>$808.188</strong>.</li>
+</ul>
+<p><strong>Nota: Con 3 o más cargas familiares pasará a Tramo C.</strong></td>
+<td style="width: 54.0339%;" data-label="Bonificación y copago: "><strong>&#8211; </strong><strong style="font-family: inherit; font-size: inherit;">Tienen Copago Cero en las atenciones de salud en la Red Pública en la Modalidad de Atención Institucional (MAI).</strong></p>
+<p><strong>&#8211; Pueden comprar bonos de atención de salud en establecimientos privados en convenio con Fonasa (Modalidad Libre Elección/MLE).</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+	
+						</div>
+						            </div>
+			<!-- ASIDE -->
+            <div class="navbox__navaside w-100 d-flex flex-column gap-xl m-0 p-0">
+                <!-- BOTON ESCUCHAR -->
+                                <button class="navaside__listen btn d-flex justify-content-center align-items-center gap-xxs w-100 btn-personas" type="button" id="btn-leer" data-leer="Fonasa brinda a sus beneficiarios y beneficiarias cobertura financiera, según su nivel de ingresos y vulnerabilidad económica. Con este fin, se establecen cuatro tramos, actualizados al 1 de mayo de 2026 según la ley 21.830:
+
+Tramo A. 
+Personas carentes de recursos. Causantes de subsidio familiar (Ley 18.020).
+
+- Tienen Copago Cero en las atenciones de salud en la Red Pública en la Modalidad de Atención Institucional (MAI).
+
+- No tienen acceso a comprar bonos de atención de salud en establecimientos privados en convenio con Fonasa, pues son carentes de recursos.
+
+
+Tramo B	
+Personas que perciben un ingreso imponible mensual menor o igual a $553.553.
+	
+- Tienen Copago Cero en las atenciones de salud en la Red Pública en la Modalidad de Atención Institucional (MAI).
+
+- Pueden comprar bonos de atención de salud en establecimientos privados en convenio con Fonasa (Modalidad Libre Elección/MLE).
+
+
+Tramo C	
+Personas que perciben un ingreso imponible mensual desde $553.554 y menor o igual a $808.187.
+
+Nota: Con 3 o más cargas familiares pasará a Tramo B.
+
+- Tienen Copago Cero en las atenciones de salud en la Red Pública en la Modalidad de Atención Institucional (MAI).
+
+- Pueden comprar bonos de atención de salud en establecimientos privados en convenio con Fonasa (Modalidad Libre Elección/MLE).
+
+
+Tramo D	
+Personas que perciben un ingreso imponible mensual mayor a $808.188.
+
+Nota: Con 3 o más cargas familiares pasará a Tramo C.
+
+- Tienen Copago Cero en las atenciones de salud en la Red Pública en la Modalidad de Atención Institucional (MAI).
+
+- Pueden comprar bonos de atención de salud en establecimientos privados en convenio con Fonasa (Modalidad Libre Elección/MLE).
+
+Fonasa no excluye a nadie. Incorpora a todas aquellas personas que viven en el territorio nacional, independiente de su edad, sexo, género, nivel de ingresos, número de cargas familiares, enfermedades preexistentes y nacionalidad de origen.
+
+Las personas beneficiarias no pagan extra por carga familiar. Con el 7% de cotización están cubiertos.
+
+Desde septiembre de 2022, existe el Copago Cero en la Modalidad de Atención Institucional (Centros de Salud, Consultorios, Postas y Hospitales Públicos).
+
+Si perteneces a los tramos B, C y D puedes comprar bonos para atenderte en la Modalidad de Libre Elección en Prestadores en convenio con Fonasa. En este caso, el valor de bono no depende del tramo, si no que del médico o centro médico donde te vayas a atender. El tramo A sólo puede atenderse en la Modalidad de Atención Institucional (Centros de Salud, Consultorios, Postas y Hospitales Públicos).
+
+">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="bi bi-volume-up-fill" viewBox="0 0 16 16"><path d="M11.536 14.01A8.47 8.47 0 0 0 14.026 8a8.47 8.47 0 0 0-2.49-6.01l-.708.707A7.48 7.48 0 0 1 13.025 8c0 2.071-.84 3.946-2.197 5.303z"/><path d="M10.121 12.596A6.48 6.48 0 0 0 12.025 8a6.48 6.48 0 0 0-1.904-4.596l-.707.707A5.48 5.48 0 0 1 11.025 8a5.48 5.48 0 0 1-1.61 3.89z"/><path d="M8.707 11.182A4.5 4.5 0 0 0 10.025 8a4.5 4.5 0 0 0-1.318-3.182L8 5.525A3.5 3.5 0 0 1 9.025 8 3.5 3.5 0 0 1 8 10.475zM6.717 3.55A.5.5 0 0 1 7 4v8a.5.5 0 0 1-.812.39L3.825 10.5H1.5A.5.5 0 0 1 1 10V6a.5.5 0 0 1 .5-.5h2.325l2.363-1.89a.5.5 0 0 1 .529-.06"/></svg>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-play-circle-fill d-none" viewBox="0 0 16 16">
+                      <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M6.79 5.093A.5.5 0 0 0 6 5.5v5a.5.5 0 0 0 .79.407l3.5-2.5a.5.5 0 0 0 0-.814z"/>
+                    </svg>
+
+                    <svg xmlns="http://www.w3.org/2000/svg"  fill="currentColor" class="bi bi-pause-circle d-none" viewBox="0 0 16 16">
+                      <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+                      <path d="M5 6.25a1.25 1.25 0 1 1 2.5 0v3.5a1.25 1.25 0 1 1-2.5 0zm3.5 0a1.25 1.25 0 1 1 2.5 0v3.5a1.25 1.25 0 1 1-2.5 0z"/>
+                    </svg>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-repeat d-none" viewBox="0 0 16 16">
+                      <path d="M11 5.466V4H5a4 4 0 0 0-3.584 5.777.5.5 0 1 1-.896.446A5 5 0 0 1 5 3h6V1.534a.25.25 0 0 1 .41-.192l2.36 1.966c.12.1.12.284 0 .384l-2.36 1.966a.25.25 0 0 1-.41-.192m3.81.086a.5.5 0 0 1 .67.225A5 5 0 0 1 11 13H5v1.466a.25.25 0 0 1-.41.192l-2.36-1.966a.25.25 0 0 1 0-.384l2.36-1.966a.25.25 0 0 1 .41.192V12h6a4 4 0 0 0 3.585-5.777.5.5 0 0 1 .225-.67Z"/>
+                    </svg>
+                    <span>Escuchar esta información</span>
+                </button>
+                                
+                <!-- LINKS INFO -->
+                				            </div>
+			
+		</div>
+	</div>
+</div>	
+<footer>
+  <div class="row">
+	  
+    <div class="col-12 col-lg-2 brand p-5"> 
+                    <img class="logo-footer mb-4" src="https://www.fonasa.gob.cl/wp-content/uploads/2024/04/fonasa-logo-footer.svg" alt="Fonasa">
+              <img src="https://www.fonasa.gob.cl/wp-content/uploads/2026/06/Logo-GOBCL-svg.svg" class="gob-logo-footer mobile p-0 mt-0 mb-4 ms-3" loading="lazy" alt="Gobierno de Chile">    
+      <ul class="p-0">
+              </ul>
+      <img src="https://www.fonasa.gob.cl/wp-content/uploads/2026/06/Logo-GOBCL-svg.svg" class="gob-logo-footer desktop w-100 mt-4 p-0 mt-3" loading="lazy" alt="Gobierno de Chile">
+    </div>
+      
+    <div class="col-12 col-lg-10">
+      <div class="row">
+        <div class="col-12 col-md-5 buscador d-flex">
+		  	
+		  <form method="POST" class="d-flex align-self-center p-3 p-md-3" role="search" action="https://www.fonasa.gob.cl/">
+			<input type="hidden" id="search_nonce_field" name="search_nonce_field" value="554c5ea417" /><input type="hidden" name="_wp_http_referer" value="/tramos/?/" />  
+            <input class="form-control me-2" type="search" placeholder="Escribe lo que buscas aquí" aria-label="Search" name="s" required>
+            <button class="btn btn-light d-flex align-self-center" type="submit"><span class="material-symbols-rounded">search</span></button>
+          </form>
+		  	
+        </div>
+        <div class="col-12 col-md-7 contacto">
+        <div class="row pt-3 pb-2 pt-md-4 mx-auto contacto-row">
+			                <div class="col-6 col-md-6 d-flex justify-content-center p-4">
+                                    <a href="tel:6003603000" target="">
+                      <img class="m-0 p-0 w-100 h-auto img-fluid" src="https://www.fonasa.gob.cl/wp-content/uploads/2024/04/mesa-telefonica.svg" alt="" width="200">
+                  </a>
+                                </div>
+			                <div class="col-6 col-md-6 d-flex justify-content-center p-4">
+                                      <a href="https://www.fonasa.gob.cl/consulta-reclamo-sugerencia-felicitacion-o-solicitud/" target="">
+                        <img class="m-0 p-0 w-100 h-auto img-fluid" src="https://www.fonasa.gob.cl/wp-content/uploads/2024/04/consultas-contacto.svg" alt="" width="185"> 
+                    </a>
+                                </div>
+			            </div>	
+		  	  
+          <div class="row pb-0">
+            <div class="col-12 d-flex justify-content-center">
+              <p class="mb-3">Síguenos:</p>
+            </div>
+          </div>
+          <div class="row pt-0 mb-2">
+            <div class="col-12 d-flex justify-content-center">
+              <ul class="social p-0">
+				<li class="yt"><a href="https://www.youtube.com/channel/UCEb6BZnaMmGaDjoEGElnDMg" target="_blank"></a></li>				<li class="fb"><a href="https://www.facebook.com/FonasaChile/" target="_blank"></a></li>				<li class="x"><a href="https://twitter.com/fonasa" target="_blank"></a></li>  
+				<li class="ig"><a href="https://www.instagram.com/fonasachile/" target="_blank"></a></li>				<li class="in"><a href="https://cl.linkedin.com/company/fonasachile" target="_blank"></a></li>              </ul>
+            </div>
+          </div>
+		  	  
+        </div>
+      </div>
+      <div class="row px-4 py-4 mapa-sitio">
+        <div class="col-12 col-lg-3">
+          <ul class="p-0">
+			<li class="heading mb-3"><strong>INFORMACIÓN INSTITUCIONAL</strong></li><li class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.fonasa.gob.cl/conoce-fonasa/" target="">Conoce Fonasa</a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.fonasa.gob.cl/conoce-fonasa/acerca-de-fonasa/organigrama/" target="">Equipo Directivo y Organigrama</a></li><li class=" menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.fonasa.gob.cl/conoce-fonasa/consejo-asesor/" target="">Consejo Asesor Estratégico y Consultivo</a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.fonasa.gob.cl/trabaja-con-nosotros/" target="">Trabaja con nosotros</a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.fonasa.gob.cl/patrimonio/" target="">Patrimonio Fonasa</a></li>          </ul>
+        </div>
+        <div class="col-12 col-lg-3">
+          <ul class="p-0">
+			<li class="heading mb-3"><strong>TRANSPARENCIA</strong></li><li class=" menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.leylobby.gob.cl/instituciones/AO004" target="_blank">Ley de lobby</a></li><li class=" menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.portaltransparencia.cl/PortalPdT/pdtta?codOrganismo=AO004" target="_blank">Gobierno transparente</a></li><li class=" menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.portaltransparencia.cl/PortalPdT/web/guest/directorio-de-organismos-regulados?p_p_id=pdtorganismos_WAR_pdtorganismosportlet&orgcode=f4fe909678d76a3593f1f9cc058ef843" target="_blank">Solicitud de información por Ley de transparencia</a></li><li class=" menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.mercadopublico.cl/Portal/FeedOrg.aspx?qs=NyY6J7uXkrOxB8AVnml1bA==" target="_blank">Accesos a compras públicas</a></li>  
+          </ul>
+        </div>
+        <div class="col-12 col-lg-3">
+          <ul class="p-0">
+            <li class="heading mb-3"><strong>COMUNÍCATE CON FONASA</strong></li><li class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.fonasa.gob.cl/sucursales/" target="">Sucursales y puntos de contacto</a></li><li class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.fonasa.gob.cl/consulta-reclamo-sugerencia-felicitacion-o-solicitud/" target="">Consultas, reclamos y sugerencias</a></li><li class=" menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.fonasa.gob.cl/participacion-ciudadana" target="">Participación ciudadana</a></li>          </ul>
+        </div>
+        <div class="col-12 col-lg-3">
+          <ul class="p-0">
+            <li class="heading mb-3"><strong>INSTITUCIONES RELACIONADAS</strong></li><li class=" menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.minsal.cl/" target="_blank">Ministerio de Salud</a></li><li class=" menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.supersalud.gob.cl/" target="_blank">Superintendencia de Salud</a></li><li class=" menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.cenabast.cl/" target="_blank">CENABAST</a></li><li class=" menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.ispch.cl/" target="_blank">ISP</a></li><li class=" menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.chileatiende.gob.cl/" target="_blank">ChileAtiende</a></li>          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<style id='core-block-supports-inline-css' type='text/css'>
+/**
+ * Core styles: block-supports
+ */
+
+</style>
+<script type="text/javascript" src="https://www.fonasa.gob.cl/wp-includes/js/jquery/ui/mouse.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://www.fonasa.gob.cl/wp-includes/js/jquery/ui/slider.js?ver=1.13.3" id="jquery-ui-slider-js"></script>
+<script type="text/javascript" src="https://www.fonasa.gob.cl/wp-content/themes/tema_fonasa/js/jquery.min.js?ver=6.7.3" id="jquery-fonasa-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js?ver=6.7.3" id="popper-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js?ver=6.7.3" id="bootstrap-js"></script>
+<script type="text/javascript" src="https://www.fonasa.gob.cl/wp-content/themes/tema_fonasa/js/slick.min.js?ver=6.7.3" id="slick-js"></script>
+<script type="text/javascript" src="https://www.fonasa.gob.cl/wp-content/themes/tema_fonasa/js/jquery.pagination.js?ver=6.7.3" id="pagination-js"></script>
+<script type="text/javascript" src="https://www.fonasa.gob.cl/wp-content/themes/tema_fonasa/js/fonasa.js?ver=6.7.3" id="fonasa-js"></script>
+<script type="text/javascript" id="fonasa-js-after">
+/* <![CDATA[ */
+var myScriptData = {"ajaxurl":"https:\/\/www.fonasa.gob.cl\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+</body>
+</html>

@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang="es-CL">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Guía de la Vida Rentable · Chile</title>
+<meta name="description" content="Guía chilena ordenada por costo/beneficio: salud y prevención, plata, emergencias, trabajo, vivienda, familia y trámites. Cada recomendación declara cuánto cuesta, qué devuelve, qué tan dura es la evidencia y la fuente oficial.">
+<meta name="theme-color" content="#0f172a">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230f172a'/%3E%3Cpath d='M17 33l10 11 20-24' fill='none' stroke='white' stroke-width='7' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<style>
+:root{
+  --bg:#ffffff; --bg-alt:#f5f6f8; --card:#ffffff; --line:#e3e6ea;
+  --t1:#161a1d; --t2:#4a5158; --t3:#7a838c;
+  --brand:#0f172a; --brand2:#1d4ed8; --soft:rgba(29,78,216,.10);
+  --a:#166534; --a-bg:rgba(22,101,52,.12);
+  --b:#92400e; --b-bg:rgba(180,83,9,.12);
+  --c:#475569; --c-bg:rgba(71,85,105,.12);
+  --alto:#b91c1c; --alto-bg:rgba(185,28,28,.10);
+  --shadow:0 1px 2px rgba(16,24,40,.05),0 1px 3px rgba(16,24,40,.07);
+}
+html.dark{
+  --bg:#0e1116; --bg-alt:#141922; --card:#151a22; --line:#242b36;
+  --t1:#e9edf2; --t2:#b3bcc7; --t3:#8792a0;
+  --brand:#e9edf2; --brand2:#7aa2ff; --soft:rgba(122,162,255,.14);
+  --a:#6ee7a8; --a-bg:rgba(110,231,168,.14);
+  --b:#f5c168; --b-bg:rgba(245,193,104,.14);
+  --c:#a3b1c2; --c-bg:rgba(163,177,194,.14);
+  --alto:#ff8b8b; --alto-bg:rgba(255,139,139,.12);
+  --shadow:none;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--t1);
+  font:16px/1.6 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Inter,sans-serif}
+a{color:var(--brand2)}
+header{position:sticky;top:0;z-index:20;background:var(--bg);border-bottom:1px solid var(--line);
+  padding:14px 20px;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.brand{font-weight:700;letter-spacing:-.01em;font-size:17px}
+.brand small{display:block;font-weight:400;color:var(--t3);font-size:12px;letter-spacing:0}
+.buscar{flex:1;min-width:220px}
+input[type=search]{width:100%;padding:11px 14px;border:1px solid var(--line);border-radius:10px;
+  background:var(--bg-alt);color:var(--t1);font-size:15px;outline:none}
+input[type=search]:focus{border-color:var(--brand2);background:var(--card)}
+main{max-width:1080px;margin:0 auto;padding:20px}
+.filtros{display:flex;gap:22px;flex-wrap:wrap;margin-bottom:8px;
+  background:var(--bg-alt);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.grupo{display:flex;flex-direction:column;gap:6px}
+.grupo>span{font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--t3);font-weight:600}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{border:1px solid var(--line);background:var(--card);color:var(--t2);border-radius:999px;
+  padding:5px 11px;font-size:13px;cursor:pointer;user-select:none}
+.chip:hover{border-color:var(--brand2);color:var(--t1)}
+.chip.on{background:var(--brand2);border-color:var(--brand2);color:#fff;font-weight:600}
+.estado{color:var(--t3);font-size:14px;margin:14px 2px}
+.lista{display:flex;flex-direction:column;gap:12px}
+.item{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px;box-shadow:var(--shadow)}
+.item h3{margin:0 0 4px;font-size:16.5px;line-height:1.4}
+.item .meta{font-size:12.5px;color:var(--t3);margin-bottom:10px}
+.simple{background:var(--soft);border-left:3px solid var(--brand2);border-radius:0 8px 8px 0;
+  padding:10px 13px;margin:10px 0;font-size:15px}
+.campo{font-size:14px;color:var(--t2);margin:6px 0}
+.campo b{color:var(--t1);font-weight:600}
+.fuentes{font-size:12.5px;color:var(--t3);word-break:break-word}
+.fuentes a{color:var(--t3);text-decoration:underline}
+.tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px}
+.tag{font-size:11.5px;padding:3px 9px;border-radius:6px;background:var(--c-bg);color:var(--c);font-weight:600}
+.tag.ev-A{background:var(--a-bg);color:var(--a)}
+.tag.ev-B{background:var(--b-bg);color:var(--b)}
+.tag.ev-C{background:var(--c-bg);color:var(--c)}
+.tag.alto{background:var(--alto-bg);color:var(--alto)}
+.tag.medida{background:var(--soft);color:var(--brand2)}
+.pendiente{font-size:11.5px;padding:3px 9px;border-radius:6px;background:var(--b-bg);color:var(--b);font-weight:600}
+footer{max-width:1080px;margin:40px auto;padding:20px;border-top:1px solid var(--line);
+  color:var(--t3);font-size:13px}
+.tema{margin-left:auto;border:1px solid var(--line);background:var(--card);color:var(--t2);
+  border-radius:9px;padding:8px 12px;cursor:pointer;font-size:14px}
+.vacio{padding:48px 20px;text-align:center;color:var(--t3)}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">Guía de la Vida Rentable<small>Chile · costo / beneficio · evidencia</small></div>
+  <div class="buscar"><input type="search" id="q" placeholder="Buscar: presión, finiquito, arriendo, cesantía, ACV…" autocomplete="off"></div>
+  <button class="tema" id="tema">◐ Tema</button>
+</header>
+
+<main>
+  <div class="filtros">
+    <div class="grupo"><span>Grado de evidencia</span><div class="chips" id="f-ev"></div></div>
+    <div class="grupo"><span>Plata</span><div class="chips" id="f-plata"></div></div>
+    <div class="grupo"><span>Tiempo</span><div class="chips" id="f-tiempo"></div></div>
+    <div class="grupo"><span>Aguante</span><div class="chips" id="f-aguante"></div></div>
+    <div class="grupo"><span>Beneficio</span><div class="chips" id="f-beneficio"></div></div>
+    <div class="grupo"><span>Lo que ganas</span><div class="chips" id="f-medida"></div></div>
+    <div class="grupo"><span>Capítulo</span><div class="chips" id="f-cap"></div></div>
+  </div>
+  <div class="estado" id="estado">Cargando…</div>
+  <div class="lista" id="lista"></div>
+</main>
+
+<footer>
+  <p><b>Guía de la Vida Rentable · Chile</b> es una adaptación de
+  <a href="https://github.com/dlgrv/HowToLiveBetter">HowToLiveBetter</a> (Unlicense).
+  Elaborada con fuentes oficiales: leyes en LeyChile, MINSAL, Dirección del Trabajo, CMF, SERNAC,
+  SUSESO, SII, INE, Registro Civil y publicaciones con DOI.</p>
+  <p>Los montos, plazos y trámites cambian. Los datos marcados como <span class="pendiente">POR VERIFICAR</span>
+  están pendientes de verificación contra la fuente oficial: no los uses para decidir sin comprobarlos.
+  Esta guía no es asesoría médica, legal ni financiera.</p>
+  <p><a href="README.md">Leer la guía completa</a> · <a href="ADAPTACION.md">Reglas del proyecto</a></p>
+</footer>
+
+<script>
+"use strict";
+const DIM = {
+  ev:      {clave:"evidencia",  vals:["A","B","C"]},
+  plata:   {clave:"plata",      vals:["0","poco","mucho"]},
+  tiempo:  {clave:"tiempo",     vals:["poco","medio","mucho"]},
+  aguante: {clave:"aguante",    vals:["no","algo","si"]},
+  beneficio:{clave:"beneficio_nivel", vals:["alto","medio","bajo"]},
+  medida:  {clave:"medida",     vals:["muerte","plata","tiempo","libertad"]}
+};
+const ETIQUETA = {
+  ev:{A:"A · evidencia fuerte", B:"B · evidencia media", C:"C · consenso"},
+  plata:{"0":"gratis","poco":"hasta ~$30.000","mucho":"cientos de miles"},
+  tiempo:{poco:"minutos", medio:"horas/semana", mucho:"todos los días"},
+  aguante:{no:"una vez", algo:"cambiar un hábito", si:"todos los días"},
+  beneficio:{alto:"alto", medio:"medio", bajo:"bajo"},
+  medida:{muerte:"vida", plata:"plata", tiempo:"tiempo", libertad:"libertad"}
+};
+const sel = {};
+let ITEMS = [], CAPS = [];
+
+const normal = s => (s||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");
+const esc = s => (s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const evBase = e => ((e||"?").split("(")[0] || "?").trim().toUpperCase();
+
+function chips(){
+  for (const [dim, cfg] of Object.entries(DIM)){
+    const caja = document.getElementById("f-"+dim);
+    caja.innerHTML = "";
+    for (const v of cfg.vals){
+      const b = document.createElement("button");
+      b.className = "chip" + ((sel[dim]||new Set()).has(v) ? " on" : "");
+      b.textContent = (ETIQUETA[dim] && ETIQUETA[dim][v]) || v;
+      b.onclick = () => {
+        sel[dim] = sel[dim] || new Set();
+        sel[dim].has(v) ? sel[dim].delete(v) : sel[dim].add(v);
+        chips(); pintar();
+      };
+      caja.appendChild(b);
+    }
+  }
+  const caja = document.getElementById("f-cap");
+  caja.innerHTML = "";
+  for (const c of CAPS){
+    const b = document.createElement("button");
+    b.className = "chip" + ((sel.cap||new Set()).has(c.archivo) ? " on" : "");
+    b.textContent = c.titulo.replace(/^\d+\.\s*/, "");
+    b.onclick = () => {
+      sel.cap = sel.cap || new Set();
+      sel.cap.has(c.archivo) ? sel.cap.delete(c.archivo) : sel.cap.add(c.archivo);
+      chips(); pintar();
+    };
+    caja.appendChild(b);
+  }
+}
+
+function pasa(it){
+  for (const dim of ["plata","tiempo","aguante","beneficio","medida"]){
+    const s = sel[dim];
+    if (s && s.size && !s.has(it[DIM[dim].clave])) return false;
+  }
+  if (sel.ev && sel.ev.size && !sel.ev.has(evBase(it.evidencia))) return false;
+  if (sel.cap && sel.cap.size && !sel.cap.has(it.archivo)) return false;
+  const q = normal(document.getElementById("q").value.trim());
+  if (q){
+    const palabras = q.split(/\s+/);
+    if (!palabras.every(p => it.busqueda.includes(p))) return false;
+  }
+  return true;
+}
+
+function tarjeta(it){
+  const ev = evBase(it.evidencia);
+  const pend = /POR VERIFICAR/.test((it.notas||"") + (it.beneficio||""));
+  const fuentes = (it.urls||[]).map(u => {
+    let etiqueta = u;
+    try { etiqueta = new URL(u).hostname.replace(/^www\./,""); } catch(e){}
+    return `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(etiqueta)}</a>`;
+  }).join(" · ");
+  return `<article class="item">
+    <h3>${esc(it.titulo)}</h3>
+    <div class="meta">Capítulo ${esc(it.capitulo)} · ítem ${it.numero}</div>
+    ${it.simple ? `<div class="simple">${esc(it.simple)}</div>` : ""}
+    ${it.costo ? `<div class="campo"><b>Costo:</b> ${esc(it.costo)}</div>` : ""}
+    ${it.beneficio ? `<div class="campo"><b>Beneficio:</b> ${esc(it.beneficio)}</div>` : ""}
+    ${fuentes ? `<div class="fuentes"><b>Fuentes:</b> ${fuentes}</div>` : ""}
+    <div class="tags">
+      <span class="tag ev-${esc(ev)}">Evidencia ${esc(ev)}</span>
+      <span class="tag medida">${esc(ETIQUETA.medida[it.medida]||it.medida||"?")}</span>
+      <span class="tag ${it.beneficio_nivel==="alto"?"alto":""}">Beneficio ${esc(ETIQUETA.beneficio[it.beneficio_nivel]||it.beneficio_nivel||"?")}</span>
+      <span class="tag">Plata: ${esc(ETIQUETA.plata[it.plata]||it.plata||"?")}</span>
+      <span class="tag">Tiempo: ${esc(ETIQUETA.tiempo[it.tiempo]||it.tiempo||"?")}</span>
+      <span class="tag">Aguante: ${esc(ETIQUETA.aguante[it.aguante]||it.aguante||"?")}</span>
+      ${pend ? `<span class="pendiente">POR VERIFICAR</span>` : ""}
+    </div>
+  </article>`;
+}
+
+function pintar(){
+  const vis = ITEMS.filter(pasa);
+  const total = ITEMS.length;
+  document.getElementById("estado").textContent =
+    vis.length === total
+      ? `${total} recomendaciones en ${CAPS.length} capítulos.`
+      : `${vis.length} de ${total} recomendaciones.`;
+  const lista = document.getElementById("lista");
+  if (!vis.length){
+    lista.innerHTML = `<div class="vacio">Nada calza con esos filtros. Prueba con menos condiciones.</div>`;
+    return;
+  }
+  // Las de beneficio alto y costo cero primero: es la lógica de la guía.
+  const peso = it => {
+    let p = 0;
+    if (it.beneficio_nivel === "alto") p -= 4;
+    if (it.beneficio_nivel === "medio") p -= 2;
+    for (const k of ["plata","tiempo","aguante"]){
+      const v = it[k];
+      p += (v === "0" || v === "no" || v === "poco") ? 0 : (v === "mucho" ? 2 : 1);
+    }
+    return p;
+  };
+  lista.innerHTML = vis.slice()
+    .map(it => [peso(it), it])
+    .sort((a,b) => a[0] - b[0])
+    .map(([,it]) => tarjeta(it))
+    .join("");
+}
+
+document.getElementById("q").addEventListener("input", pintar);
+document.getElementById("tema").onclick = () => {
+  document.documentElement.classList.toggle("dark");
+  try { localStorage.setItem("tema", document.documentElement.classList.contains("dark") ? "dark" : "light"); } catch(e){}
+};
+try {
+  const guardado = localStorage.getItem("tema");
+  if (guardado === "dark" || (!guardado && matchMedia("(prefers-color-scheme: dark)").matches))
+    document.documentElement.classList.add("dark");
+} catch(e){}
+
+fetch("datos.json", {cache:"no-cache"})
+  .then(r => r.json())
+  .then(d => {
+    ITEMS = d.items || [];
+    CAPS = d.capitulos || [];
+    chips(); pintar();
+    const qs = new URLSearchParams(location.search).get("q");
+    if (qs){ document.getElementById("q").value = qs; pintar(); }
+  })
+  .catch(() => {
+    document.getElementById("estado").textContent =
+      "No se pudo cargar datos.json. Corre: python3 tools/construir.py";
+  });
+</script>
+</body>
+</html>

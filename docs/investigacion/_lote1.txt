@@ -1,0 +1,13 @@
+# nombre<TAB>url   — lote de fuentes oficiales de salud para HowToLiveBetter-CL
+deis_home	https://deis.minsal.cl/
+auge_home	https://auge.minsal.cl/
+auge_garantias	https://auge.minsal.cl/garantias/
+auge_patologias	https://auge.minsal.cl/patologias/
+fonasa_tramos	https://nuevo.fonasa.gob.cl/tramos/
+fonasa_copago_cero	https://www.chileatiende.gob.cl/fichas/9793-copago-cero-de-fonasa
+supersalud_ges	https://www.superdesalud.gob.cl/tax-temas-de-orientacion/garantias-explicitas-en-salud-ges-1962/
+chileatiende_ges	https://www.chileatiende.gob.cl/fichas/2464-plan-auge-ges
+minsal_campana_2026	https://www.minsal.cl/campana-de-vacunacion-e-inmunizacion-2026/
+vacunas_calendario	https://vacunas.minsal.cl/
+saludresponde_calendarios	https://saludresponde.minsal.cl/calendarios-de-vacunacion/
+chileatiende_licencia	https://www.chileatiende.gob.cl/fichas/53052-licencia-medica-afiliados-a-fonasa

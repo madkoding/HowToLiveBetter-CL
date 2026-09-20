@@ -1,0 +1,1303 @@
+ENCUESTA NACIONAL DE SALUD 2016-2017
+Primeros resultados
+Departamento de Epidemiología
+División de Planificación Sanitaria
+Subsecretaría de Salud Pública
+Santiago, noviembre 2017
+
+CONTENIDOS
+I. Introducción
+II. Aspectos Metodológicos
+III. Primeros resultados Encuesta Nacional de Salud (ENS): 
+1. Consumo de tabaco
+2. Consumo de alcohol
+3. Sedentarismo
+4. Consumo de frutas y verduras
+5. Estado nutricional
+6. Sospecha hipertensión arterial
+7. Sospecha diabetes mellitus
+8. Autoreporte de infarto agudo al miocardio
+9. Autoreporte de ataque cerebrovascular
+10. Sexualidad
+IV. Conclusiones
+
+Introducción
+
+INTRODUCCIÓN
+¿QUÉ ES LA ENCUESTA NACIONAL DE SALUD ?
+La Encuesta Nacional de Salud (ENS) es una herramienta que utiliza el Ministerio
+de Salud para saber qué enfermedades y qué tratamientos están recibiendo
+hombres y mujeres de 15 años y más que viven en Chile.
+La información que arroja esta encuesta es de vital importancia para formular los
+planes de prevención, atención y las políticas de salud para las personas que lo
+necesitan.
+En esta oportunidad, el Ministerio de Salud ha realizado un esfuerzo enorme,
+incorporando la medición de aproximadamente 60 problemas de salud o
+enfermedades priorizadas, junto con los principales factores de riesgo, protectores
+y sus determinantes en la salud de las personas.
+
+EXPOSICIÓN A 
+FACTORES DE RIESGO
+•Toxicidad del factor
+•Tiempo de exposición
+•Concentración ambiental
+•Magnitud del factor
+•Otros
+ETAPA PRE-CLÍNICA
+•Cambios fisiológicos 
+reversibles
+•Cambios fisiológicos 
+irreversibles
+•Período asintomático
+ETAPA CLÍNICA
+•Período sintomático
+DESENLACE
+•Curación
+•Paso a cronicidad
+•Complicaciones
+•Discapacidad 
+•Muerte
+MODELO DE VIGILANCIA DE ENFERMEDADES NO TRANSMISIBLES 
+Y SUS FACTORES DE RIESGO (VENT). NORMA 123, MINSAL
+HISTORIA NATURAL DE LA ENFERMEDAD
+Vigilancia a través de las Encuestas Poblacionales de Salud 
+Fuente: http://epi.minsal.cl/wp-content/uploads/2016/03/NormaTecnicaVENT.pdf , MINSAL 22,07,2011
+1993 
+REVEP
+2003 
+ENS
+2006 
+ENCAVI
+2009-10 
+ENS
+2011
+ENETS
+2013 
+EMSE
+2015
+ENCAVI
+EMTJ 2016
+2016-17
+ENS
+2003
+EMTJ
+2008
+EMTJ
+2005 
+EMSE
+2000
+EMTJ
+2000
+ENCAVI
+ENCUESTAS POBLACIONALES EN CHILE
+INTRODUCCIÓN
+Aspectos Metodológicos
+FICHA TÉCNICA ENS 2016-17
+Organismo responsable Ministerio de Salud, Departamento de Epidemiología
+Gobierno de Chile.
+Organismo ejecutor PUC (Pontificia Universidad Católica de Chile).
+Costo
+Diseño Encuesta poblacional de tipo transversal
+Población objetivo Personas de 15 años y más, chilenas o extranjeras que residen habitualmente en viviendas 
+particulares ocupadas, localizadas en zonas urbanas y rurales de las quince regiones de Chile.
+Representatividad Nacional, regional y Urbano/Rural.
+Modo de aplicación Entrevista personal en hogar (Sistema de captura electrónica: Tablet), aplicada por 
+encuestador y profesional enfermera de acuerdo al tipo de cuestionario.
+Período de trabajo de campo Agosto 2016 a marzo 2017
+Tamaño muestral 6.233 encuestados, de los cuales 5.520 cuentan con exámenes de laboratorio de acuerdo a 
+protocolo.
+Error muestral Error absoluto de muestreo de 2,6% a nivel nacional, raíz del efecto de diseño de 1,797,
+estimaciones con 95% de confianza y error relativo inferior a 30%.
+Tasa de respuesta y 
+participación
+Tasa de respuesta en la vivienda RR1 = 66% (67% de elegibles)y tasa de participación 90,2%.
+ASPECTOS METODOLÓGICOS
+Ámbito 2003/2004 2009/2010 2016/2017
+Población 17 y más años 15 y más años 15 y más años
+Condiciones de salud 21 42 54
+Representatividad Nacional y VIII región, zona 
+urbano/rural
+Nacional, 15 regiones, 
+zona urbano/rural
+Nacional, 15 regiones, zona 
+urbano/rural
+Diseño muestral Aleatoria, estratificada; 
+submuestra
+ENCAVI(Encuesta de Calidad
+de Vida)
+Aleatoria, estratificada por 
+conglomerado
+Aleatoria, estratificada por 
+conglomerado
+Muestra lograda 3.619 encuestados 5.412 encuestados 6.233 encuestados
+Cuestionario (nº 
+preguntas)
+138 511 576 + CIDI (Entrevista 
+Diagnóstica Internacional 
+Compuesta para medir 
+trastornos mentales)
+Mediciones 
+antropométricas 
+Peso, talla, circunferencia 
+abdominal
+Peso, talla, circunferencia 
+abdominal y de cuello
+Peso, talla y circunferencia 
+abdominal
+Exámenes de 
+laboratorio
+12 22 25 
+Duración de visitas 
+(min.)
+2 visitas (30 y 60) 2 visitas (80 y 60) 4 visitas (80; 60; 60; 20)
+ASPECTOS METODOLÓGICOS
+• Asentimiento en edades de 15 a 17 años y consentimiento 
+informado  de representante del menor.                                                                                
+• En población de 18 y más años consentimiento informado.
+Consentimientos
+• Cuestionario aplicado por encuestador capacitado.
+• Se aplicó a toda la población objetivo (6.233).F1: Cuestionario 1
+• Cuestionario y mediciones biométricas por profesional de salud 
+capacitada.
+• Se aplicó a la población objetivo de acuerdo a lo definido para  
+cada examen (5.520).
+F2: Cuestionario 2
+• Cuestionario CIDI de salud mental aplicado por encuestador 
+capacitado a muestra de la población de 18 años y más, que  
+cumplían criterios de inclusión (3.500).
+F3: Cuestionario 3
+• Cuestionario para evaluación de rezago respondido por el 
+cuidador de los niños y niñas, de edades entre 7 meses y 4 años 
+11 meses 29 días (984).
+F4: Cuestionario 4
+CONTENIDOS DE LA ENCUESTA
+ENCUESTA NACIONAL DE 
+SALUD 2016-2017
+Encuesta 
+poblacional al 
+individuo
+Encuesta de 
+salud mental
+Encuesta de riesgo 
+de rezago infantil
+15 años y más.
+40 problemas de salud.
+35 factores de riesgo y 
+protectores
+9 temas en salud de las 
+personas.
+18 años y más.
+Utilización de 
+instrumento CIDI para 
+diagnóstico de patología 
+psiquiátrica.
+Encuesta al cuidador de 
+niños y niñas de 7 meses 
+a 4 años 11 meses 29 
+días en el hogar.
+Identificación de retraso 
+y rezago.
+Primeros resultados 2016-2017
+(ENS)
+
+CARACTERIZACIÓN DE LA MUESTRA LOGRADA
+Sexo
+37,1%
+62,9%
+EdadPaís
+13,4%
+29,1%
+33,1%
+24,3%
+15-24
+25 - 44
+45 - 64
+65+
+Años de estudio cursados y 
+aprobados
+23,7
+53,3
+22,0
+0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+< 8 años 8-12 años 12 o más años
+%
+Nº total: 6.233
+Hombres: 2.315
+Mujeres : 3.918
+5,8%
+5,5%
+5,4%
+4,9%
+5,3%
+10,7%
+14,6%
+5,3%
+5,9%
+10,6%
+5,2%
+5,2%
+5,6%
+5,2%
+4,9%
+0% 5% 10% 15% 20%
+ Arica y Parinacota
+Tarapacá
+Antofagasta
+ Atacama
+Coquimbo
+Valparaíso
+Metropolitana
+ L. Bdo. O'Higgins
+ Maule
+ Biobío
+ La Araucanía
+ Los Ríos
+ Los Lagos
+ Aysén
+Magallanes y Antártica
+14
+14
+CONSUMO DE TABACO
+Prevalencia que responde a “consumo de cigarrillo actual”: individuo que declara no consumir cigarrillos de forma diaria u ocasional.  
+Intervalo de Confianza (IC) 95% 
+Elaborado por Departamento de Epidemiología
+Población no fumadora, ENS 2016-17
+66,7% nacional
+Población fumadora, ENS 2016-17
+33,3% nacional
+Elaborado por Departamento de Epidemiología
+43,5% 48,9%
+38,3%39,8% 43,4% 36,5%33,3% 37,8%
+29,1%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Total País Hombre Mujer
+2003 2009-10 2016-17
+Se entiende por “consumo de cigarrillo actual” al individuo que declara consumir cigarrillos de forma diaria u ocasional.  
+Total país: diferencias estadísticamente significativas entre la ENS 2016-17, respecto a ENS 2009-10 (IC) 95%.
+Se observa menor prevalencia en mujeres que en hombres estadísticamente significativo(IC 95%).
+Mujer: diferencias estadísticamente significativas entre la ENS 2016-17, respecto a la ENS 2009-10 (IC 95%).
+Consumo de cigarrillo actual (% que respondió Sí) total país y según sexo. 
+ENS 2003, 2009-10 y 2016-17
+Ta3. ¿Actualmente Usted fuma cigarrillos?
+CONSUMO DE TABACO
+
+Se entiende por “consumo de cigarrillo actual” al individuo que declara consumir cigarrillos de forma diaria u ocasional. 
+El grupo de 20-29 años, se observan diferencias estadísticamente significativas entre la ENS 2016-17 y año 2009-10 (IC  95%).
+En los grupos 15 a 19 y 65 y +, se observan diferencias estadísticamente significativas en relación al resto de los grupos de edad.
+CONSUMO DE TABACO
+Elaborado por Departamento de Epidemiología
+35,1%
+60,5%
+43,0%
+33,1%
+12,3%
+22,8%
+41,1% 41,4%
+30,7%
+12,8%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+15-19 20-29 30-49 50-64 65+
+2009-10 2016-17
+Consumo de cigarrillo actual (% que respondió Sí) según grupos de edad. 
+ENS 2009-10 y 2016-17
+Ta3. ¿Actualmente Usted fuma cigarrillos?
+
+Elaborado por Departamento de Epidemiología
+Se entiende por “consumo de cigarrillo actual” al individuo que declara consumir cigarrillos de forma diaria u ocasional. 
+En el grupo de <8 años de estudio, se observa diferencia estadísticamente significativa en relación a los otros dos grupos (IC 95%).
+En el grupo de 12 o más años, se observa diferencia estadísticamente significativa entre  ENS 2009-10 y medición actual (IC 95%).
+CONSUMO DE TABACO
+Consumo de cigarrillo actual (% que respondió Sí), según años de estudio cursados. 
+ENS 2009-10 y 2016-17
+Ta3. ¿Actualmente Usted fuma cigarrillos?
+24,7%
+40,6%
+49,9%
+18,0%
+35,0% 38,9%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+< 8 años 8-12 años 12 o más años
+2009-10 2016-17
+
+Elaborado por Departamento de Epidemiología
+Se omite categoría de respuesta “No sabe/No recuerda”.
+En la categoría “menos de 1 año”, se observan diferencias estadísticamente significativas entre ENS 2009-10 y 2016-17 (IC 95%).   
+CONSUMO DE TABACO
+Cesación hábito tabáquico (% de ex fumadores). ENS 2009-2010 y 2016-2017 
+Ta.9 ¿Cuándo fue la última vez que fumó, es decir desde cuándo no fuma por lo menos un 
+cigarrillo diariamente?
+20,9%
+71,0%
+12,6%
+77,6%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Menos de 1 año Más de 1 año
+2009-10 2016-17
+
+Elaborado por Departamento de Epidemiología
+Se define “alta dependencia al tabaco” aquel encuestado que declara fumar antes de los 60 minutos después de despertar.
+En categoría “total país”, se observan diferencias estadísticamente significativas entre  la ENS 2016-17 y 2009-10 (IC 95%). 
+En categoría “hombres”, se observan diferencias estadísticamente significativas entre la ENS 2016-17 y 2009-10 (IC 95%). 
+CONSUMO DE TABACO
+Alta dependencia al tabaco (% de fumadores actuales).
+ENS 2009-10 y 2016-17 
+Ta5. ¿Cuánto tiempo pasa desde que se despierta hasta que fuma su primer cigarrillo?
+33,2% 35,4% 30,4%
+22,3% 22,4% 22,3%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Total País Hombre Mujer
+2009-10 2016-17
+
+20
+Elaborado por Departamento de Epidemiología
+Prevalencias construidas con las siguientes preguntas:
+Ta11. Durante la semana pasada, aprox. ¿Cuántas horas alguien fumó en su presencia dentro de su casa?                       
+Ta12. Durante los 7 días de la semana, aprox. ¿cuántas horas en promedio al día, acostumbra estar Ud. expuesto al humo de tabaco en su lugar de estudio o trabajo?
+Hubo un cambio en la pregunta sobre exposición al humo del tabaco en el hogar y lugar de estudio y/o trabajo. Mientras la ENS 2009-2010 preguntó por frecuencia de 
+exposición, la ENS 2016-1017 consultó por la cantidad de horas de exposición de lunes a jueves y de viernes a domingo o festivo.
+(IC 95%).
+EXPOSICIÓN PASIVA A TABACO 
+Población que NO se expone al humo de 
+tabaco en el hogar, ENS 2016-17
+84,8% nacional
+Población expuesta al humo de tabaco 
+en el hogar, ENS 2016-17
+15,2% nacional
+
+Elaborado por Departamento de Epidemiología
+Prevalencias construidas con las siguientes preguntas:
+Ta11. Durante la semana pasada, aprox. ¿Cuántas horas alguien fumó en su presencia dentro de su casa?                       
+Ta12. Durante los 7 días de la semana, aprox. ¿cuántas horas en promedio al día, acostumbra estar Ud. expuesto al humo de tabaco en su lugar de estudio o trabajo?
+Hubo un cambio en la pregunta sobre exposición al humo del tabaco en el hogar y lugar de estudio y/o trabajo. Mientras la ENS 2009-2010 preguntó por frecuencia de 
+exposición, la ENS 2016-1017 consultó por la cantidad de horas de exposición de lunes a jueves y de viernes a domingo o festivo.
+Exposición en el hogar: diferencias estadísticamente significativas entre la ENS 2016-17 y 2009-10 (IC 95%).
+EXPOSICIÓN PASIVA A TABACO 
+Exposición al humo de tabaco en el hogar y lugar de estudio y/o trabajo.
+ENS 2009-10 y 2016-17 
+31,0%
+24,8%
+15,2%
+20,3%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Exposición en el hogar Exposición en el lugar de estudio y/o trabajo
+2009-10 2016-17
+
+Elaborado por Departamento de Epidemiología
+(IC 95%).
+CONSUMO DE TABACO
+Consumo de cigarrillos mentolado y “click” (% que respondió Sí) total país y  según sexo. ENS 2016-17
+Ta14a. Habitualmente cuando fuma cigarrillos de fábrica ¿usted fuma cigarrillos mentolados?
+Ta14b. Habitualmente cuando fuma cigarrillos de fábrica ¿usted fuma cigarrillos con click?
+35,5%
+27,8%
+45,4% 44,3% 38,4%
+52,0%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Total País Hombre Mujer Total País Hombre Mujer
+Consumo cigarrillos mentolados en fumadores actuales Consumo cigarrillos con "click" en fumadores actuales
+
+CONSUMO RIESGOSO DE ALCOHOL
+Elaborado por Departamento de Epidemiología
+Análisis de Resultados de acuerdo a Test de Identificación de Trastornos Debido al Consumo de Alcohol (AUDIT C ). Puntaje ≥ 8 que considera la categorización de 
+consumo de riesgo (8 a 15 ptos.) y consumo de alto riesgo (≥ 16 ptos.).
+No se observa diferencia estadísticamente significativa entre las mediciones  2009-10 y 2016-17 (IC 95)%. 
+11,7% Nacional
+12,7%
+22,7%
+3,1%11,7%
+20,5%
+3,3%
+0%
+10%
+20%
+30%
+40%
+Total País Hombre Mujer
+2009-10 2016-17
+Consumo riesgoso de alcohol últimos 12 meses total país  y según sexo. 
+(Instrumento AUDIT C)  
+ENS 2009-10 y 2016-17
+
+CONSUMO RIESGOSO DE ALCOHOL
+Elaborado por Departamento de Epidemiología
+Análisis de resultados de acuerdo a “Test de Identificación de Trastornos Debido al Consumo de Alcohol (AUDIT C)”. Puntaje ≥ 8 que considera la categorización de 
+consumo de riesgo (8 a 15 ptos.) y consumo de alto riesgo (≥ 16 ptos.).
+No se observa diferencia estadísticamente significativa entre las ENS 2009-10 y 2016-17 (IC 95%).
+Se observa diferencia estadísticamente significativa entre el grupo de edad 15-19 años con respecto a los grupos de 20-29 y 30-39 años (IC 95%).
+Se observa diferencia estadísticamente significativa entre el grupo de 65 años y más y el resto de los grupos (IC95%).
+Consumo riesgoso de alcohol últimos 12 meses según grupo de edad. 
+ENS 2009-10 y 2016-17
+17,1% 19,3%
+11,2% 11,4%
+4,1%
+12,2%
+18,8%
+10,4% 11,2%
+4,8%
+0%
+10%
+20%
+30%
+40%
+15-19 20-29 30-39 40-64 65+
+2009-10 2016-17
+CONSUMO RIESGOSO DE ALCOHOL
+Elaborado por Departamento de Epidemiología
+Análisis de resultados de acuerdo a “Test de Identificación de Trastornos Debido al Consumo de Alcohol (AUDIT C)”. Puntaje ≥ 8 que considera la categorización de 
+consumo de riesgo (8 a 15 ptos.) y consumo de alto riesgo (≥ 16 ptos.).
+En nivel educacional 8-12 años, se observa diferencia estadísticamente significativa entre ENS 2009-10 y 2016-17 (IC  95%). 
+Consumo riesgoso de alcohol últimos 12 meses según años de estudio cursados.
+ENS 2009-10 y 2016-17
+12,8% 14,2%
+9,1%13,1% 10,0% 9,9%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+< 8 años 8-12 años >12 años
+2009-10 2016-17
+
+CONSUMO RIESGOSO DE ALCOHOL
+Elaborado por Departamento de Epidemiología
+Análisis de resultados de acuerdo a “Test de Identificación de Trastornos Debido al Consumo de Alcohol (AUDIT C)”. Puntaje ≥ 8 que considera la categorización de 
+consumo de riesgo (8 a 15 ptos.) y consumo de alto riesgo (≥ 16 ptos.).
+Tanto en hombres como en mujeres, no se observan diferencias estadísticamente significativas al comparar las ENS 2009-10 y 2016-17 (IC 95%).
+Consumo riesgoso de alcohol últimos 12 
+meses en mujeres. ENS 2009-10 y 2016-17
+27,3%
+33,8%
+17,4%
+22,1%
+8,6%
+17,8%
+28,4%
+17,7%
+21,3%
+11,1%
+0%
+10%
+20%
+30%
+40%
+15-19 20-29 30-39 40-64 65+
+2009-10 2016-17
+Consumo riesgoso de alcohol  últimos 12 meses en hombres. 
+ENS 2009-10 y 2016-17
+5,7% 4,9%
+3,9%
+2,2%
+0,7%6,8% 7,8% 2,5% 2,0%
+0,0%
+0%
+10%
+20%
+30%
+40%
+15-19 20-29 30-39 40-64 65+
+2009-10 2016-17
+SEDENTARISMO
+Elaborado por Departamento de Epidemiología
+Se entiende por “sedentarismo en el último mes”, aquellos individuos que en los últimos 30 días NO practicaron deporte o realizaron actividad física fuera de su horario 
+de trabajo, durante 30 minutos o más cada vez, 3 o más veces por semana.
+No se observan diferencias estadísticamente significativas entre las distintas mediciones ENS 2003, 2009-10 y 2016-17  (IC 95%).
+Se observa diferencia significativa entre hombres y mujeres en la ENS 2016-17 .
+Sedentarismo en el último mes (<3 veces por semana),
+total país y según sexo. ENS 2003, 2009-10 y 2016-17
+89,4% 87,8% 90,8%88,6% 84,0%
+93,0%86,7% 83,3% 90,0%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Total País Hombre Mujer
+2003 2009-10 2016-17
+86,7% Nacional
+
+SEDENTARISMO
+Elaborado por Departamento de Epidemiología
+Se entiende por “sedentarismo en el último mes”, aquellos individuos que en los últimos 30 días no practicaron deporte o realizaron actividad física fuera de su horario de 
+trabajo, durante 30 minutos o más cada vez, 3 o más veces por semana.
+Se observa diferencia estadísticamente significativa en el grupo de edad de 30 a 49 años entre ENS 2009-10 y 2016-17 (IC 95%).
+Sedentarismo en el último mes (<3 veces por semana), según edad.
+ENS 2009-10 y 2016-17
+71,1%
+82,8%
+92,5% 92,2% 96,2%
+73,5%
+81,2% 86,2% 93,0% 94,0%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+15-19 20-29 30-49 50-64 65+
+2009-10 2016-17
+
+SEDENTARISMO
+Elaborado por Departamento de Epidemiología
+Se entiende por “sedentarismo en el último mes”, aquellos individuos que en los últimos 30 días NO practicaron deporte o realizaron actividad física fuera de su horario 
+de trabajo, durante 30 minutos o más cada vez, 3 o más veces por semana.
+Entre las categorías años de estudio, se observan diferencias estadísticamente significativas  (IC95%)
+Dentro de cada categoría, no se observan diferencias estadísticamente significativas entre ENS 2009-10 y 2016-17 (IC 95%).
+Sedentarismo en el último mes (<3 veces por semana), según años de estudio cursados. 
+ENS 2009-10 y 2016-17
+97,0% 88,6% 82,1%
+96,2%
+87,2% 79,9%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+< 8 años 8-12 años 12 o más años
+2009-10 2016-17
+
+CONSUMO DE FRUTAS Y VERDURAS 
+Elaborado por Departamento de Epidemiología
+Se entiende por “Prevalencia de consumo de frutas y verduras”, a la proporción de personas que consumen 5 o más frutas y verduras durante el día, de acuerdo a las 
+recomendaciones de la Organización Mundial de la Salud.
+No se observan diferencias significativas entre las dos últimas mediciones 2009-10 2016-17 en total país y sexo (IC 95%).
+Prevalencia de consumo de al menos 5 porciones de 
+frutas y verduras al día, total país y sexo
+15,5% 12,8%
+18,1%15,0% 13,6% 16,4%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Total país Hombre Mujer
+2009-10 2016-17
+15% Nacional
+
+CONSUMO DE FRUTAS Y VERDURAS 
+Elaborado por Departamento de Epidemiología
+No se observan diferencias significativas  entre las dos últimas mediciones 2009-10 2016-17 entre los distintos grupo de edad (IC 95%).
+Prevalencia de consumo de al menos 5 porciones de 
+frutas y verduras al día y según grupo de edad
+15,3% 13,2% 14,8% 17,9% 17,4%14,4% 13,1% 15,8% 15,7% 15,1%
+0%
+10%
+20%
+30%
+40%
+15-19 20-29 30-49 50-64 65 y mas
+2009-10 2016-17
+CONSUMO DE FRUTAS Y VERDURAS 
+Elaborado por Departamento de Epidemiología
+No se observan diferencias estadísticamente significativas entre los años medidos en años de estudio cursados (IC 95%). 
+14,8% 14,7% 18,1%
+13,7% 13,0%
+20,1%
+0%
+10%
+20%
+30%
+40%
+< 8 años 8 - 12 años >12 años
+2009-10 2016-17
+Prevalencia de consumo de al menos 5 porciones de frutas o verduras  
+al día según años de estudio cursados.
+ENS 2009-10 y 2016-17 
+CONSUMO DE FRUTAS Y VERDURAS 
+Elaborado por Departamento de Epidemiología
+Se observa diferencia estadísticamente significativa en el consumo de frutas los 7 días de la semana entre ENS 2009-10 y el 2016-17 (IC 95%).
+No se observan diferencias estadísticamente significativas en el consumo de verduras (IC 95%).
+Frecuencia de consumo de frutas y verduras total país. 
+ENS 2009-10 y 2016-17
+die6. En una semana típica, ¿Cuántos días come Ud. frutas? die8. En una semana típica, ¿Cuántos días come Ud. verduras, 
+hortalizas o ensaladas de verduras? No considerar papas ni 
+legumbres
+7,5%
+52,7%
+39,8%
+7,9%
+57,3%
+34,8%
+0
+1 a 6
+7
+Días
+2016-172009-10
+3,0%
+37,3%
+59,7%
+1,6%
+37,6%
+60,8%
+0
+1 a 6
+7
+Días
+2009-10 2016-17
+
+ESTADO NUTRICIONAL
+Categorías realizadas a partir de cálculo de índice de masa 
+corporal (IMC) (IC 95%):
+Enflaquecido: IMC < 18,5
+Normal: IMC  18,5-24,9
+Sobrepeso: IMC 25-29,9
+Obesidad: IMC 30-39,9
+Obesidad mórbida: IMC ≥ 40
+Estado nutricional, prevalencia  total país. 
+ENS 2016-17
+31,2% 
+Obeso
+39,8% 
+Sobrepeso
+1,3% 
+Enflaquecido
+24,5% 
+Normal
+3,2% 
+Obeso mórbido
+
+ESTADO NUTRICIONAL
+Elaborado por Departamento de Epidemiología
+Categorías según índice de masa corporal (IMC), enflaquecido IMC < 18,5, normal IMC 18,5 – 24,9, sobrepeso IMC 25-29,9, obesidad IMC 30-39,9 y obesidad mórbida IMC ≥ 40.
+Sobrepeso: no se observan diferencias estadísticamente significativas (IC 95%). 
+Obesidad: diferencias estadísticamente significativas entre ENS 2009-10 y 2016-17 en las tres categorías: total país, hombre y mujer (IC 95%).
+Obesidad mórbida: No se observan diferencias estadísticamente significativas (IC 95%).
+1,7% 1,3% 1,0% 1,4% 2,4% 1,1%
+34,0%
+24,5%
+34,3%
+25,0%
+33,6%
+24,0%
+39,3%
+39,8%
+45,5%
+43,3%
+33,4%
+36,4%
+22,9%
+31,2%
+18%
+28,6% 27,4%
+33,7%
+2,2% 3,2% 1,2% 1,7% 3,1% 4,7%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2009-10 2016-17 2009-10 2016-17 2009-10 2016-17
+Enflaquecido Normal Sobrepeso Obesidad Mórbida
+Total país                                                          Hombre                                                   Mujer
+Distribución del estado nutricional total país y sexo. 
+ENS 2009-10 y 2016-17 
+
+ESTADO NUTRICIONAL
+Elaborado por Departamento de Epidemiología
+Categorías según índice de masa corporal (IMC), enflaquecido IMC < 18,5, normal IMC 18,5 – 24,9, sobrepeso IMC 25-29,9, obesidad IMC 30-39,9 y obesidad mórbida IMC ≥ 40.
+Enflaquecido: se observan diferencias estadísticamente significativas en el grupo de 15-19 años respecto a los grupos de 30-49 y 50-64 años.
+Normal: se observan diferencias estadísticamente significativas en el grupo de 15-19 años, respecto a todos los otros grupos de edad. 
+Sobrepeso:  se observan diferencias estadísticamente significativas en el grupo de 15-19 años, respecto a los grupos de 30-49, 50-64 y 65 años y más. 
+Obesidad: se observan diferencias estadísticamente significativas en el grupo de 15-19 años, respecto a los grupos de 30-49, 50-64 y 65 años y más. 
+Obesidad mórbida: se observan diferencias estadísticamente significativas en el grupo de 15-19 años, respecto al grupo de 30-49 años.
+5,1% 1,8% 0,6% 0,1% 1,5%
+54,0%
+37,7%
+16,8% 14,6%
+21,7%
+27,6%
+35,8%
+42,3% 43,6%
+41,2%
+12,2%
+22,5%
+35,3% 38,1%
+34,5%
+1,0% 2,1% 4,9% 3,6% 1,1%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+15-19 20-29 30-49 50-64 65+
+Enflaquecido Normal Sobrepeso Obesidad Mórbida
+Distribución del estado nutricional según grupo de edad.                                                                           
+ENS 2016-17 
+ESTADO NUTRICIONAL
+Elaborado por Departamento de Epidemiología
+Categorías según índice de masa corporal (IMC), enflaquecido IMC < 18,5, normal IMC 18,5 – 24,9, sobrepeso IMC 25-29,9, obesidad IMC 30-39,9 y obesidad mórbida IMC ≥ 40.
+Se observa diferencia estadísticamente significativa de obesidad entre categorías <8 años y siquientes categorías (IC 95%).
+Distribución de estado nutricional, según años de estudio cursados. 
+ENS 2016-17 
+
+SOSPECHA DE HIPERTENSIÓN ARTERIAL (HTA)
+Elaborado por Departamento de Epidemiología
+Se entiende por “sospecha de HTA”, a personas con autoreporte y/o tratamiento médico HTA o con presión elevada mayor 140/90 (promedio con 3 tomas de presión arterial). En el 
+año 2003 se realizaron 2 tomas de presión arterial.
+No se observan diferencias estadísticamente significativas  entre las dos últimas mediciones en total país y sexo (IC 95%). 
+Sospecha de HTA total país y según sexo.
+ENS 2003, 2009-10 y 2016-17
+27,6% nacional
+33,7% 36,7% 30,8%26,5% 28,1% 25,0%27,6% 27,5% 27,7%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+Total país Hombres Mujeres
+2003 2009-10 2016-17
+
+SOSPECHA DE HIPERTENSIÓN ARTERIAL (HTA)
+Elaborado por Departamento de Epidemiología
+Se entiende por “sospecha de HTA”, a personas con autoreporte y/o tratamiento médico HTA o con presión elevada mayor 140/90 (promedio con 3 tomas de presión arterial). En el 
+año 2003 se realizaron 2 tomas de presión arterial.
+No se observan diferencias estadísticamente significativas (IC 95%).
+Sospecha de HTA según grupos de edad.
+ENS 2009-10 y 2016-17
+2,2% 12,9%
+43,2%
+74,7%
+0,7% 10,6%
+45,1%
+73,3%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+15 - 24 25 - 44 45 - 64 65 y +
+2009-10 2016-17
+SOSPECHA DE HIPERTENSIÓN ARTERIAL (HTA)
+Elaborado por Departamento de Epidemiología
+Se entiende por “sospecha de HTA”, a personas con autoreporte y/o tratamiento médico HTA o con presión elevada mayor 140/90 (promedio con 3 tomas de presión arterial). En el 
+año 2003 se realizaron 2 tomas de presión arterial.
+No se observan diferencias estadísticamente significativas (IC 95%).
+51%
+23% 16%
+57%
+25%
+15%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+< 8 años 8 - 12 años >12 años
+2009-10 2016-17
+Sospecha de HTA según región y años de estudio cursados. 
+ENS 2009-10 y 2016-17
+
+SOSPECHA DE DIABETES MELLITUS
+Elaborado por Departamento de Epidemiología
+Se entiende por “sospecha de Diabetes Mellitus” a la medición de glicemia en ayuno con resultados mayores o iguales a 126mg/dl.
+No se observan diferencias estadísticamente significativas entre las mediciones (IC 95%).
+12,3% nacional
+Sospecha de Diabetes Mellitus total país y según sexo.
+ENS 2003,2009-10 y 2016-17
+4,2% 4,8% 3,8%
+9,0% 8,3% 9,7%12,3% 10,6%
+14,0%
+0%
+10%
+20%
+30%
+40%
+Total país Hombres Mujeres
+2003 2009-10 2016-17
+
+SOSPECHA DE DIABETES MELLITUS
+Elaborado por Departamento de Epidemiología
+Se entiende por “sospecha de Diabetes Mellitus” a la medición de glicemia en ayuno con resultados mayores o iguales a 126mg/dl.
+No se observan diferencias estadísticamente significativas entre las mediciones ENS 2009-10 y ENS 2016-17 (IC 95%).
+Sospecha de Diabetes Mellitus según grupo de edad.
+ENS 2009-10 y 2016-17
+0,4% 3,8%
+15,7%
+25,7%
+1,8%
+6,3%
+18,3%
+30,6%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+15 - 24 25 - 44 45 - 64 65 y +
+2009-10 2016-17
+SOSPECHA DE DIABETES MELLITUS
+Elaborado por Departamento de Epidemiología
+Se entiende por “sospecha de Diabetes Mellitus” a la medición de glicemia en ayuno con resultados mayores o iguales a 126mg/dl.
+No se observan diferencias estadísticamente significativas entre las mediciones ENS 2009-10 y Ens 2016-17 (IC 95%).
+Sospecha de Diabetes Mellitus según años de estudio cursado.
+ENS 2009-10 y 2016-17
+19,6%
+6,8% 6,3%
+25,3%
+11,2% 7,7%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+< 8 años 8 - 12 años >12 años
+2009-10 2016-17
+AUTOREPORTE INFARTO AGUDO AL MIOCARDIO (IAM)
+Elaborado por Departamento de Epidemiología
+Esta prevalencia responde a la pregunta d1. ¿Alguna vez un médico o doctor le ha dicho que tuvo o que sufrió un infarto al corazón?
+No se observan diferencias estadísticamente significativas entre las mediciones en total país y sexo (IC 95%).
+Autoreporte de IAM total país y según sexo.
+ENS 2009-10 y 2016-17
+3,3% nacional
+3,2% 3,3% 3,1%3,3% 3,8% 2,8%
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+16%
+18%
+20%
+Total país Hombre Mujer
+2009-10 2016-17
+
+AUTOREPORTE INFARTO AGUDO AL MIOCARDIO (IAM)
+Elaborado por Departamento de Epidemiología
+Esta prevalencia responde a la pregunta d1. ¿Alguna vez un médico o doctor le ha dicho que tuvo o que sufrió un infarto al corazón?
+No se observan diferencias estadísticamente significativas  entre las mediciones por grupos de edad (IC 95%).
+Autoreporte de IAM según grupo de edad. ENS 2009-10 y 2016-17
+d1. ¿Alguna vez un médico o doctor le ha dicho que tuvo o que sufrió un infarto al corazón?
+0,2% 1,2% 5,4%
+9,7%
+0,5%
+0,6% 5,4%
+10,0%
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+16%
+18%
+20%
+15 - 24 25 - 44 45 - 64 65 y mas
+2009-10 2016-17
+AUTOREPORTE DE ATAQUE CEREBRO VASCULAR 
+(ACV) O TROMBOSIS CEREBRAL
+Elaborado por Departamento de Epidemiología
+Esta prevalencia responde a la pregunta d9 ¿Alguna vez un médico o doctor le ha dicho que tuvo o que sufrió un accidente vascular o trombosis cerebral?
+Se observa alza en la mujeres pero no alcanza a ser estadísticamente significativo. (IC 95%).
+web.minsal.cl/ataque_cerebral/
+Autoreporte de ACV o trombosis cerebral total país y según sexo.
+ENS 2009-10 y 2016-17
+2,6% nacional
+2,2% 2,6%
+1,7%2,6% 2,0%
+3,2%
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+8%
+9%
+10%
+Total país Hombre Mujer
+2009-10 2016-17
+AUTOREPORTE DE ACV  O TROMBOSIS CEREBRAL
+Elaborado por Departamento de Epidemiología
+Esta prevalencia responde a la pregunta d9 ¿Alguna vez un médico o doctor le ha dicho que tuvo o que sufrió un accidente vascular o trombosis cerebral?
+No se observan diferencias estadísticamente significativas entre las mediciones (IC 95%).
+Autoreporte de ACV o trombosis cerebral según grupo de edad. 
+ENS 2009-10 y 2016-17
+0,9%
+3,1%
+8,1%
+0,1%
+1,1%
+3,5%
+8,2%
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+16%
+18%
+20%
+15 - 24 25 - 44 45 - 64 +65
+2009-10 2016-17
+MENARQUIA
+Elaborado por Departamento de Epidemiología
+IC 95%
+Edad promedio de Menarquia. 
+ENS 2009-10 y 2016-17
+m6p1. ¿A qué edad tuvo su primera regla o menstruación?
+2009-10 
+13,1 años  
+2016-17
+12,8 años 
+
+INICIO DE RELACIONES SEXUALES
+Elaborado por Departamento de Epidemiología
+Para ENS 2016-17 hubo una pequeña variación en el fraseo de la pregunta, añadiendo que la primera relación se entienda que haya implicado penetración. La pregunta de ENS 
+2009-2010 fue: m8p1 ¿Alguna vez en la vida, ha tenido relaciones sexuales?
+95% nivel de confianza
+17,8
+16,7
+18,9
+17,5
+16,6
+18,4
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+T O T A L H O M B R E M U J E R
+Edad
+2009-10 2016-17
+Edad promedio de inicio sexual. 
+ENS 2009-10 y 2016-17
+m8p2. ¿A qué edad tuvo su primera relación sexual?
+INICIO DE RELACIONES SEXUALES
+Elaborado por Departamento de Epidemiología
+Para ENS 2016-17 hubo una pequeña variación en el fraseo de la pregunta, añadiendo que la primera relación se entienda que haya implicado penetración. La pregunta de ENS 
+2009-2010 fue: m8p1 ¿Alguna vez en la vida, ha tenido relaciones sexuales?
+Sin diferencias significativas entre ambas mediciones (IC 95 %)
+17,8 17,5
+16,3 16,1
+17,9
+17,3
+18 18
+19 18,7
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21Edad
+2009-10
+2016-17
+Promedio de edad de inicio sexual por tramo de edad.
+ENS 2009-10 y 2016-17
+m8p2. ¿A qué edad tuvo su primera relación sexual?
+51
+USO DE PRESERVATIVO
+Elaborado por Departamento de Epidemiología
+Para ENS 2016-17 se modificaron las unidades de respuesta, se ajustan criterios técnicos según recomendaciones internacionales para la medición de uso de preservativos en 
+población general. Por lo anterior, no se puede comparar este indicador con ENS2009-10
+La grafica representa la categoría “siempre”
+Diferencias estadísticamente significativas entre los tamos de edad 15-24 y 65 años y más (IC 95%). 
+Uso de preservativo en los últimos 12 meses en población sexualmente activa.
+ENS 2016-17
+m13p6. ¿Ha usado preservativo o condón en los últimos 12 meses? (% “siempre”)
+12,8% 7,1%
+10,1%
+22,1%
+11,5%
+3,4% 2,8%
+0%
+10%
+20%
+30%
+40%
+TOTAL PAÍS 15 - 24 25 - 44 45 - 64 +65
+USO DE PRESERVATIVO
+Elaborado por Departamento de Epidemiología
+Se observan diferencias estadísticamente significativas por NEDU entre los que tienen menos de 8 años de estudios cursados y más de 12 años de estudios cursados (IC 95%)
+Uso de preservativo en los últimos 12 meses según años de estudios cursados. ENS 2016-17
+m13p6. ¿Ha usado preservativo o condón en los últimos 12 meses? (% “siempre”)
+3,4%
+9,4%
+13,7%
+0%
+10%
+20%
+30%
+40%
+< 8 años 8-12 años 12 o más años
+2016-17
+
+53
+EXAMEN VIH/SIDA
+Elaborado por Departamento de Epidemiología
+Las categorías de respuesta son SÍ, NO, No sabe/No responde. Se grafica la categoría “SÍ”.
+Se observan diferencias estadísticamente significativas entre la ENS 2016-17 y la ENS 2009-10 (IC 95%).
+Encuestados que dicen “SÍ” haberse realizado el examen del VIH/SIDA
+(%) total país y por sexo. ENS 2009-10 y 2016-17
+m13p9. ¿Se ha hecho el examen del VIH o SIDA en los últimos 12 meses?
+17,2% nacional
+28,8%
+20,4%
+36,8%
+17,2% 13,3%
+21,0%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Total país Hombre Mujer
+2009-10 2016-17
+
+EXAMEN VIH/SIDA
+Elaborado por Departamento de Epidemiología
+Se observan diferencias estadísticamente significativas entre la ENS 2016-17 y la ENS 2009-10 en el grupo de edad de 25-44 años (IC 95%).
+Las categorías de respuesta son SÍ, NO, No sabe/No responde. Se grafica la categoría “SÍ”.
+Encuestados que dicen “SÍ” haberse realizado el examen del VIH/SIDA (% ) 
+según grupo de edad. ENS 2009-10 y 2016-17
+m13p9. ¿Se ha hecho el examen del VIH o SIDA en los últimos 12 meses?
+17,0%
+44,5%
+23,2%
+14,4%12,3%
+23,8%
+16,1%
+7,6%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+15-24 25 - 44 45 - 64 65+
+2009-10 2016-17
+
+VIH/SIDA
+Elaborado por Departamento de Epidemiología
+Prevalencia calculada en base poblacional (IC 95%).
+Motivación para realizarse el examen del VIH/SIDA.
+ENS 2016-17
+m13p10. ¿Por qué razón se hizo el examen del VIH o SIDA? 
+Sentirse en 
+riesgo y 
+mayor 
+tranquilidad 
+31%
+Inicio una 
+nueva 
+relación 
+3%Donación de 
+sangre
+21%
+Hospitalización 
+y problema de 
+salud 
+17%
+Ingresar a 
+un trabajo
+17%
+Otra 
+11%
+Hombres
+Control de 
+Embarazo 
+59,9%
+Sentirse en 
+riesgo y mayor 
+tranquilidad 
+13,4%
+Donación de 
+sangre
+6,7%
+Inicio una nueva 
+relación 
+1,1%
+Hospitalización 
+y problema de 
+salud 
+9,6%
+Ingresar a un 
+trabajo
+3,8%
+Otra 
+5,6%
+Mujeres
+Conclusiones Encuesta Nacional de Salud 
+2016-2017 (ENS)
+
+DESAFÍOS
+• Chile se encuentra en una situación de alta prevalencia de factores de riesgo
+para enfermedades no transmisibles y baja en factores protectores.
+• La Encuesta Nacional de Salud nos permite visualizar una sociedad con
+importantes inequidades y diferencias en la prevalencia de enfermedades,
+según años de estudio cursados, edad y sexo; evidenciando la relevancia de
+considerar los determinantes sociales de la salud en la construcción de políticas
+públicas.
+• Mantener la periodicidad de las encuestas poblacionales de salud como
+instrumento de vigilancia, nos permite evaluar tanto la situación de los
+problemas de salud como sus factores de riesgo.
+• Se hace necesario fortalecer la implementación de políticas públicas, sin perder
+de vista la importancia del trabajo intersectorial como principal estrategia para
+mejorar la salud de la población, bajo el concepto de “Salud en todas las
+políticas”.
+
+CONCLUSIONES
+• Se observa un cambio positivo en la prevalencia de consumo de tabaco
+destacando la disminución a nivel nacional y en la exposición en el hogar.
+• Factores de riesgo como el alcohol, el sedentarismo y la malnutrición por
+exceso nos desafían a buscar nuevas estrategias que ayuden a la población a
+mejorar su condición.
+• El autoreporte de enfermedades crónicas y sospecha de ellas nos están
+describiendo características de salud de la población que orientan el accionar
+multidisciplinario.
+• Reforzar el uso de preservativo y la realización del examen VIH/SIDA en la
+población, como hasta ahora, seguirán siendo una tarea y un desafío futuro.
+
+PLANIFICACIÓN DE ENCUESTAS A FUTURO
+ENSI: ENCUESTA NACIONAL DE SALUD INFANTIL.
+ENETS: ENCUESTA NACIONAL DE EMPLEO, TRABAJO, SALUD Y CALIDAD DE VIDA DE LOS TRABAJADORES Y TRABAJADORAS.
+ENCAVI: ENCUESTA NACIONAL DE CALIDAD DE VIDA Y SALUD.
+EMSE: ENCUESTA MUNDIAL DE SALUD ESCOLAR.
+ENS: ENCUESTA NACIONAL DE SALUD.
+EMTJ: ENCUESTA MUNDIAL DE TABACO EN JÓVENES.
+

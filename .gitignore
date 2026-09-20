@@ -1,0 +1,6 @@
+# Artefactos locales
+__pycache__/
+*.pyc
+verificacion.json
+datos.json.tmp
+.DS_Store

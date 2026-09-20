@@ -1,0 +1,385 @@
+'+r.outerHTML+' ');w.document.close();setTimeout(function(){w.print();},500);}
+
+/* ═══ EVENT DELEGATION ═══ */
+document.addEventListener('click',function(e){
+ var el=e.target;
+ while(el&&el!==document.body){
+ var a=el.getAttribute('data-action');if(!a){el=el.parentElement;continue;}
+ if(a==='showLogin'){rAuth('login');return;}if(a==='showRegister'){rAuth('register');return;}
+ if(a==='doLogin'){doLogin();return;}if(a==='doRegister'){doRegister();return;}
+ if(a==='logout'){doLogout();return;}if(a==='doProc'){doProc();return;}
+ if(a==='loadDemo'){loadDemo();return;}if(a==='doInterp'){doInterp();return;}
+ if(a==='doMap'){doMap();return;}if(a==='printReport'){printReport();return;}
+ if(a==='newDoc'){newDoc();return;}if(a==='clearAll'){clearAll();return;}
+ if(a.indexOf('nav-')===0){nav(a.replace('nav-',''));return;}
+ if(a.indexOf('goStep-')===0){goStep(parseInt(a.split('-')[1]));return;}
+ if(a.indexOf('viewDoc-')===0){vDoc(a.replace('viewDoc-',''));return;}
+ if(a.indexOf('deleteDoc-')===0){delDoc(a.replace('deleteDoc-',''));return;}
+ el=el.parentElement;
+ }
+});
+document.addEventListener('change',function(e){var t=e.target;if(t.id==='slang'){S.setLang(t.value);rSettings();}});
+document.addEventListener('keydown',function(e){if(e.key==='Enter'){var af=$('auth-email');if(af&&$('intvac-auth')&&!$('intvac-auth').classList.contains('intvac-hidden')){if($('auth-pass2'))doRegister();else doLogin();}}});
+
+/* ═══ INIT ═══ */
+(function loop(n){n=n||0;var r=$('intvac-root');if(!r){if(n 
+
+ 
+
+ Conózcanos 
+
+ Información a la comunidad 3 
+ 
+ Puntos de vacunación 
+
+ Calendarios de Vacunación 
+
+ Enfermedades Inmunoprevenibles 
+
+ Información a equipos de salud 3 
+ 
+ Marco regulatorio 
+
+ Capacitación 
+
+ Calendarios de Vacunación 
+
+ Vacunación Segura 
+
+ Cadena de Frío 
+
+ Sistema de Control de Inventario (SCI) 
+
+ Registro Nacional de Inmunizaciones 
+
+ Coberturas preliminares 
+
+ CAVEI 
+
+ Logística y distribución 
+
+ Plan Nacional de Vacunación contra SARS-CoV-2 
+
+ Puesta al día 
+
+ Vacunación Especial 
+
+ Vacunación Escolar 
+
+ Vacunación del viajero 
+
+ Noticias 
+
+ a 
+
+ 
+
+ 
+
+ Conózcanos 
+
+ Información a la comunidad 3 
+ 
+ Puntos de vacunación 
+
+ Calendarios de Vacunación 
+
+ Enfermedades Inmunoprevenibles 
+
+ Información a equipos de salud 3 
+ 
+ Marco regulatorio 
+
+ Capacitación 
+
+ Calendarios de Vacunación 
+
+ Vacunación Segura 
+
+ Cadena de Frío 
+
+ Sistema de Control de Inventario (SCI) 
+
+ Registro Nacional de Inmunizaciones 
+
+ Coberturas preliminares 
+
+ CAVEI 
+
+ Logística y distribución 
+
+ Plan Nacional de Vacunación contra SARS-CoV-2 
+
+ Puesta al día 
+
+ Vacunación Especial 
+
+ Vacunación Escolar 
+
+ Vacunación del viajero 
+
+ Noticias 
+
+ a 
+
+ 
+
+ 
+
+ Conózcanos 
+
+ Información a la comunidad 3 
+ 
+ Puntos de vacunación 
+
+ Calendarios de Vacunación 
+
+ Enfermedades Inmunoprevenibles 
+
+ Información a equipos de salud 3 
+ 
+ Marco regulatorio 
+
+ Capacitación 
+
+ Calendarios de Vacunación 
+
+ Vacunación Segura 
+
+ Cadena de Frío 
+
+ Sistema de Control de Inventario (SCI) 
+
+ Registro Nacional de Inmunizaciones 
+
+ Coberturas preliminares 
+
+ CAVEI 
+
+ Logística y distribución 
+
+ Plan Nacional de Vacunación contra SARS-CoV-2 
+
+ Puesta al día 
+
+ Vacunación Especial 
+
+ Vacunación Escolar 
+
+ Vacunación del viajero 
+
+ Noticias 
+
+ Conoce tu vacunatorio más cercano
+
+ Ver más 
+ Puntos de Vacunación e Inmunización 2026
+
+ Visor Operativo
+Campaña puesta al día
+Vacuna SRP
+
+ Acceder 
+ Herramienta para equipos de vacunatorios públicos y privados en convenio, SEREMI y Servicios de Salud
+
+ Revisa acá información sobre las campañas de vacunación contra Influenza, COVID-19, coqueluche y neumococo, además de la inmunización contra el Virus Respiratorio Sincicial (VRS)
+
+ Ver más 
+ Campaña de Vacunación e Inmunización 2026
+
+ Calendario de
+inmunizaciones
+
+ Revisa acá los calendarios de vacunación e inmunización vigentes y de años anteriores.
+
+ Ver más 
+
+ Vacunación escolar
+
+ La estrategia de vacunación escolar se inicia durante el segundo semestre de cada año. Es importante conocer los aspectos técnico-operativos de esta vacunación. Las vacunas a administrar corresponden contra la difteria, tétanos, tos convulsiva (dTpa) y Virus Papiloma Humano (VPH).
+
+ Ver más 
+
+ Vacunación Mpox
+
+ La campaña de vacunación contra mpox se encuentra disponible para grupos priorizados. En esta sección podrás encontrar la información técnica disponible de esta campaña.
+
+ Ver más 
+
+ Recomendaciones de vacunación a viajeros 
+
+ Cada vez que realizamos un viaje, es necesario tomar ciertas medidas antes, durante y después del viaje, dependiendo del lugar al cual se viajará, dentro de ellas se consideran las posibles enfermedades. 
+
+ El Programa Nacional de Inmunizaciones del Ministerio de Salud dispone en forma gratuita de las vacunas que corresponden por edad (según calendario de vacunación) y las dispuestas por decreto (como la campaña anti influenza, durante los meses definidos para realizar esta inmunización), para las enfermedades presentes y prevenibles en nuestro país. 
+
+ 5 Recomendaciones generales 
+
+ 5 Vacunación contra Sarampión 
+
+ 5 Vacunación contra Fiebre Amarilla 
+
+ 5 Vacunación contra poliomielitis en viajeros 
+
+ 5 Vacunatorios internacionales a nivel nacional 
+
+ Ver Más 
+
+ Marco Regulatorio 
+
+ "> El marco regulatorio del Programa Nacional de Inmunizaciones proporciona las bases y ordena los procesos y estrategias sobre las cuales los equipos de salud coordinan, ejecutan y monitorean las vacunaciones e inmunizaciones para la población en forma universal, igualitario y gratuita.
+
+ En esta sección se puede visualizar y descargar Ordinarios, Lineamientos técnico-operativos, Decretos, Resoluciones y Normativas/guías.
+
+ Ver Más 
+
+ Cadena de frío 
+
+ "> La Cadena de frío es el proceso de conservación, manejo y distribución de las vacunas.
+
+ La finalidad de este proceso es asegurar que las vacunas sean conservadas debidamente dentro de rangos de temperatura establecidos, para que no pierdan su poder inmunológico.
+
+ "> Los niveles de la Cadena de frío implementados en los países pueden variar adaptados a la realidad de cada región. En cada nivel corresponde almacenar vacunas a la temperatura y por el tiempo que se indican.
+
+ Ver Más 
+
+ Capacitación 
+
+ "> "> Capacitar y actualizar los conocimientos en vacunas del personal técnico y profesional del Programa Nacional de Inmunizaciones (PNI) según los lineamientos emitidos por el Departamento de Inmunizaciones. 
+
+ Reforzar la información entregada en los lineamientos técnicos y actualizar normativas del Programa Nacional de Inmunizaciones. 
+
+ 5 Campaña 2025 
+
+ 5 Campaña 2024 
+
+ 5 Campaña 2023 
+
+ Ver Más 
+
+ Vacunación especial 
+
+ "> "> "> El Programa Nacional de Inmunizaciones (PNI) tiene como objetivo principal proteger a la población residente en el país contra enfermedades inmunoprevenibles relevantes para la salud pública, empleando tecnologías de vanguardia respaldadas por evidencia científica. 
+
+ "> "> "> Como apoyo complementario, en el año 2018 el PNI oficializó la estrategia de vacunación especial, la cual sigue un flujo de trabajo específico que permite brindar beneficios y una mayor protección de forma gratuita a distintas poblaciones con condiciones de salud especiales y/o en situación de riesgo. 
+
+ Ver Más 
+
+ Registro Nacional de Inmunizaciones 
+
+ "> Sistema con más de 10 años de funcionamiento, se inició en la pandemia de Influenza AH1N1 del año 2010. Luego, en el año 2011 se inició el registro de las vacunas programáticas del Programa Nacional de Inmunizaciones (PNI), ya en el 2013, el RNI pasa a ser la fuente oficial de información para el cálculo de coberturas de dosis administradas del esquema nacional de vacunación de Chile.
+
+ "> En Chile el Registro Nacional de Inmunizaciones es una herramienta informática que otorga al Ministerio de Salud (MINSAL), un registro electrónico y nominal de todas las vacunaciones, entregando la trazabilidad de cada producto biológico y persona inmunizada en los vacunatorios de los establecimientos públicos como privados, en convenio con la autoridad sanitaria a nivel nacional.
+
+ Ver Más 
+
+ CAVEI 
+
+ El Comité Asesor en Vacunas y Estrategias de Inmunización (CAVEI) es un organismo científico-técnico multidisciplinario, deliberativo e independiente, establecido por Resolución Exenta del Ministro de Salud, con la misión de asesorar a la Subsecretaría de Salud Pública en la formulación de políticas, el diseño de programas y la implementación de estrategias y prácticas de inmunización eficientes, seguras y coherentes con las necesidades de la población chilena.
+
+ "> El CAVEI tiene un rol consultivo – no ejecutivo ni vinculante – en las decisiones político-técnicas que debe adoptar la Subsecretaría de Salud Pública, en el ámbito del control de las actuales y futuras enfermedades prevenibles con vacunas.
+
+ Ver Más 
+
+ Preguntas Frecuentes 
+
+ Registro Nacional de Inmunizaciones (RNI) 
+
+ Cadena de Frío 
+
+ Vacunación Especial 
+
+ Noticias 
+
+ Noticias Mar 17, 2026 
+
+ Campaña de Vacunación 2026: Ministerio de Salud refuerza llamado a vacunarse y protegerse anticipadamente de los virus respiratorios
+
+ Ver Más 
+
+ Noticias Mar 6, 2026 
+
+ Subsecretaria Albagli refuerza llamado para que personas mayores se vacunen oportunamente
+
+ Ver Más 
+
+ Noticias Mar 5, 2026 
+
+ Minsal y Metro habilitan puntos de vacunación gratuitos para grupos de riesgo
+
+ Ver Más 
+
+ 1 
+ 2 
+ 3 
+ … 
+ 277 
+ Página siguiente 
+
+ Información institucional 
+
+ 5 Conózcanos 
+
+ 5 Acervo Historico 
+
+ 5 Noticias 
+
+ Informacion para equipos de salud 
+
+ 5 Marco regulatorio 
+
+ 5 Vacunatorios internacionales 
+
+ 5 Cadena de frío 
+
+ 5 Capacitación 
+
+ 5 CAVEI 
+
+ Informacion a la comunidad 
+
+ 5 Puntos de vacunación 
+
+ 5 Calendarios de vacunación 
+
+ 5 Enfermedades inmunoprevenibles 
+
+ 5 Obligatoriedad de la vacunación 
+
+ Siguenos 
+
+ Follow 
+ Follow 
+ Follow 
+ Follow 
+
+ × 
+
+ Ver más 
+
+ M 
+
+ U 
+
+ Ir al contenido 
+
+ Abrir barra de herramientas 
+
+ Herramientas de accesibilidad
+
+ Aumentar texto 
+
+ Disminuir texto 
+
+ Escala de grises 
+
+ Alto contraste 
+
+ Contraste negativo 
+
+ Fondo claro 
+
+ Subrayar enlaces 
+
+ Fuente legible 
+
+ Reiniciar

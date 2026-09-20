@@ -1,0 +1,46 @@
+name: verificar
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  guia:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validar estructura de la guia
+        run: python3 tools/verificar.py
+
+      - name: Construir los datos del buscador
+        run: python3 tools/construir.py
+
+      - name: El buscador tiene que quedar sincronizado con la guia
+        run: |
+          python3 tools/construir.py
+          if ! git diff --quiet -- datos.json; then
+            echo "::error::datos.json esta desactualizado. Corre: python3 tools/construir.py"
+            git diff --stat -- datos.json
+            exit 1
+          fi
+
+      - name: Revisar los enlaces citados
+        continue-on-error: true
+        run: python3 tools/verificar.py --urls
+
+      - name: Publicar el informe de verificacion
+        if: always()
+        run: python3 tools/verificar.py --json > verificacion.json || true
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: verificacion
+          path: verificacion.json
