@@ -179,18 +179,39 @@ python3 scripts/construir.py            # build the search page's data from the 
    least reliable source available. Use the issuing body's own text.
 4. **The confident summary.** A press article reporting "the new law says X" without the article
    number is a lead, not a source. Chase the text.
-5. **Inventing a plausible number to fill a gap.** The single most damaging failure, because it
+5. **A stale page on an official domain.** The worst source is an official body's own page that
+   was never updated — an agency still publishing the old count or the superseded deadline. Being
+   on a government domain is not evidence of being current. Check the version date, and where two
+   official pages disagree, publish the discrepancy and say which one is current instead of
+   silently picking one.
+6. **A cross-reference to an item that does not exist.** "The red line is in chapter 09" is worse
+   than no pointer at all: the reader looks, finds nothing, and stops trusting the rest. Verify
+   every internal reference against the target chapter's actual item list.
+7. **Inventing a plausible number to fill a gap.** The single most damaging failure, because it
    is undetectable in review and destroys the whole corpus's credibility. Mark it and log it.
-6. **Statistics leaking into the plain-language line.** `RR 0,80 (IC 0,77–0,83)` in that line
+8. **Statistics leaking into the plain-language line.** `RR 0,80 (IC 0,77–0,83)` in that line
    loses the reader the item was written for.
-7. **Grading by gut.** Without mechanical thresholds, rankings drift and the "highest value
+9. **Grading by gut.** Without mechanical thresholds, rankings drift and the "highest value
    first" ordering becomes fiction.
-8. **Benefit without conditions.** A means test, waiting period or minimum contribution omitted
-   from an item turns advice into a trap.
-9. **Preserving item count as a goal.** Adapting by volume produces padding; the correct number
-   is however many items survive verification.
-10. **A country-specific phone number or agency name left in the source language.** Instantly
+10. **Benefit without conditions.** A means test, waiting period or minimum contribution omitted
+    from an item turns advice into a trap.
+11. **Preserving item count as a goal.** Adapting by volume produces padding; the correct number
+    is however many items survive verification.
+12. **A country-specific phone number or agency name left in the source language.** Instantly
     visible to locals and fatal to trust.
+13. **A validator that cries wolf.** A checker with false positives gets ignored, and an ignored
+    checker is worse than none. Match forbidden terms on word boundaries (`\bOR\b`), never as bare
+    substrings — `or:` fires on "mayor:", "menor:", "superior:". After fixing one, test both
+    directions: the legitimate text must pass and the real violation must still fail.
+14. **Verifying links in series.** A corpus of hundreds of URLs times out before finishing. Probe
+    in parallel with a disk cache; treat 403/429 as warnings (official sites block bots or have a
+    broken certificate chain while opening fine in a browser); retry 5xx once before believing it;
+    and send DOI lookups to a citation API that returns the real title, which is how a fabricated
+    DOI gets caught.
+15. **Trusting a writer's self-report.** Have a second pass audit finished chapters against their
+    sources. On the reference implementation that pass found mis-attributed articles, a
+    recommendation its own sources did not support, and a study paraphrased more strongly than the
+    paper allowed.
 
 ## Verification
 
