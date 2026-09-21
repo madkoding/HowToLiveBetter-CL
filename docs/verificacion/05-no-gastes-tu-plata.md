@@ -7,7 +7,20 @@ Registro de lo que no se pudo confirmar contra la fuente oficial al escribir
 
 | Capítulo | Pendientes abiertos | Última revisión |
 |---|---|---|
-| `guia/05-no-gastes-tu-plata.md` | 6 | 2026-09-20 |
+| `guia/05-no-gastes-tu-plata.md` | 5 | 2026-09-21 |
+
+## Cerrado
+
+- **Ítem 1 — umbral de restitución de la Ley 20.009. CERRADO el 2026-09-21.**
+  El dato que faltaba lo encontró el redactor del capítulo 14 y quedó verificado:
+  **decreto exento 473 del Ministerio de Hacienda, publicado el 30 de enero de 2026**, que fija el
+  umbral en **35 unidades de fomento** (≈ $1.434.139 con la UF de $40.975,41 al 20-09-2026).
+  Fuente oficial: <https://www.bcn.cl/leychile/navegar?idNorma=1220909>
+  Se corrigió el ítem 1 (el texto ya nombra el decreto con su número y fecha, en vez de atribuir
+  el valor a la CMF) y se agregó la fuente al campo `Fuentes`. Sin marca `POR VERIFICAR`.
+  Vale la pena anotar cómo se cerró: **no lo resolvió el capítulo que lo declaró, sino otro
+  capítulo escrito en paralelo**. Por eso el registro es compartido y no un archivo privado de
+  cada redactor.
 
 ## Nota de fuente (no es una marca en el capítulo)
 

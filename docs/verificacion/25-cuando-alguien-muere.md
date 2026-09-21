@@ -17,6 +17,26 @@ Montos y unidades usados como referencia en todo el capítulo, leídos en su fue
 
 ---
 
+- `guia/25-cuando-alguien-muere.md` ítems 1 y 4, Notas
+  Dato: el capítulo dice que las páginas del sitio del Servicio Médico Legal no se pudieron leer
+  con la verificación automática de enlaces y que el detalle del procedimiento de autopsia,
+  identificación y listado de casos que ingresan a autopsia quedó pendiente.
+  Sospecha: (no hay valor sospechado) el sitio publica la lista de casos que ingresan
+  —muertes violentas, muertes en la vía pública, muertes en un recinto penitenciario, muertes en
+  el domicilio por causas no determinadas, la persona fallecida sin identificar y los casos en que
+  la causa no es clara— y también que se realizan alrededor de 12 mil autopsias al año a nivel
+  nacional.
+  Fuente que no se pudo leer: `https://www.sml.gob.cl/index.php/autopsia-e-identificacion-medico-legal/`
+  y `https://www.sml.gob.cl/index.php/departamento-de-tanatologia/`. Abren en navegador y con
+  `curl -k`, pero fallan la validación de certificado (`CERTIFICATE_VERIFY_FAILED`, cadena
+  incompleta) y `tools/verificar.py` los marca como error de enlace. El contenido de esos dos
+  datos se leyó igual con `curl -k` el 20 de septiembre de 2026 y se citó en las Notas de los
+  ítems 1 y 4, pero las URLs se sacaron de `Fuentes` para no dejar enlaces que el validador
+  rechaza.
+  Cómo cerrarlo: si se quiere citar el sitio del servicio directamente, hay que agregar
+  `www.sml.gob.cl` a la lista `HOSTS_BLOQUEAN_BOTS` de `tools/verificar.py` (hoy no está) o
+  publicar el dato desde la ficha de ChileAtiende, que sí valida.
+
 - `guia/25-cuando-alguien-muere.md` ítem 3, Notas
   Dato: el ítem dice que la gratuidad de sepultura que ofrece ChileAtiende no se pudo confirmar.
   Sospecha: (no hay valor sospechado) la gratuidad existe como beneficio municipal o como

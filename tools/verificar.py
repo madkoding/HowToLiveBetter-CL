@@ -60,6 +60,9 @@ HOSTS_BLOQUEAN_BOTS = {
     "www.dt.gob.cl", "dt.gob.cl",
     "www.suseso.gob.cl", "www.spensiones.cl",
     "www.ine.gob.cl", "www.afc.cl",
+    "www.sml.gob.cl", "sml.gob.cl",
+    "www.ispch.gob.cl", "www.anci.gob.cl",
+    "www.pdichile.cl", "www.superintendenciadeeducacion.gob.cl",
 }  # fmt: skip
 
 # Palabras que no pueden aparecer en "En simple": el lector de esa linea no es estadistico.
