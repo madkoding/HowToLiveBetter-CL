@@ -30,8 +30,15 @@ Pendientes abiertos al escribir `guia/16-enfermedad-cronica.md`. Cada uno calza 
   (<https://www.superdesalud.gob.cl/tax-temas-de-orientacion/garantias-explicitas-en-salud-ges-1962/>
   dice 90 en el cuerpo y 80 en el título del recurso de Isapres). No hay contradicción de fondo,
   pero el número viejo sigue circulando en páginas oficiales.
-  Cómo cerrarlo: confirmar el conteo en el texto refundido del decreto de GES vigente y en la ficha
-  de Fonasa, y ajustar los ítems 4 y 5 del capítulo 24 si el número cambia.
+  **RESUELTO el 2026-09-21: el número es 90.** Los tres números explican la misma cosa: el decreto
+  revisó los **87** que había y agregó **3** nuevos, lo que da **90**, que es el conteo que publican
+  el listado AUGE del MINSAL y la ficha de ChileAtiende —las dos fuentes que se actualizan—. El
+  **80** que aparece en un encabezado de la Superintendencia es un número viejo que quedó en una
+  página oficial, y es la clase de dato que un lector encuentra y con razón desconfía.
+  **El capítulo 24 lo dejó escrito con esta explicación** (su ítem 4, en Notas: "el listado creció de
+  87 a 90 problemas de salud y algunas fichas oficiales siguen publicando el número antiguo en otras
+  secciones"), así que la guía no esconde la discrepancia: la resuelve y dice por qué existe. Los
+  seis capítulos que citan el conteo usan **90**, que es consistente.
 
 - `guia/16-enfermedad-cronica.md` ítem 8, Notas
   Dato: la edición vigente del decreto que fija los diagnósticos y tratamientos de alto costo con
