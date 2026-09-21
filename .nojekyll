@@ -1,0 +1,8 @@
+# Este archivo desactiva el procesamiento de Jekyll en GitHub Pages.
+#
+# Sin él, Pages pasa el repositorio por Jekyll y Jekyll descarta algunos archivos
+# (SKILL.md entre ellos, porque la carpeta de una skill lleva un README.md propio y
+# su archivo principal queda excluido). El buscador y los capítulos se sirven igual,
+# pero la skill universal quedaba con un 404.
+#
+# Esta guía no necesita Jekyll para nada: es markdown, HTML y JSON planos.
