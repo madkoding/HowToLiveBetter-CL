@@ -29,6 +29,7 @@ Aquí se anota **todo** lo que no se pudo confirmar contra la fuente oficial. Ca
 | Capítulo | Pendientes abiertos | Última revisión |
 |---|---|---|
 | (se completa al escribir cada capítulo) | | |
+| [31 — Después de los 18](31-despues-de-los-18.md) | 3 | 2026-09-20 |
 
 El verificador imprime el total de pendientes:
 

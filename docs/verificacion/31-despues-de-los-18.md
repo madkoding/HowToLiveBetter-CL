@@ -24,7 +24,7 @@
 
 ### 2. Norma que fija la bonificación de 20 puntos para el subsidio habitacional
 
-- `guia/31-despues-de-los-18.md` ítem 4, línea del campo `- Notas:`
+- `guia/31-despues-de-los-18.md` ítem 4, misma línea del campo `- Notas:` (segundo dato de la marca)
   Dato: el ítem cita como beneficio del servicio militar "una bonificación de 20 puntos para postular
   al Subsidio Habitacional", en el tramo de clase media, vigente desde 2004.
   Sospecha: la bonificación existiría por norma reglamentaria o por instructivo del Ministerio de
@@ -35,6 +35,31 @@
   Ministerio de Vivienda y Urbanismo.
   Cómo cerrarlo: pedir al MINVU o a la DGMN el acto administrativo que fija la bonificación, o
   consultar el texto vigente del llamado al subsidio en el que se aplique el puntaje adicional.
+
+### 3. Cómo se paga el Subsidio al Empleo Joven durante la transición al Subsidio Unificado al Empleo
+
+- `guia/31-despues-de-los-18.md` ítem 9, línea del campo `- Notas:`
+  Dato: el ítem describe los tramos y pagos vigentes del Subsidio al Empleo Joven para 2026 y advierte
+  que la Ley 21.808 crea el Subsidio Unificado al Empleo.
+  Sospecha: durante la transición convivirían el pago anual y el pago mensual del subsidio antiguo con
+  la entrada del subsidio unificado, cuyo primer día de vigencia sería en octubre de 2026 (séptimo mes
+  desde la publicación del 13 de marzo de 2026).
+  Fuente que no se pudo leer: el reglamento que ordena la transición y el calendario de pagos 2027 del
+  nuevo subsidio; la página del SENCE solo publica el calendario del subsidio antiguo.
+  Cómo cerrarlo: consultar el reglamento del Subsidio Unificado al Empleo y el calendario de pagos del
+  SENCE para 2027 antes de escribir cualquier monto del subsidio nuevo.
+
+### 4. Arancel de inscripción a la PAES vigente en 2026
+
+- `guia/31-despues-de-los-18.md` ítem 17, línea del campo `- Notas:`
+  Dato: el ítem dice que "la inscripción de la PAES se paga cuando se abre la etapa de inscripción" y
+  no da el monto.
+  Sospecha: el valor estaría publicado por el DEMRE en la etapa de inscripción del proceso de
+  admisión, con rebaja para quienes acrediten situación socioeconómica, pero no se obtuvo.
+  Fuente que no se pudo leer: el calendario del DEMRE publica las fechas de inscripción sin aranceles
+  (<https://demre.cl/calendario>); no hay página de valores en el sitio.
+  Cómo cerrarlo: pedir al DEMRE o a la Subsecretaría de Educación Superior el arancel de inscripción
+  vigente para el proceso de admisión siguiente y escribirlo con su año.
 
 ## Cifras que sí quedaron verificadas contra el texto oficial
 

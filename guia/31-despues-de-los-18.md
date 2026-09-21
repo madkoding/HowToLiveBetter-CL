@@ -1,8 +1,8 @@
 # 31. Después de los 18
 
 Este capítulo es un mapa, no un manual de una sola ruta: pone lado a lado lo que exige cada camino
-que se abre al cumplir 18 años —estudiar, trabajar, capacitarse, servir, emprender, arrendar o no
-hacer ni una ni otra cosa— y lo que cada uno cuesta en plata y en tiempo. La regla de este capítulo
+que se abre al cumplir 18 años —estudiar, trabajar, capacitarse, servir, emprender o no hacer ni una
+ni otra cosa— y lo que cada uno cuesta en plata y en tiempo. La regla de este capítulo
 es que la edad, el monto y el plazo van con su año: casi todos cambian con el calendario legislativo.
 
 Lo que está en otro capítulo: el detalle del contrato, la liquidación, el finiquito y los accidentes
@@ -33,7 +33,7 @@ tributario elegir, en el 12.
 ### 3. Si te convocan y estás estudiando, pide las modalidades alternativas o la postergación
 <!-- costos: plata=0 tiempo=medio aguante=algo beneficio=alto medida=tiempo -->
 - Costo: $0; la postergación se solicita una vez al año, hasta el 31 de agosto, en el cantón de tu domicilio.
-- En simple: Estar estudiando no te libra solo: hay que pedirlo. Si te convocaron en el sorteo y estás en cuarto medio, en la universidad o haciendo la práctica, puedes cambiar los dos años de servicio por uno corto; y la postergación deja el servicio para más adelante, año por año.
+- En simple: Estar estudiando no te libra solo: hay que pedirlo. Si te convocaron en el sorteo y estás en cuarto medio, en la universidad o haciendo la práctica, puedes cumplir el servicio en una modalidad corta, ligada a tus estudios; y la postergación deja el servicio para más adelante, año por año.
 - Beneficio: quien está en el último año de enseñanza media, en estudios superiores o en su práctica profesional y resulta convocado por el sorteo general puede optar, por una sola vez, entre la conscripción inmediata o al término de los estudios, la "prestación, hasta por ciento ochenta días, de servicios vinculados a sus estudios" y la "participación, hasta por ciento cincuenta días, en cursos especiales de instrucción militar", y la opción se presenta por escrito en cualquier cantón "dentro de los treinta días siguientes a la publicación de los resultados del sorteo general" (DL 2.306, artículo 30 F). El servicio obligatorio puede postergarse hasta por doce años, la franquicia "deberá solicitarse anualmente, comenzando en el año de inscripción" y las solicitudes se presentan "hasta el 31 de agosto de cada año"; son causales ser estudiante universitario o de 4° año medio, hacer uso de becas o acreditar residencia en el extranjero, y las demás que el Director General estime procedentes (reglamento complementario del DL 2.306, artículos 81 y 83). Las causales de exclusión del servicio están en el artículo 42: no apto por imposibilidad física o psíquica, pertenecer a las Fuerzas de Orden y Seguridad Pública o a Gendarmería, "grave deterioro en la situación socio-económica de su grupo familiar del cual constituyan su principal fuente de ingreso", matrimonio o paternidad anterior al primer sorteo, condena a pena aflictiva —salvo que la Dirección General considere moralmente apto— y ser descendiente, en línea recta o colateral hasta el segundo grado, de víctimas de violaciones a los derechos humanos o violencia política. La reclamación se interpone por escrito en cualquier cantón "dentro de los treinta días siguientes a la publicación de los resultados del sorteo general" y la resuelven las Comisiones Especiales de Acreditación (artículos 30 B y 28).
 - Evidencia: A
 - Fuentes: Decreto Ley 2.306, de 1978, artículos 28, 30 B, 30 F y 42. <https://www.bcn.cl/leychile/navegar?idNorma=6876> ; Decreto 244, de 1979, reglamento complementario del DL 2.306, artículos 81, 82 y 83. <https://www.bcn.cl/leychile/navegar?idNorma=11443> ; ChileAtiende, Servicio Militar (ficha 1000). <https://www.chileatiende.gob.cl/fichas/1000-servicio-militar>
