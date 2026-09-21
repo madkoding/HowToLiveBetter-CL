@@ -19,5 +19,10 @@ docs/investigacion/*.py
 # del país de origen. Son material de trabajo interno, no capítulos de la guía.
 docs/briefs/
 
+# Los .xml crudos de LeyChile no se versionan: son JSON con HTML embebido, duplican los .txt
+# (que sí se conservan, ya limpios y citados por los capítulos) y se regeneran con tools/leychile.py.
+docs/investigacion/fuentes/*.xml
+
 # Se conserva a propósito: docs/investigacion/*.md (informes con fuentes citadas),
-# docs/investigacion/anclas-verificadas.md y docs/verificacion/ (registro de pendientes).
+# docs/investigacion/anclas-verificadas.md, docs/investigacion/fuentes/*.txt
+# y docs/verificacion/ (registro de pendientes).

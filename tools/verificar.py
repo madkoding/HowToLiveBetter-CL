@@ -20,6 +20,7 @@ import json
 import pathlib
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -65,6 +66,8 @@ HOSTS_BLOQUEAN_BOTS = {
     "www.pdichile.cl", "www.superintendenciadeeducacion.gob.cl",
     "anid.cl", "www.anid.cl",
     "www.ingresa.cl", "www.dgac.gob.cl",
+    "www.cnachile.cl", "cnachile.cl",
+    "www.fuas.cl", "fuas.cl",
 }  # fmt: skip
 
 # Palabras que no pueden aparecer en "En simple": el lector de esa linea no es estadistico.
@@ -351,7 +354,81 @@ def revisar_readme(total: int, niveles: Counter) -> list[Hallazgo]:
     return hallazgos
 
 
-def probar_urls(items: list[dict], limite: int = 1200) -> list[Hallazgo]:
+def _probar_una(url: str) -> tuple[str, str, str]:
+    """Devuelve (nivel, mensaje, detalle). nivel en {'ok','aviso','error'}.
+
+    Los DOI se verifican contra Crossref (existe y el titulo real coincide); el resto con GET.
+    """
+    if "doi.org/" in url:
+        doi = url.split("doi.org/", 1)[1].strip()
+        # Crossref limita la tasa: en paralelo devuelve 429. Se reintenta con espera creciente
+        # y el 429 que persiste se reporta como aviso, nunca como error (el DOI no esta muerto).
+        for intento in range(4):
+            try:
+                pet = urllib.request.Request(
+                    f"https://api.crossref.org/works/{urllib.parse.quote(doi)}",
+                    headers={"User-Agent": "verificador-guia/1.0 (mailto:madkoding@gmail.com)"},
+                )
+                with urllib.request.urlopen(pet, timeout=30) as resp:
+                    registro = json.load(resp)["message"]
+                titulo = (registro.get("title") or ["?"])[0]
+                anio = ((registro.get("issued", {}).get("date-parts") or [[None]])[0] or [None])[0]
+                return "ok", "", json.dumps({"titulo": titulo, "anio": anio}, ensure_ascii=False)
+            except urllib.error.HTTPError as e:
+                if e.code == 404:
+                    return "error", f"el DOI no existe en Crossref (404): {doi}", ""
+                if e.code == 429 and intento < 3:
+                    time.sleep(2 * (intento + 1))
+                    continue
+                return "aviso", f"Crossref respondio {e.code} para {doi}", ""
+            except Exception as e:  # noqa: BLE001
+                if intento < 3:
+                    time.sleep(2 * (intento + 1))
+                    continue
+                return "aviso", f"no se pudo verificar {doi} ({type(e).__name__})", ""
+        return "aviso", f"no se pudo verificar {doi}", ""
+
+    try:
+        pet = urllib.request.Request(url, method="GET", headers={"User-Agent": "Mozilla/5.0 (verificador HTLB-CL)"})
+        with urllib.request.urlopen(pet, timeout=20) as resp:
+            if resp.status >= 400:
+                return "error", f"la URL responde {resp.status}", ""
+        return "ok", "", ""
+    except urllib.error.HTTPError as e:
+        # 5xx en sitios oficiales suele ser un fallo transitorio del servidor: un reintento
+        # separa "el enlace esta mal" de "el sitio tosio una vez". 403/429/503 = aviso directo.
+        if e.code >= 500:
+            time.sleep(3)
+            try:
+                pet = urllib.request.Request(url, method="GET", headers={"User-Agent": "Mozilla/5.0 (verificador HTLB-CL)"})
+                with urllib.request.urlopen(pet, timeout=25) as resp:
+                    if resp.status < 400:
+                        return "ok", "", ""
+            except Exception:  # noqa: BLE001
+                pass
+            return "aviso", f"HTTP {e.code} (dos intentos)", ""
+        return ("aviso" if e.code in (403, 429, 503) else "error"), f"HTTP {e.code}", ""
+    except Exception as e:  # noqa: BLE001 - red: cualquier fallo se reporta tal cual
+        host = urllib.parse.urlsplit(url).netloc.lower()
+        return ("aviso" if host in HOSTS_BLOQUEAN_BOTS else "error"), f"no se pudo abrir ({type(e).__name__})", ""
+
+
+def probar_urls(items: list[dict], limite: int = 1200, hilos: int = 12, usar_cache: bool = True) -> list[Hallazgo]:
+    """Prueba las URLs en paralelo. Un corpus de 800+ enlaces en serie tarda mas que un timeout.
+
+    El resultado se guarda en tools/.cache/urls.json para que una corrida cortada no obligue a
+    empezar de nuevo (se reusa lo ya probado; borra el archivo para forzar una revision completa).
+    """
+    from concurrent.futures import ThreadPoolExecutor
+
+    cache_path = pathlib.Path(__file__).resolve().parent / ".cache" / "urls.json"
+    cache: dict[str, list[str]] = {}
+    if usar_cache and cache_path.exists():
+        try:
+            cache = json.loads(cache_path.read_text(encoding="utf-8"))
+        except Exception:  # noqa: BLE001
+            cache = {}
+
     hallazgos: list[Hallazgo] = []
     vistas: dict[str, tuple[str, int, int]] = {}
     for item in items:
@@ -359,57 +436,33 @@ def probar_urls(items: list[dict], limite: int = 1200) -> list[Hallazgo]:
             vistas.setdefault(url, (item["archivo"], item["linea"], item["numero"]))
     por_url = {url: item for item in items for url in item["urls"]}
 
-    for n, (url, (archivo, linea, numero)) in enumerate(sorted(vistas.items())):
-        if n >= limite:
-            hallazgos.append(
-                Hallazgo("AVISO", "—", 0, f"quedan {len(vistas) - limite} URLs sin probar (limite {limite})")
-            )
-            break
-        # Los DOI se verifican contra Crossref: responde 200 si el DOI existe, y ademas
-        # permite confirmar que el titulo real coincide con el citado.
-        if "doi.org/" in url:
-            doi = url.split("doi.org/", 1)[1].strip()
-            try:
-                pet = urllib.request.Request(
-                    f"https://api.crossref.org/works/{urllib.parse.quote(doi)}",
-                    headers={"User-Agent": "verificador-guia/1.0 (mailto:madkoding@gmail.com)"},
-                )
-                with urllib.request.urlopen(pet, timeout=25) as resp:
-                    registro = json.load(resp)["message"]
-                titulo = (registro.get("title") or ["?"])[0]
-                anio = ((registro.get("issued", {}).get("date-parts") or [[None]])[0] or [None])[0]
-                dueno = por_url[url]
-                dueno["_doi_titulo"] = dueno.get("_doi_titulo", {})
-                dueno["_doi_titulo"][doi] = {"titulo": titulo, "anio": anio}
-            except urllib.error.HTTPError as e:
-                if e.code == 404:
-                    hallazgos.append(
-                        Hallazgo("ERROR", archivo, linea, f"item {numero}: el DOI no existe en Crossref (404): {doi}")
-                    )
-                else:
-                    hallazgos.append(Hallazgo("AVISO", archivo, linea, f"item {numero}: Crossref respondio {e.code} para {doi}"))
-            except Exception as e:  # noqa: BLE001
-                hallazgos.append(Hallazgo("AVISO", archivo, linea, f"item {numero}: no se pudo verificar {doi} ({type(e).__name__})"))
-            continue
+    pendientes = [u for u in sorted(vistas) if u not in cache][:limite]
+    if len(vistas) > limite:
+        hallazgos.append(Hallazgo("AVISO", "—", 0, f"{len(vistas) - limite} URLs sin probar (limite {limite})"))
 
+    if pendientes:
+        with ThreadPoolExecutor(max_workers=hilos) as pool:
+            for url, (nivel, mensaje, detalle) in zip(pendientes, pool.map(_probar_una, pendientes)):
+                cache[url] = [nivel, mensaje, detalle]
         try:
-            pet = urllib.request.Request(url, method="GET", headers={"User-Agent": "Mozilla/5.0 (verificador HTLB-CL)"})
-            with urllib.request.urlopen(pet, timeout=15) as resp:
-                if resp.status >= 400:
-                    hallazgos.append(
-                        Hallazgo("ERROR", archivo, linea, f"item {numero}: la URL responde {resp.status}: {url}")
-                    )
-        except urllib.error.HTTPError as e:
-            nivel = "AVISO" if e.code in (403, 429, 503) else "ERROR"
-            hallazgos.append(Hallazgo(nivel, archivo, linea, f"item {numero}: HTTP {e.code} en {url}"))
-        except Exception as e:  # noqa: BLE001 - red: cualquier fallo se reporta tal cual
-            # Muchos sitios .gob.cl bloquean la consulta automatica o fallan por certificado,
-            # pero abren en un navegador: no se reportan como error.
-            host = urllib.parse.urlsplit(url).netloc.lower()
-            nivel = "AVISO" if host in HOSTS_BLOQUEAN_BOTS else "ERROR"
-            hallazgos.append(
-                Hallazgo(nivel, archivo, linea, f"item {numero}: no se pudo abrir {url} ({type(e).__name__})")
-            )
+            cache_path.parent.mkdir(parents=True, exist_ok=True)
+            cache_path.write_text(json.dumps(cache, ensure_ascii=False, indent=0), encoding="utf-8")
+        except Exception:  # noqa: BLE001
+            pass
+
+    for url, (archivo, linea, numero) in sorted(vistas.items()):
+        entrada = cache.get(url)
+        if not entrada:
+            continue
+        nivel, mensaje, detalle = entrada
+        if nivel == "ok":
+            if detalle and url in por_url:
+                doi = url.split("doi.org/", 1)[1].strip()
+                por_url[url].setdefault("_doi_titulo", {})[doi] = json.loads(detalle)
+            continue
+        hallazgos.append(
+            Hallazgo(nivel.upper(), archivo, linea, f"item {numero}: {mensaje}: {url}")
+        )
     return hallazgos
 
 

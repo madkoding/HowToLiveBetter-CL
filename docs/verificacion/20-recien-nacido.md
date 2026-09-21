@@ -5,6 +5,24 @@ Pendientes abiertos al escribir `guia/20-recien-nacido.md`. Cada uno calza con u
 
 ---
 
+- `guia/20-recien-nacido.md` ítem 9, Notas
+  Dato: el monto del Bono por Control Niño Sano aparece como $10.000 mensuales por cada menor de 6
+  años en la ficha del beneficio y como $11.000 en la página de momentos de vida de ChileAtiende.
+  Sospecha: el monto vigente para 2026 es uno de los dos, y las dos páginas son del mismo sitio
+  oficial; la ficha está fechada y la página de momentos de vida no.
+  Fuentes leídas, que se contradicen: ChileAtiende. Bono por Control Niño Sano (ficha 20073),
+  "última actualización: 1 de marzo de 2026", dice "Para el año 2026 asciende a $10.000 mensual por
+  cada niño o niña menor de 6 años del grupo familiar"
+  (<https://www.chileatiende.gob.cl/fichas/20073-bono-por-control-nino-sano>); ChileAtiende. Pide
+  apoyo cuando nazca el bebé, dice "podrás recibir un monto de $11.000 mensuales por cada niño o
+  niña de seis años de tu grupo familiar"
+  (<https://www.chileatiende.gob.cl/momentos-de-vida/Tener+un+hijo+o+hija/Pide+apoyo+cuando+nazca+el+beb%C3%A9>).
+  Cómo cerrarlo: preguntar en la municipalidad o al 101, o esperar la próxima actualización de la
+  ficha; mientras no se resuelva, el ítem queda con las dos cifras separadas por un año de
+  referencia y la marca `POR VERIFICAR`.
+  Nota: el mismo ítem cita la cobertura de 71,0% del control de 0 a 9 años como dato de 2019, que es
+  el último publicado en la norma; no es una cifra del año en curso.
+
 - `guia/20-recien-nacido.md` ítem 1, Notas
   Dato: el ítem no da un precio de referencia 2026 para una cuna y un colchón firmes, y remite el
   costo de comprarlos a la nota.
@@ -72,6 +90,39 @@ Pendientes abiertos al escribir `guia/20-recien-nacido.md`. Cada uno calza con u
 - `https://www.conaset.cl/` no respondió a la consulta automática en el momento de escribir; la
   normativa de sillas de retención infantil se cita a través del capítulo 01, que ya la verificó y
   dejó su propio pendiente sobre el número de artículo vigente de la Ley de Tránsito.
+
+## Correcciones aplicadas al revisar el capítulo (segunda pasada)
+
+Cuatro datos del borrador no calzaban con la fuente y se corrigieron; quedan anotados acá para que
+nadie los reponga:
+
+1. **Ítem 6, fechas de las vacunas de los 12 y 18 meses.** El borrador ponía el refuerzo de
+   neumocócica a los 12 meses y la segunda dosis de SRP a los 18 meses. El calendario oficial 2026
+   los ubica al revés: la SRP segunda dosis va a los 36 meses (columna "dTpa" del cuadro, x=1303,
+   está en la fila "DIFTERIA, TÉTANOS Y TOS CONVULSIVA (ACELULAR)", es decir 1° y 4° básico), el
+   refuerzo de neumocócica conjugada va a los 12 meses (columna x=1018) y a los 18 meses va la
+   primera dosis de varicela (columna x=1101). Se corrigió leyendo el PDF por coordenadas con
+   pypdf, y el detalle quedó en el ítem.
+2. **Ítem 6, puesta al día.** El borrador atribuía a la Norma Técnica un texto sobre "indagar las
+   causas" de los atrasos que la norma no tiene; lo que dice es que en el control de los 2, 3 y 4
+   meses hay que revisar el calendario y derivar al vacunatorio del centro de salud.
+3. **Ítem 10, copago.** El borrador afirmaba que el copago es cero para los tramos A, B y C en la
+   modalidad institucional. Eso es del sistema antiguo de Fonasa: lo que está verificado es el
+   Copago Cero, que hace gratuitas las atenciones del sistema público, y que la ley prohíbe exigir
+   dinero por adelantado en una urgencia vital (capítulo 07). Se reemplazó por la formulación
+   verificada.
+4. **Ítem 13, mención de la vitamina K en documentos de MINSAL.** El borrador decía que no había
+   ninguna mención en documentos de MINSAL. Sí la hay: la orientación técnica para la atención del
+   recién nacido en la unidad de puerperio habla del "aseo de la piel donde se colocará vitamina K
+   y otros tratamientos inyectables". El pendiente sigue abierto, pero acotado a la dosis y la vía
+   oficiales.
+
+Además se quitó del ítem 16 el OR de alarma de humo funcional (1,81) y el plan de escape de
+incendio (2,01), ambos de la misma revisión Cochrane pero ya citados en el capítulo 01 ítem 4; el
+ítem conserva solo los tres OR que no están en otro capítulo y suma el contraste de que la misma
+revisión no encontró evidencia de menos quemaduras ni intoxicaciones. Del ítem 15 se recortó el
+inventario completo del ajuar y del ítem 4 la estimación de The Lancet sobre lactancia, ambos con
+cifras que el capítulo 18 ya publica: el contrato prohíbe duplicar.
 
 ## Cerrados
 

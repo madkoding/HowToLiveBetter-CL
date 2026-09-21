@@ -19,12 +19,14 @@ jobs:
       - name: Validar estructura de la guia
         run: python3 tools/verificar.py
 
+      - name: Los conteos del README tienen que calzar con guia/
+        run: python3 tools/sincronizar.py --revisar
+
       - name: Construir los datos del buscador
         run: python3 tools/construir.py
 
       - name: El buscador tiene que quedar sincronizado con la guia
         run: |
-          python3 tools/construir.py
           if ! git diff --quiet -- datos.json; then
             echo "::error::datos.json esta desactualizado. Corre: python3 tools/construir.py"
             git diff --stat -- datos.json
