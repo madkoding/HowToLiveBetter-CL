@@ -44,12 +44,17 @@ MEDIDA = {"muerte", "plata", "tiempo", "libertad"}
 MARCA = "VERIFY"
 
 # Words that must not appear in the plain-language field: the reader there is not a statistician.
+# Matched as word-boundary regexes. A bare substring search for "or:" fires on "mayor:",
+# "menor:", "superior:" — the checker then cries wolf and gets ignored, which defeats it.
 PROHIBIDAS_SIMPLE = [
-    "RR ", "RR:", "HR ", "HR:", " OR ", "OR:", "IC ", "IC95", "CI ", "CI95",
-    "cohorte", "cohort", "metaanálisis", "meta-analysis", "meta analysis",
-    "ensayo clínico", "randomized trial", "odds ratio", "hazard ratio",
-    "intervalo de confianza", "confidence interval",
-    "estadísticamente significativo", "statistically significant", "p<", "p <", "p=",
+    r"\bRR\b", r"\bHR\b", r"\bOR\b", r"\bIC\b", r"\bCI\b",
+    r"IC\s*95", r"IC95", r"CI\s*95", r"CI95",
+    r"\bcohorte\b", r"\bcohort\b", r"\bmetaan[aá]lisis\b", r"\bmeta-analysis\b", r"\bmeta analysis\b",
+    r"\bensayo cl[ií]nico\b", r"\brandomi[sz]ed trial\b",
+    r"\bodds ratio\b", r"\bhazard ratio\b",
+    r"\bintervalo de confianza\b", r"\bconfidence interval\b",
+    r"\bestad[ií]sticamente significativ[oa]\b", r"\bstatistically significant\b",
+    r"\bp\s*[<=>]\s*0?[.,]\d",
 ]
 PALABRAS_MARKETING = [
     "poderoso", "revolucionario", "increíble", "definitivo", "garantizado",
@@ -173,9 +178,12 @@ def revisar_capitulo(ruta: pathlib.Path) -> tuple[list[Hallazgo], list[dict]]:
 
         simple = valores.get("En simple", "")
         bajo = simple.lower()
-        for palabra in PROHIBIDAS_SIMPLE:
-            if palabra.lower() in bajo:
-                h.append(Hallazgo("ERROR", nombre, i + 1, f"item {numero}: 'En simple' usa estadistica cruda ('{palabra.strip()}')"))
+        for patron in PROHIBIDAS_SIMPLE:
+            m = re.search(patron, simple, re.I)
+            if m:
+                h.append(
+                    Hallazgo("ERROR", nombre, i + 1, f"item {numero}: 'En simple' usa estadistica cruda ('{m.group(0)}')")
+                )
         for palabra in PALABRAS_MARKETING:
             if palabra.lower() in bajo:
                 h.append(Hallazgo("AVISO", nombre, i + 1, f"item {numero}: 'En simple' usa lenguaje de marketing ('{palabra}')"))
