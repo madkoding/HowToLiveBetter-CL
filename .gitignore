@@ -15,4 +15,9 @@ docs/investigacion/_cache/
 docs/investigacion/_raw/
 docs/investigacion/*.py
 
-# Se conserva a propósito: docs/investigacion/*.md (informes con fuentes citadas)
+# Dossiers de redacción (_brief): contienen el texto original en inglés con fuentes
+# del país de origen. Son material de trabajo interno, no capítulos de la guía.
+docs/briefs/
+
+# Se conserva a propósito: docs/investigacion/*.md (informes con fuentes citadas),
+# docs/investigacion/anclas-verificadas.md y docs/verificacion/ (registro de pendientes).

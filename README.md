@@ -4,7 +4,7 @@
 Adaptación chilena de [**HowToLiveBetter**](https://github.com/dlgrv/HowToLiveBetter) — la guía
 ordenada por costo/beneficio que reúne 528 recomendaciones con su evidencia y su fuente.
 
-**Estado:** 26 de 32 capítulos escritos, **462 ítems** (371 grado A, 74 grado B, 17 grado C).
+**Estado:** los 32 capítulos completos, **568 ítems** (459 grado A, 89 grado B, 20 grado C).
 
 **Cada recomendación dice lo mismo, siempre:** cuánto cuesta (en plata y en tiempo), qué te
 devuelve, **qué tan dura es la evidencia** (A, B o C), y **de dónde sale el dato**. Si no hay

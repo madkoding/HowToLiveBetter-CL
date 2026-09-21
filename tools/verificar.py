@@ -63,6 +63,8 @@ HOSTS_BLOQUEAN_BOTS = {
     "www.sml.gob.cl", "sml.gob.cl",
     "www.ispch.gob.cl", "www.anci.gob.cl",
     "www.pdichile.cl", "www.superintendenciadeeducacion.gob.cl",
+    "anid.cl", "www.anid.cl",
+    "www.ingresa.cl", "www.dgac.gob.cl",
 }  # fmt: skip
 
 # Palabras que no pueden aparecer en "En simple": el lector de esa linea no es estadistico.
@@ -349,7 +351,7 @@ def revisar_readme(total: int, niveles: Counter) -> list[Hallazgo]:
     return hallazgos
 
 
-def probar_urls(items: list[dict], limite: int = 400) -> list[Hallazgo]:
+def probar_urls(items: list[dict], limite: int = 1200) -> list[Hallazgo]:
     hallazgos: list[Hallazgo] = []
     vistas: dict[str, tuple[str, int, int]] = {}
     for item in items:
