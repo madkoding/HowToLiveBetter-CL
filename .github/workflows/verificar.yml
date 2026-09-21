@@ -10,11 +10,13 @@ jobs:
   guia:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
+      # --- Puertas duras: si alguna falla, el commit esta mal ---
 
       - name: Validar estructura de la guia
         run: python3 tools/verificar.py
@@ -33,16 +35,29 @@ jobs:
             exit 1
           fi
 
-      - name: Revisar los enlaces citados
-        continue-on-error: true
-        run: python3 tools/verificar.py --urls
+      # --- Enlaces: informativo, nunca hace fallar el job ---
+      # Muchos sitios oficiales (.gob.cl) devuelven 403 o tienen el certificado roto y abren
+      # igual en un navegador: si esto fallara el job, un sitio caido bloquearia los commits.
 
-      - name: Publicar el informe de verificacion
-        if: always()
+      - name: Revisar los enlaces citados (informativo)
+        run: |
+          set +e
+          python3 tools/verificar.py --urls > enlaces.txt 2>&1
+          echo "### Enlaces citados" >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          grep -E '^(Capitulos|Evidencia|Medidas|Datos)' enlaces.txt >> "$GITHUB_STEP_SUMMARY" || true
+          tail -3 enlaces.txt >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          exit 0
+
+      - name: Informe de verificacion (JSON)
         run: python3 tools/verificar.py --json > verificacion.json || true
 
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: verificacion
-          path: verificacion.json
+          path: |
+            verificacion.json
+            enlaces.txt
+          if-no-files-found: warn

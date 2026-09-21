@@ -13,6 +13,7 @@ valor publicado por el Servicio de Impuestos Internos,
 | Referencia cruzada a la Ley 20.000 en el capítulo 09 | 6 | `guia/09-lineas-rojas-legales.md` |
 | Precio en Chile de una lámpara de luz brillante de 10.000 lux | 10 | Comercio establecido / arancel del ISP |
 | Tiempo de espera publicado en atención primaria por consulta de salud mental | 17 | MINSAL / Superintendencia de Salud |
+| Ensayo aleatorizado de reducir el uso de redes en adultos y estudios de video corto (TikTok, Reels) con desenlace de ánimo | 15 | PubMed / Europe PMC |
 
 ---
 
@@ -83,10 +84,13 @@ valor publicado por el Servicio de Impuestos Internos,
   umbrales y penas de la conducción ebria, que está leído en el 08. Cierre: 20 de septiembre de 2026.
 - **Ítem 7** (juego y apuestas): la referencia cruzada del capítulo 09 anota que la "Ley 21.591"
   sobre apuestas en línea no existe (es la ley de royalty minero) y que la materia seguía en
-  tramitación. Este capítulo conserva esa constancia y agrega lo que sí se leyó: el artículo 12 de
+  tramitación. Este capítulo conserva esa constancia y agrega lo que sí se leyó: el artículo 5 de
   la Ley 19.995, que excluye los juegos de azar en línea del permiso de operación de casino, más el
   Sistema Nacional de Autoexclusión Voluntaria de la SCJ. No se cita ningún número de ley de
   apuestas en línea. Cierre: 20 de septiembre de 2026.
+- **Ítem 15** (redes sociales): el capítulo conserva las tres fuentes del original (Hunt 2018,
+  Orben & Przybylski 2019, Braghieri 2022) y agrega la constancia de que ninguna prueba efecto
+  terapéutico. Cierre: 20 de septiembre de 2026.
 
 ## Notas de método
 

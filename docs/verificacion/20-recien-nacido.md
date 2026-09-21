@@ -61,8 +61,10 @@ Pendientes abiertos al escribir `guia/20-recien-nacido.md`. Cada uno calza con u
   Mientras no exista, el ítem cita solo el consenso belga con su DOI y no afirma nada sobre el
   protocolo chileno.
 
-- `guia/20-recien-nacido.md` ítem 18, Notas
-  Dato: el ítem cita la prohibición de exigir dinero, cheques u otros instrumentos financieros para
+- `guia/20-recien-nacido.md` ítem 18, Notas — **HISTÓRICO: el ítem 18 original se eliminó y se
+  reemplazó por otro** (ver "Pendiente que se cerró al reescribir el ítem 18", al final). Se deja acá
+  como registro de por qué se cambió.
+  Dato: el ítem citaba la prohibición de exigir dinero, cheques u otros instrumentos financieros para
   garantizar el pago de una atención de urgencia, tomada del texto de la Ley 19.650 que modifica el
   DFL 1 de 2005 del Ministerio de Salud, pero no indica el número del artículo del texto refundido
   vigente donde quedó.
