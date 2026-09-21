@@ -126,6 +126,8 @@ quiera revisar por su cuenta.
 
 ## Reglas del proyecto
 
+- [METODO.md](METODO.md) — cómo se hizo la guía: qué se conservó del original, qué se
+  reemplazó, los dos niveles de verificación y qué significan los datos marcados POR VERIFICAR.
 - [ADAPTACION.md](ADAPTACION.md) — el contrato: qué se conserva, qué se reemplaza, formato de
   ítem, grados de evidencia, fuentes aceptadas y prohibiciones.
 - [PLAN.md](PLAN.md) — los 32 capítulos y qué los alimenta.
