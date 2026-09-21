@@ -4,7 +4,7 @@
 Adaptación chilena de [**HowToLiveBetter**](https://github.com/dlgrv/HowToLiveBetter) — la guía
 ordenada por costo/beneficio que reúne 528 recomendaciones con su evidencia y su fuente.
 
-**Estado:** 11 capítulos escritos, 204 ítems (158 grado A, 37 grado B, 9 grado C).
+**Estado:** 17 de 32 capítulos escritos, **308 ítems** (234 grado A, 60 grado B, 14 grado C).
 
 **Cada recomendación dice lo mismo, siempre:** cuánto cuesta (en plata y en tiempo), qué te
 devuelve, **qué tan dura es la evidencia** (A, B o C), y **de dónde sale el dato**. Si no hay
@@ -51,8 +51,8 @@ python3 tools/construir.py        # regenera datos.json desde guia/
 python3 -m http.server 8000       # abre http://localhost:8000
 ```
 
-Con los capítulos escritos hasta ahora: **204 ítems**, de los cuales **158 son grado A**, 37 grado B
-y 9 grado C.
+Con los capítulos escritos hasta ahora: **291 ítems**, de los cuales **217 son grado A**, 60 grado B
+y 14 grado C.
 
 En GitHub, activar Pages (Deploy from a branch → main → /) y queda online.
 
