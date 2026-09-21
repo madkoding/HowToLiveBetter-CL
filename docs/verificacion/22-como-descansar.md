@@ -17,23 +17,27 @@ valor publicado por el Servicio de Impuestos Internos,
 
 ---
 
-## 1. `guia/22-como-descansar.md` ítem 6, Notas
+## 1. CERRADO el 2026-09-21 — `guia/22-como-descansar.md` ítem 6, Notas: la referencia cruzada apuntaba a la nada
 - Dato: el capítulo cita la Ley 20.000 (drogas) en su artículo 5, que castiga al que "sin el
   consentimiento de la persona afectada le administre a ésta alguna de las sustancias referidas",
   y en su artículo 50, que sanciona el consumo o porte de drogas en lugares públicos y abiertos al
   público.
-- Sospecha: el encargo del capítulo 22 indica que "la línea roja está en el 09 y el tratamiento en
-  el 29, acá solo el riesgo del entorno (no aceptar tragos de desconocidos)". Al leer
-  `guia/09-lineas-rojas-legales.md` completo, ese capítulo **no contiene ningún ítem de la Ley
-  20.000**: lo único que la menciona es el artículo 27 de la Ley 19.913 (lavado de activos), que la
-  toma como delito base. La Ley 20.000 sí está cacheada y leída en
-  `tools/.cache/leychile/idLey_20000.txt` y los artículos 3, 5 y 50 están citados textualmente en el
-  ítem 6 de este capítulo.
-- Fuente que no se pudo leer: `https://www.bcn.cl/leychile/navegar?idLey=20000` — la URL abre (200),
-  así que el problema no es el enlace sino la ausencia del ítem en el capítulo 09.
-- Cómo cerrarlo: agregar en el capítulo 09 un ítem de la Ley 20.000 (portar para vender, el límite
-  entre consumo personal y tráfico, el artículo 4), o dejar en el capítulo 22 la referencia cruzada
-  corregida apuntando a que el régimen de la Ley 20.000 se cita en ese mismo capítulo.
+- El problema detectado: el encargo del capítulo 22 indicaba que "la línea roja está en el 09", pero
+  al leer `guia/09-lineas-rojas-legales.md` completo, ese capítulo **no contenía ningún ítem de la
+  Ley 20.000**: lo único que la mencionaba era el artículo 27 de la Ley 19.913 (lavado de activos),
+  que la toma como delito base. La referencia cruzada del 22 apuntaba a un ítem que no existía.
+- Cómo se cerró: se agregó al capítulo 09 el **ítem 23**, con el artículo 3 de la Ley 20.000 leído
+  en el texto oficial —el que define que trafican quienes, sin autorización, "importen, exporten,
+  transporten, adquieran, transfieran, sustraigan, posean, suministren, guarden o porten" las
+  sustancias, y quienes "por cualquier medio, induzcan, promuevan o faciliten el uso o consumo"—,
+  más el artículo 1 (penas según la sustancia) y el artículo 5 (administrar sin consentimiento). La
+  nota del ítem 6 del capítulo 22 se corrigió para apuntar al 09, ítem 23.
+- Fuente leída: `https://www.bcn.cl/leychile/navegar?idLey=20000`, artículos 1, 3 y 5, vía
+  `tools/leychile.py art idLey=20000 3`. También está el texto en
+  `tools/.cache/leychile/idLey_20000.txt`.
+- Por qué importa: una referencia cruzada que apunta a un ítem inexistente es peor que no tener
+  referencia — el lector busca, no encuentra y desconfía del resto. Se detectó porque el redactor
+  del 22 leyó el capítulo 09 completo en vez de suponer que contenía lo que el encargo decía.
 
 ## 2. `guia/22-como-descansar.md` ítem 10, Costo y Notas
 - Dato: la terapia de luz brillante tiene respaldo para la depresión mayor no estacional
