@@ -61,3 +61,4 @@ jobs:
             verificacion.json
             enlaces.txt
           if-no-files-found: warn
+          retention-days: 7

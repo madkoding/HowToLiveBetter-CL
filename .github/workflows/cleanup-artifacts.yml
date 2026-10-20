@@ -1,0 +1,99 @@
+name: cleanup-artifacts
+
+# Keeps the Actions storage of this repository bounded. The CI publishes one
+# artifact per built platform on every push, so without a sweep the storage
+# grows by a few GB per day and only gets reclaimed after the 90-day default
+# retention expires.
+on:
+  schedule:
+    # Every day at 04:41 UTC, off the hour to avoid the scheduled-workflow rush.
+    - cron: "41 4 * * *"
+  workflow_dispatch:
+    inputs:
+      max_age_days:
+        description: "Delete artifacts older than this many days"
+        required: false
+        default: "7"
+
+# Nothing at the workflow level: the job below asks for what it uses.
+permissions: {}
+
+concurrency:
+  group: cleanup-artifacts
+  cancel-in-progress: false
+
+jobs:
+  purge:
+    name: purge stale artifacts and caches
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: read
+    steps:
+      - name: Delete artifacts and caches past the retention window
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MAX_AGE_DAYS: ${{ inputs.max_age_days || '7' }}
+          CACHE_AGE_DAYS: "30"
+        run: |
+          set -euo pipefail
+
+          repo="${GITHUB_REPOSITORY}"
+          cutoff="$(date -u -d "${MAX_AGE_DAYS} days ago" +%Y-%m-%dT%H:%M:%SZ)"
+          cache_cutoff="$(date -u -d "${CACHE_AGE_DAYS} days ago" +%Y-%m-%dT%H:%M:%SZ)"
+
+          echo "repo=${repo}"
+          echo "artefactos anteriores a ${cutoff} (${MAX_AGE_DAYS}d)"
+          echo "caches anteriores a    ${cache_cutoff} (${CACHE_AGE_DAYS}d)"
+
+          # The endpoints are written without the leading slash on purpose: gh
+          # resolves them against api.github.com, and a leading slash gets
+          # rewritten into a filesystem path by the MSYS shell of Git for
+          # Windows.
+          #
+          # The artifacts endpoint ignores the `created` filter, so every page is
+          # listed and the ones past the cutoff are picked here.
+          artifact_ids=$(gh api "repos/${repo}/actions/artifacts?per_page=100" --paginate \
+            --jq ".artifacts[] | select(.created_at < \"${cutoff}\") | .id" || true)
+
+          deleted_artifacts=0
+          if [ -n "${artifact_ids}" ]; then
+            while read -r id; do
+              # Only real ids: an error response prints its JSON body instead
+              # of the list.
+              [[ "${id}" =~ ^[0-9]+$ ]] || continue
+              if gh api --method DELETE "repos/${repo}/actions/artifacts/${id}" >/dev/null 2>&1; then
+                deleted_artifacts=$((deleted_artifacts + 1))
+              else
+                echo "  ! no se pudo borrar el artefacto ${id}" >&2
+              fi
+            done <<< "${artifact_ids}"
+          fi
+
+          # Caches are kept far longer than artifacts: they only make the next
+          # build faster, so they are worth the space until they go stale.
+          cache_ids=$(gh api "repos/${repo}/actions/caches?per_page=100" --paginate \
+            --jq ".actions_caches[] | select(.last_accessed_at < \"${cache_cutoff}\") | .id" || true)
+
+          deleted_caches=0
+          if [ -n "${cache_ids}" ]; then
+            while read -r id; do
+              [[ "${id}" =~ ^[0-9]+$ ]] || continue
+              if gh api --method DELETE "repos/${repo}/actions/caches/${id}" >/dev/null 2>&1; then
+                deleted_caches=$((deleted_caches + 1))
+              else
+                echo "  ! no se pudo borrar la cache ${id}" >&2
+              fi
+            done <<< "${cache_ids}"
+          fi
+
+          echo "artefactos borrados: ${deleted_artifacts}"
+          echo "caches borradas:     ${deleted_caches}"
+
+          {
+            echo "### cleanup-artifacts (${repo})"
+            echo ""
+            echo "- artefactos borrados: ${deleted_artifacts}"
+            echo "- caches borradas: ${deleted_caches}"
+            echo "- ventana de artefactos: ${MAX_AGE_DAYS}d"
+          } >> "${GITHUB_STEP_SUMMARY}"
